@@ -1,0 +1,25 @@
+# description: Where to import from
+# type: string
+# required: true
+src: ./notes.json
+
+# description: name of vault to import into
+# type: string
+# required: true
+vaultName: vault
+
+# description: whether to concatenate everything into one note
+# type: boolean
+# concatenate: TODO
+
+# description: frontmatter to add to each note
+# type: object
+# frontmatter: TODO
+
+# description: use the file name as the id
+# type: boolean
+# fnameAsId: TODO
+
+# description: If concatenate is set, name of destination path
+# type: string
+# destName: TODO
