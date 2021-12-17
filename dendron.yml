@@ -16,6 +16,7 @@ site:
         - tags
     siteRootDir: docs
     siteUrl: 'https://namjul.github.io/thestoa/'
+    assetsPrefix: 'https://namjul.github.io/thestoa/'
     usePrettyRefs: true
     title: TheStoa
     description: Don't explain your philosophy. Embody it. - Epictetus
