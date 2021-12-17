@@ -1,0 +1,46 @@
+---
+id: CH2wBkokmLiraOzFbFrxq
+title: X-Risk
+desc: ' How Humanity Discovered Its Own Extinction'
+updated: 1639759165168
+created: 1615849200000
+---
+
+
+ How Humanity Discovered Its Own Extinction
+
+Tue Mar 16 2021
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mAImdUrax2Y" title="X-Risk: How Humanity Discovered Its Own Extinction w/ Thomas Moynihan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+
+March 16th, 2021
+
+This session is a part of the "Let Us Maybe Make the Meta-Crisis Our Superordinate Goal Symposium"
+
+Thomas Moynihan visits The Stoa to discuss his book: X-Risk: How Humanity Discovered Its Own Extinction
+
+“From forecasts of disastrous climate change to prophecies of evil AI superintelligences and the impending perils of genome editing, our species is increasingly concerned with the prospects of its own extinction. With humanity's future on this planet seeming more insecure by the day, in the twenty-first century, existential risk has become the object of a growing field of serious scientific inquiry. But, as Thomas Moynihan shows in X-Risk, this preoccupation is not exclusive to the post-atomic age of global warming and synthetic biology. Our growing concern with human extinction itself has a history.”
+
+https://www.amazon.com/X-Risk-How-Humanity-Discovered-Extinction/dp/1913029840
+https://thomasmoynihan.com/
+
+Why are the YouTube comments disabled? Answer: https://thestoa.substack.com/p/stoic-punk-or-why-you-should-stop
+
+More events: thestoa.ca
+Regular updates: thestoa.substack.com
+Support stealing the culture: patreon.com/the_stoa
+Receive coaching with resonance: https://www.thestoa.ca/coaches
+
+## Persons
+
+- [[person.thomas-moynihan]]
+
+## Tags
+
+- #x-risk
+- #humanity
+
+## Topics
+
+- #topics.own-extinction
+

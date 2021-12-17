@@ -1,0 +1,49 @@
+---
+id: qg4EonjVQu8Ssms3oqonQ
+title: Metamodern Deep-Dives
+desc: ' Art'
+updated: 1639759165170
+created: 1601848800000
+---
+
+
+ Art
+
+Mon Oct 05 2020
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PAEubUB_oKg" title="Metamodern Deep-Dives: Art w/ Daniel Görtz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+
+This is a part of The Stoa's "Sensemaker in Residence" series: Metamodern Deep-Dives: Art, Spirituality, Sexuality, and Faith w/ Daniel Görtz.
+
+Session 1: October 5th 
+Session 2: October 12th
+Session 3: October 19th
+Session 4: October 26th
+
+Daniel Görtz of Metamoderna will explore four interrelated topics that have largely been left out in the online publications and the Hanzi Freinacht books (which focus on psychology and politics):
+
+* Metamodern aesthetics and arts * Metamodern gender, sexuality, and family relations * Metamodern spirituality * Metamodern religion
+
+This is a special occasion to delve into and discuss sides of metamodernism, its culture and philosophy, which are not part of Metamoderna’s usual focus areas. Here, you get to walk on thinner ice and into more sensitive and intimate realms of this emergent culture. 
+
+Topics that will be covered and reflected upon together include: the nature of beauty and its relationship to multiplicity and power, how to delineate postmodern from metamodern art, how female submission is reconstructed in a post-ironic and feminist-informed setting, post-feminism and neo-masculism, polyamory (and its dark side), tantric practices as transformational and traumatizing turning points, the meta-family, the dimensions of the landscapes of higher spiritual states, the reconstruction of karmic law in a nihilist and secular setting, the new religious symbolisms, cocreated ritualism, the lure of transcendental traditionalism, the post-saint, and the Headless God.
+
+Why are the YouTube comments disabled? Answer: https://thestoa.substack.com/p/stoic-punk-or-why-you-should-stop
+
+thestoa.ca
+patreon.com/the_stoa
+thestoa.substack.com
+
+## Persons
+
+- [[person.daniel-gortz]]
+
+## Tags
+
+- #metamodern
+- #art
+
+## Topics
+
+
+

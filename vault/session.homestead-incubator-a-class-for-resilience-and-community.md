@@ -1,0 +1,41 @@
+---
+id: Dceq8hD1TkEjqiMFnbZD4
+title: Homestead Incubator
+desc: ' A Class for Resilience and Community'
+updated: 1639759165177
+created: 1639350000000
+---
+
+
+ A Class for Resilience and Community
+
+Mon Dec 13 2021
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qZ6h-Usi_B4" title="Homestead Incubator: A Class for Resilience and Community w/ Ashley Colby" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+
+December 13th, 2021
+
+Come join previous Stoa guest and reluctant founder of Doomer Optimism Ashley Colby as she talks about her latest venture, the Homestead Incubator. In this session Ashley will discuss her philosophical predisposition toward hands-on and embodied learning, and how that led her to build a field school for experiential learning in Uruguay. As the pandemic played out, Ashley turned to twitter and found a community of other practitioners, people trying their hands at a land-based existence, and she fell into the Homestead corner of twitter. She also noticed a whole other group of aspirational homesteaders, people worried about the world we are in, and trying to build a lifestyle that's both more resilient and more connected with others. Fundamentally a connector, Ashley will talk about how she sees the opportunity to make a Homestead Incubator class as pairing those experienced homesteaders with the aspirational ones. She will discuss her several overlapping goals for the class: 1. To give an overview of perspectives, heuristics, and lessons from experienced practitioners, 2. To encourage people to make friendships with both mentors and other students, 3. Build a repository of hands-on, practical advice, and 4. Start to build out an alumni network of both instructors/students that blossoms into a million different classes, workshops, regional support groups, and events. Come and ask Ashley your burning questions about homesteading, localism, and a resilient life!
+
+Sign-up to the incubator here: https://docs.google.com/forms/d/e/1FAIpQLSfu0P9BNwVnXnZKLjFIKFiSzBmkrM4_X700y5Xf_QaUxSJ0OQ/viewform
+
+Why are the YouTube comments disabled? Answer: https://thestoa.substack.com/p/stoic-punk-or-why-you-should-stop
+
+More events: thestoa.ca
+Regular updates: thestoa.substack.com
+Support The Stoa: patreon.com/the_stoa
+
+## Persons
+
+- [[person.ashley-colby]]
+
+## Tags
+
+- #class
+- #resilience
+- #community
+
+## Topics
+
+- #topics.homestead-incubator
+
