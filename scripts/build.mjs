@@ -450,6 +450,10 @@ ${tags.map((tag) => `- #${tag.slug}`).join("\n")}
 
 ${topics.map((topic) => `- #topics.${topic.slug}`).join("\n")}
 
+## Series
+
+${series.map((_series) => `- [[series.${_series.slug}]]`).join("\n")}
+
 `,
   };
   dendronNotes.push(note);
