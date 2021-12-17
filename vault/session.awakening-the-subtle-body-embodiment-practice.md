@@ -2,7 +2,7 @@
 id: ZIkFeXkvxiiLYn6Dzi6bQ
 title: Awakening the Subtle Body
 desc: ' Embodiment Practice'
-updated: 1639759645920
+updated: 1639762693847
 created: 1636498800000
 ---
 

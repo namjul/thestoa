@@ -2,7 +2,7 @@
 id: rLkc5Pvg4jq9ykJtkrtUw
 title: The Side View
 desc: ' Attention Is an Art Form'
-updated: 1639759645919
+updated: 1639762693846
 created: 1614034800000
 ---
 

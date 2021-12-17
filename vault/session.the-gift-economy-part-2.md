@@ -2,7 +2,7 @@
 id: mvF7juOAU4potI1bUb5Qt
 title: The Gift Economy Part 2
 desc: ''
-updated: 1639759645920
+updated: 1639762693848
 created: 1589679234000
 ---
 

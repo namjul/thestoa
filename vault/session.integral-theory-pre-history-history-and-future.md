@@ -2,7 +2,7 @@
 id: FnKzuIkPiJGSqszHc4YAf
 title: Integral Theory
 desc: ' Pre-History, History, and Future'
-updated: 1639759645914
+updated: 1639762693841
 created: 1621202400000
 ---
 

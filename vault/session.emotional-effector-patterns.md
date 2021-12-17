@@ -2,7 +2,7 @@
 id: sdHJOtFgXc5TbJ8PAiXDe
 title: Emotional Effector Patterns
 desc: ''
-updated: 1639759645917
+updated: 1639762693844
 created: 1604444400000
 ---
 

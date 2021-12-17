@@ -2,7 +2,7 @@
 id: TiYvWmPvnEreE4VuzEEmS
 title: Governance Futurism
 desc: ''
-updated: 1639759645918
+updated: 1639762693845
 created: 1594072800000
 ---
 

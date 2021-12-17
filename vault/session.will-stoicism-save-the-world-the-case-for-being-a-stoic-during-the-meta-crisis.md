@@ -4,7 +4,7 @@ title: >-
   Will Stoicism Save the World? The Case for Being a Stoic During the
   Meta-Crisis
 desc: ''
-updated: 1639759645916
+updated: 1639762693843
 created: 1621375200000
 ---
 

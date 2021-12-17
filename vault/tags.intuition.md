@@ -2,7 +2,7 @@
 id: m0eWTIwogM9eqHj1Iq3NZ
 title: Intuition
 desc: ''
-updated: 1639759645931
-created: 1639759645931
+updated: 1639762693858
+created: 1639762693858
 ---
 

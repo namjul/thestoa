@@ -2,7 +2,7 @@
 id: KrOTrcXMpB6hsMJnLGQUp
 title: A 21st Century Vision of Wisdom
 desc: ' Session 2'
-updated: 1639759645920
+updated: 1639762693847
 created: 1602108000000
 ---
 

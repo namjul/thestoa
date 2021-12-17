@@ -2,7 +2,7 @@
 id: R46JoYjSgYYhT7E247Tu5
 title: The Smart Village
 desc: ''
-updated: 1639759645917
+updated: 1639762693845
 created: 1600120800000
 ---
 

@@ -2,7 +2,7 @@
 id: ORjleRatexSWVQliAdj8y
 title: Broadcasting in the Sensemaking Web
 desc: ' An Un-Masterclass'
-updated: 1639759645920
+updated: 1639762693848
 created: 1609282800000
 ---
 

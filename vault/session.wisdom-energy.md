@@ -2,7 +2,7 @@
 id: Jn1v1MNQtla-EawqHFrhr
 title: Wisdom Energy
 desc: ''
-updated: 1639759645918
+updated: 1639762693846
 created: 1628460000000
 ---
 

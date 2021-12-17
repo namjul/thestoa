@@ -2,7 +2,7 @@
 id: 3WdQPlE-KCWwPkzBrHIPg
 title: Overcoming Bias During COVID-19
 desc: ' Considering Deliberate Infection'
-updated: 1639759645920
+updated: 1639762693847
 created: 1585625728000
 ---
 

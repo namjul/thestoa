@@ -2,7 +2,7 @@
 id: oy9qf9UM4fD6qpENsn5wP
 title: Taking His Thoughts Wherever They Go
 desc: ''
-updated: 1639759645914
+updated: 1639762693841
 created: 1600639200000
 ---
 

@@ -2,7 +2,7 @@
 id: ixDmjD-BLg7Ck-E_Z-A6a
 title: 'Sacred Cows, Elephants in the Room, and other Noble Beasts'
 desc: ''
-updated: 1639759645916
+updated: 1639762693843
 created: 1591897394000
 ---
 

@@ -2,7 +2,7 @@
 id: 7RKooq-0nC9LSqJ3lFw4v
 title: Institutions and Situational Awareness
 desc: ''
-updated: 1639759645920
+updated: 1639762693847
 created: 1587009398000
 ---
 

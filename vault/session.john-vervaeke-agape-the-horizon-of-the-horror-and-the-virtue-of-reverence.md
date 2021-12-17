@@ -2,7 +2,7 @@
 id: TmidXyLRmAHhOOxJbYAL3
 title: John Vervaeke
 desc: ' Agape, the Horizon of the Horror, and the Virtue of Reverence '
-updated: 1639759645913
+updated: 1639762693840
 created: 1612917371000
 ---
 

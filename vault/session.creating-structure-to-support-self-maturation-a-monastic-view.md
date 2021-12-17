@@ -2,7 +2,7 @@
 id: oa-4_utSqqz9vw8jyW1P0
 title: Creating Structure to Support Self-Maturation
 desc: ' A Monastic View'
-updated: 1639759645917
+updated: 1639762693844
 created: 1578524400000
 ---
 

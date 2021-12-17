@@ -2,7 +2,7 @@
 id: k84_2GKIrrFSpO2PvEOdF
 title: Cultural Co-Evolver
 desc: ' Frameworks, Skillsets, & Strategy for Embodied Action'
-updated: 1639759645916
+updated: 1639762693843
 created: 1629064800000
 ---
 

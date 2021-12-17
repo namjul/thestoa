@@ -2,8 +2,8 @@
 id: c0el720rrOq5HKkiS4OdS
 title: Vandana Shiva
 desc: ''
-updated: 1639759645922
-created: 1639759645922
+updated: 1639762693849
+created: 1639762693849
 ---
 
 

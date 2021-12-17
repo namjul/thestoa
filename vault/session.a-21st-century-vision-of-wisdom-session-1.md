@@ -2,7 +2,7 @@
 id: aHWJuTzbyGlPKl8kBkMuB
 title: A 21st Century Vision of Wisdom
 desc: ' Session 1'
-updated: 1639759645918
+updated: 1639762693845
 created: 1602108000000
 ---
 

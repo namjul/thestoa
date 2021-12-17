@@ -2,7 +2,7 @@
 id: G4NPFrHB9cSGDEOwlU6G7
 title: Dunbar's Number
 desc: ''
-updated: 1639759645915
+updated: 1639762693842
 created: 1622066400000
 ---
 

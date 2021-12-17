@@ -2,7 +2,7 @@
 id: h1yvg5fYVNqTG9ZbTLYYt
 title: Verbal Aikido Mini-Practicum Part 1
 desc: ' Receiving the Attack'
-updated: 1639759645915
+updated: 1639762693842
 created: 1620597600000
 ---
 

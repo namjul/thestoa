@@ -2,7 +2,7 @@
 id: jYt670gqwMdls7j5Jr4L5
 title: Staying Inside
 desc: ' Solitude and Cultivating Interior Life'
-updated: 1639759645921
+updated: 1639762693849
 created: 1589055482000
 ---
 

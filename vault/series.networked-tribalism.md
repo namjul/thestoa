@@ -2,8 +2,8 @@
 id: l9Z4Qecw1-elD6ojz2Q3B
 title: Networked Tribalism
 desc: ''
-updated: 1639759645947
-created: 1639759645947
+updated: 1639762693870
+created: 1639762693870
 ---
 
 - [[Networked Tribalism: undefined|session.networked-tribalism]]

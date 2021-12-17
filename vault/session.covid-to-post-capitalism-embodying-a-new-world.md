@@ -2,7 +2,7 @@
 id: Nxd_UeF7cDotcxrR6pkuw
 title: COVID to Post-Capitalism
 desc: ' Embodying a New World'
-updated: 1639759645920
+updated: 1639762693848
 created: 1588978726000
 ---
 

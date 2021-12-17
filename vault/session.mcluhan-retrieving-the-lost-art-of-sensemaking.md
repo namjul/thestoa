@@ -2,7 +2,7 @@
 id: CDwZcfjONtOskE1LGIPKY
 title: McLuhan
 desc: ' Retrieving the Lost Art of Sensemaking'
-updated: 1639759645916
+updated: 1639762693844
 created: 1632780000000
 ---
 

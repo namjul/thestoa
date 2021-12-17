@@ -2,8 +2,8 @@
 id: uRU2tQdGgozFmhrT_Pi3z
 title: Ken Wilber
 desc: ''
-updated: 1639759645922
-created: 1639759645922
+updated: 1639762693850
+created: 1639762693850
 ---
 
 

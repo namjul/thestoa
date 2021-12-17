@@ -2,7 +2,7 @@
 id: opXeo6SgsJLvaOFUApmHF
 title: 'Counterculture Is Not Dead, It''s Just Sleeping in a Dark Forest'
 desc: ''
-updated: 1639759645917
+updated: 1639762693844
 created: 1622671200000
 ---
 

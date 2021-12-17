@@ -2,7 +2,7 @@
 id: aZxNW0HyhNLR8qT8T1cpb
 title: The Dark Stoa
 desc: ' The Necessity of Revenge'
-updated: 1639759645915
+updated: 1639762693843
 created: 1616108400000
 ---
 

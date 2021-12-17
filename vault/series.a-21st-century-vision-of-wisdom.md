@@ -2,8 +2,8 @@
 id: CJujAM2C2EgGFUKjADNNG
 title: A 21st Century Vision of Wisdom
 desc: ''
-updated: 1639759645947
-created: 1639759645947
+updated: 1639762693870
+created: 1639762693870
 ---
 
 - [[A 21st Century Vision of Wisdom:  Session 1|session.a-21st-century-vision-of-wisdom-session-1]]

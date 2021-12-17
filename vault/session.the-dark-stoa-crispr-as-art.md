@@ -2,7 +2,7 @@
 id: yLTYxOq-BckmzjZmHxl6V
 title: The Dark Stoa
 desc: ' CRISPR as Art'
-updated: 1639759645914
+updated: 1639762693841
 created: 1588284000000
 ---
 

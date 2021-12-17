@@ -2,7 +2,7 @@
 id: NLpomUVf-p5ehJP4Y-pIq
 title: A Facebook Banishment
 desc: ' The Game B Exodus'
-updated: 1639759645918
+updated: 1639762693845
 created: 1611529200000
 ---
 

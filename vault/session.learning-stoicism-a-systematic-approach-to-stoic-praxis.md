@@ -2,7 +2,7 @@
 id: Y_jOcP4CIeQSB9qvWD9s6
 title: Learning Stoicism
 desc: ' A Systematic Approach to Stoic Praxis'
-updated: 1639759645917
+updated: 1639762693844
 created: 1626213600000
 ---
 

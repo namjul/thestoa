@@ -2,7 +2,7 @@
 id: KGwRk4tWjaOzj8W61Qw7h
 title: 'Vision, Service, and Community'
 desc: ''
-updated: 1639759645914
+updated: 1639762693841
 created: 1633384800000
 ---
 

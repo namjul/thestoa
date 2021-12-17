@@ -2,7 +2,7 @@
 id: UEbZKpsJLDHMCn0bq79A0
 title: Structural Dynamics and the Creative Process
 desc: ''
-updated: 1639759645914
+updated: 1639762693841
 created: 1578092400000
 ---
 

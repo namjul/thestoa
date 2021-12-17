@@ -2,7 +2,7 @@
 id: hos828pcKHGplpoActTTW
 title: Body and Soul
 desc: ' Giving Birth to an Emergent Wisdom Commons'
-updated: 1639759645916
+updated: 1639762693843
 created: 1613948400000
 ---
 

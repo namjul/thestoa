@@ -2,7 +2,7 @@
 id: zKNXM5KyhTJ2XMxR1afNM
 title: Doomer Optimism
 desc: ' Antifragility, Localism, and the Limits of Labels'
-updated: 1639759645918
+updated: 1639762693845
 created: 1621980000000
 ---
 

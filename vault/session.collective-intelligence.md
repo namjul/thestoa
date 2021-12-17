@@ -2,7 +2,7 @@
 id: pWnx-Bx0jfsA465G9IqsU
 title: Collective Intelligence
 desc: ''
-updated: 1639759645917
+updated: 1639762693844
 created: 1578265200000
 ---
 

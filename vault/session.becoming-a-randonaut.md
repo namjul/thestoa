@@ -2,7 +2,7 @@
 id: BmYYH2RfCf7ckzkyIzaRg
 title: Becoming a Randonaut
 desc: ''
-updated: 1639759645919
+updated: 1639762693846
 created: 1619992800000
 ---
 

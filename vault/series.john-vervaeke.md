@@ -2,8 +2,8 @@
 id: '-YPmbbM2ae3ggj7Tw1PKX'
 title: John Vervaeke
 desc: ''
-updated: 1639759645946
-created: 1639759645946
+updated: 1639762693870
+created: 1639762693870
 ---
 
 - [[John Vervaeke:  Steal the Culture |session.john-vervaeke-steal-the-culture]]

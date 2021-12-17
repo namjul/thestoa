@@ -2,7 +2,7 @@
 id: ZiQeDBk55B5RjWfVLERhB
 title: The POP-UP School
 desc: ' A Self Organised Learning Environment for Transformation at Scale'
-updated: 1639759645916
+updated: 1639762693843
 created: 1625436000000
 ---
 

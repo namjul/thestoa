@@ -2,7 +2,7 @@
 id: Lv9I6pEguH8mt4Ag-dDSY
 title: Metamodern Masculinity
 desc: ''
-updated: 1639759645918
+updated: 1639762693846
 created: 1599429600000
 ---
 

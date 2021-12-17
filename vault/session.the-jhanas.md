@@ -2,7 +2,7 @@
 id: qREyO5d1Wy5MHTtdqE91R
 title: The Jhānas
 desc: ''
-updated: 1639759645916
+updated: 1639762693843
 created: 1634508000000
 ---
 

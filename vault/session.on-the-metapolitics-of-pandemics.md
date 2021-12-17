@@ -2,7 +2,7 @@
 id: x0WN9YUjkJmkcPS3rPOmS
 title: On the Metapolitics of Pandemics
 desc: ''
-updated: 1639759645918
+updated: 1639762693846
 created: 1586922089000
 ---
 

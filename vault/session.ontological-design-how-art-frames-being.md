@@ -2,7 +2,7 @@
 id: ywroOePrDvBWsNsMsmP5y
 title: Ontological Design
 desc: ' How Art Frames Being'
-updated: 1639759645917
+updated: 1639762693844
 created: 1612220400000
 ---
 

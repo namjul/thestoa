@@ -2,7 +2,7 @@
 id: PlgB7bkmtbckCOjhPEsEM
 title: Building the Wisdom Age
 desc: ''
-updated: 1639759645915
+updated: 1639762693842
 created: 1637190000000
 ---
 

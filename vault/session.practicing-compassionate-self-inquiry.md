@@ -2,7 +2,7 @@
 id: wusXI7AJUNbxDU8Q5YESk
 title: Practicing Compassionate Self-Inquiry
 desc: ''
-updated: 1639759645916
+updated: 1639762693843
 created: 1635372000000
 ---
 

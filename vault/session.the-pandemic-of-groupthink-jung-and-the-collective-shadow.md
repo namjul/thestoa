@@ -2,7 +2,7 @@
 id: WLE0zx3S54jO17LW2sRJo
 title: The Pandemic of Groupthink
 desc: ' Jung and the Collective Shadow'
-updated: 1639759645914
+updated: 1639762693841
 created: 1601244000000
 ---
 

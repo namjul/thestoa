@@ -2,7 +2,7 @@
 id: rXFWc2RFq4x9w7JzBN_ld
 title: Vajrayana Now
 desc: ' Sutra to Tantra'
-updated: 1639759645917
+updated: 1639762693845
 created: 1593900000000
 ---
 

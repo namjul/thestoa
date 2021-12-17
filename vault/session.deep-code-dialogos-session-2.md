@@ -2,7 +2,7 @@
 id: BddagOrHffITsB1mv20vY
 title: Deep Code Dialogos
 desc: ' Session 2'
-updated: 1639759645915
+updated: 1639762693842
 created: 1607900400000
 ---
 

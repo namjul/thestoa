@@ -2,7 +2,7 @@
 id: AaHWSj6BBkJys0WltwNCz
 title: Verbal Aikido Mini-Practicum Part 2
 desc: ' Accompanying the Attack'
-updated: 1639759645918
+updated: 1639762693845
 created: 1620597600000
 ---
 

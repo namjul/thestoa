@@ -2,7 +2,7 @@
 id: gkuNaQbTohe0Dp86Mq-kO
 title: Emergent Strategy
 desc: ''
-updated: 1639759645916
+updated: 1639762693843
 created: 1631743200000
 ---
 

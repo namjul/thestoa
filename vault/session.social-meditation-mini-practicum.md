@@ -2,7 +2,7 @@
 id: 2DbZX7mgFKmVwxNltkiT8
 title: Social Meditation Mini-Practicum
 desc: ''
-updated: 1639759645916
+updated: 1639762693843
 created: 1620684000000
 ---
 

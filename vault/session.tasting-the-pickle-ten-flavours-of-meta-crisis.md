@@ -2,7 +2,7 @@
 id: exlHxIkMWIPLslY3iN2Nh
 title: Tasting the Pickle
 desc: ' Ten Flavours of Meta-Crisis'
-updated: 1639759645914
+updated: 1639762693842
 created: 1615849200000
 ---
 

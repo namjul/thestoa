@@ -2,7 +2,7 @@
 id: omaRSs74j1PBqC2AUWWNm
 title: Ontological Design
 desc: ' What is Ontological Design?'
-updated: 1639759645919
+updated: 1639762693846
 created: 1609196400000
 ---
 

@@ -2,7 +2,7 @@
 id: JsUUowrX6vkeK6agMvsKE
 title: Ontological Design
 desc: ''
-updated: 1639759645918
+updated: 1639762693845
 created: 1605567600000
 ---
 

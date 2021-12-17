@@ -2,7 +2,7 @@
 id: dQ_TqscLq0RHBql-xZgZp
 title: Transcending Cancel Culture Critique
 desc: ''
-updated: 1639759645921
+updated: 1639762693849
 created: 1598306400000
 ---
 

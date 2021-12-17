@@ -2,7 +2,7 @@
 id: YT7qP5TLDDpqS7ALJaA1s
 title: The Way Forward Part 3
 desc: ' Adept at the New Strategy for Success'
-updated: 1639759645916
+updated: 1639762693843
 created: 1638226800000
 ---
 

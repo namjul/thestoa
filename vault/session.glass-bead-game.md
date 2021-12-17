@@ -2,7 +2,7 @@
 id: u8dFbkgyOoHpZhZWxHpZs
 title: Glass Bead Game
 desc: ''
-updated: 1639759645919
+updated: 1639762693846
 created: 1599861600000
 ---
 

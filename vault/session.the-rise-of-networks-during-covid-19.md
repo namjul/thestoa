@@ -2,7 +2,7 @@
 id: 3H9sqMuyw88H2eSjLq72Q
 title: The Rise of Networks During COVID 19
 desc: ''
-updated: 1639759645920
+updated: 1639762693847
 created: 1588716000000
 ---
 

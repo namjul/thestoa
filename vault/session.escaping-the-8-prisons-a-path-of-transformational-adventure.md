@@ -2,7 +2,7 @@
 id: vBRJs4xMsttorsnQzMCHX
 title: Escaping the 8 Prisons
 desc: ' A Path of Transformational Adventure'
-updated: 1639759645919
+updated: 1639762693846
 created: 1637708400000
 ---
 

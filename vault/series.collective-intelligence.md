@@ -2,8 +2,8 @@
 id: v-9PyBrz7nAkawAVLJ-hM
 title: Collective Intelligence
 desc: ''
-updated: 1639759645947
-created: 1639759645947
+updated: 1639762693870
+created: 1639762693870
 ---
 
 - [[Collective Intelligence: undefined|session.collective-intelligence]]

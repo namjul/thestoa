@@ -2,7 +2,7 @@
 id: sIQ9vHiC_4UNKwU9iOm8G
 title: The Gift Economy
 desc: ''
-updated: 1639759645921
+updated: 1639762693849
 created: 1587092310000
 ---
 

@@ -2,8 +2,8 @@
 id: DY5qanMkAsxFvcptvhilY
 title: Shadow Sensemaking Part 1
 desc: ''
-updated: 1639759645946
-created: 1639759645946
+updated: 1639762693870
+created: 1639762693870
 ---
 
 - [[Shadow Sensemaking Part 1:  What Is the Shadow?|session.shadow-sensemaking-part-1-what-is-the-shadow]]

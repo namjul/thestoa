@@ -2,7 +2,7 @@
 id: wMj0Mz8by-UlRdyYm5IMq
 title: Coming Home
 desc: ' A Path to Embodiment'
-updated: 1639759645919
+updated: 1639762693846
 created: 1626818400000
 ---
 

@@ -2,7 +2,7 @@
 id: S4tnKzcwDcvJqReAWZsyD
 title: Mental Models
 desc: ' Metaphysics of Relationships'
-updated: 1639759645915
+updated: 1639762693842
 created: 1599170400000
 ---
 

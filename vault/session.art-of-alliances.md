@@ -2,7 +2,7 @@
 id: EZ3P_UEYwQbi6oHSulizt
 title: Art of Alliances
 desc: ''
-updated: 1639759645919
+updated: 1639762693846
 created: 1597615200000
 ---
 

@@ -2,7 +2,7 @@
 id: Opw_EUiN6A7-q8jzTWM70
 title: The Bridge From Stopping One Game To Starting Another
 desc: ' GameStop, SOCI, and Power'
-updated: 1639759645918
+updated: 1639762693845
 created: 1611961200000
 ---
 

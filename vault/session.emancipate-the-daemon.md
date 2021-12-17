@@ -2,7 +2,7 @@
 id: NLLtfe925UJpNiVaef46l
 title: Emancipate the Daemon
 desc: ''
-updated: 1639759645917
+updated: 1639762693844
 created: 1589085024000
 ---
 

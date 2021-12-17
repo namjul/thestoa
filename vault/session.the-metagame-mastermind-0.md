@@ -2,7 +2,7 @@
 id: YmaqndyFMoMgjyHVdGz9y
 title: The Metagame Mastermind
 desc: ''
-updated: 1639759645914
+updated: 1639762693841
 created: 1586112628000
 ---
 

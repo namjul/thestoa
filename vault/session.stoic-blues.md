@@ -2,7 +2,7 @@
 id: 9guuZuK3UKU7pJJY4eRPo
 title: Stoic Blues
 desc: ''
-updated: 1639759645918
+updated: 1639762693845
 created: 1593381600000
 ---
 

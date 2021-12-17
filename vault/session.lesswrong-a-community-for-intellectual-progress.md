@@ -2,7 +2,7 @@
 id: ScYjut_EFm0U4ElLJqkbI
 title: LessWrong
 desc: ' A Community for Intellectual Progress'
-updated: 1639759645917
+updated: 1639762693844
 created: 1615330800000
 ---
 

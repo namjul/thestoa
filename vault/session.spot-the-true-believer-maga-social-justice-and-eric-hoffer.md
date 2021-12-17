@@ -2,7 +2,7 @@
 id: hkLAdFMY1FR3gxg0Ep0G7
 title: Spot the True Believer
 desc: ' MAGA, Social Justice, and Eric Hoffer'
-updated: 1639759645917
+updated: 1639762693844
 created: 1593727200000
 ---
 

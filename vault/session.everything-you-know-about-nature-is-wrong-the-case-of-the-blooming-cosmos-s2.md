@@ -2,7 +2,7 @@
 id: GaiR3VNaGpWAMtOHD7CLk
 title: Everything You Know About Nature Is Wrong
 desc: ' The Case of the Blooming Cosmos. S2'
-updated: 1639759645919
+updated: 1639762693847
 created: 1615158000000
 ---
 

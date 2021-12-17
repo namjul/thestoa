@@ -4,7 +4,7 @@ title: >-
   Where is God Now? Fugitivity as a Theo-Politics of Encounter in Times of
   Trouble
 desc: ''
-updated: 1639759645918
+updated: 1639762693845
 created: 1599780639000
 ---
 

@@ -2,7 +2,7 @@
 id: RFSa2kStVDTlKHGqo6ev9
 title: The Bridge
 desc: ' Deep-Dives. S3. Bridge and Communitas'
-updated: 1639759645918
+updated: 1639762693846
 created: 1579302000000
 ---
 

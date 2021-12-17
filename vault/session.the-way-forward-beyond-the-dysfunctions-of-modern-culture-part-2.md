@@ -2,7 +2,7 @@
 id: dFzeI3xe7tBD3fjvhqCCe
 title: The Way Forward Part 2
 desc: ' Skillful With Diverse Modes of Cognition'
-updated: 1639759645917
+updated: 1639762693844
 created: 1637622000000
 ---
 
