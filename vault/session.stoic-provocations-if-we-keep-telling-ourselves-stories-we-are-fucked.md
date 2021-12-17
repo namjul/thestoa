@@ -2,7 +2,7 @@
 id: 5XySp00tokaGSsQiIgZt5
 title: Stoic Provocations
 desc: ' If We Keep Telling Ourselves Stories We Are Fucked'
-updated: 1639759165173
+updated: 1639759645919
 created: 1604962800000
 ---
 
@@ -36,4 +36,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.stoic-provocations
+
+## Series
+
+- [[series.stoic-provocations]]
 

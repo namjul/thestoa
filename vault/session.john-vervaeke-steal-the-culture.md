@@ -2,7 +2,7 @@
 id: REm33fVfip3R5p3uPPYC9
 title: John Vervaeke
 desc: ' Steal the Culture '
-updated: 1639759165163
+updated: 1639759645913
 created: 1585431143000
 ---
 
@@ -34,4 +34,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.stoa-moments
+
+## Series
+
+- [[series.john-vervaeke]]
 

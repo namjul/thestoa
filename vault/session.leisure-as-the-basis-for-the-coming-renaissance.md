@@ -2,7 +2,7 @@
 id: lElGu4uVmoAZkaVrUQZBb
 title: Leisure as the Basis for the Coming Renaissance
 desc: ''
-updated: 1639759165171
+updated: 1639759645919
 created: 1587592800000
 ---
 
@@ -35,6 +35,10 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 - #renaissance
 
 ## Topics
+
+
+
+## Series
 
 
 

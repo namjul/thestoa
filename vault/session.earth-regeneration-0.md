@@ -2,7 +2,7 @@
 id: 3uwGE3dnP_X0rC2nXo3oF
 title: Earth Regeneration
 desc: ''
-updated: 1639759165169
+updated: 1639759645918
 created: 1590703200000
 ---
 
@@ -34,4 +34,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.earth-regeneration
+
+## Series
+
+- [[series.earth-regeneration]]
 

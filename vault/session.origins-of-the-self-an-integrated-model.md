@@ -2,7 +2,7 @@
 id: 9ue1IxOgJkRUb1gniQ6pT
 title: Origins of the Self
 desc: ' An Integrated Model'
-updated: 1639759165165
+updated: 1639759645915
 created: 1635285600000
 ---
 
@@ -55,4 +55,8 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 
+
+## Series
+
+- [[series.origins-of-the-self]]
 

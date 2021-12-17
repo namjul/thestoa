@@ -2,7 +2,7 @@
 id: CDwZcfjONtOskE1LGIPKY
 title: McLuhan
 desc: ' Retrieving the Lost Art of Sensemaking'
-updated: 1639759165167
+updated: 1639759645916
 created: 1632780000000
 ---
 
@@ -39,6 +39,10 @@ Support The Stoa: patreon.com/the_stoa
 - #sensemaking
 
 ## Topics
+
+
+
+## Series
 
 
 

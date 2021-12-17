@@ -2,7 +2,7 @@
 id: EMk5l8YEn5C9DH_KJsDmJ
 title: Reform of Government Institutions
 desc: ''
-updated: 1639759165168
+updated: 1639759645917
 created: 1587592800000
 ---
 
@@ -34,4 +34,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.government-institutions
+
+## Series
+
+
 

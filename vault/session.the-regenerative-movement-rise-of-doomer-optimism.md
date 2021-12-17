@@ -2,7 +2,7 @@
 id: 4Tu5lPDzTW-I8cf_yCKZO
 title: The Regenerative Movement
 desc: ' Rise of Doomer Optimism'
-updated: 1639759165165
+updated: 1639759645915
 created: 1615417200000
 ---
 
@@ -36,4 +36,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 
 - #topics.regenerative-movement
 - #topics.doomer-optimism
+
+## Series
+
+
 

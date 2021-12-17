@@ -2,7 +2,7 @@
 id: stG52uh5wdU5jDusoGe11
 title: Monastic Conversations
 desc: ''
-updated: 1639759165171
+updated: 1639759645919
 created: 1589148000000
 ---
 
@@ -34,4 +34,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.monastic-conversations
+
+## Series
+
+- [[series.monastic-conversations]]
 

@@ -2,7 +2,7 @@
 id: cMmb5BM2wu7qkOvu6UCHS
 title: The Spiritual Mission of America in the Anthropocene
 desc: ''
-updated: 1639759165176
+updated: 1639759645921
 created: 1601330400000
 ---
 
@@ -35,4 +35,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.spiritual-mission
+
+## Series
+
+
 

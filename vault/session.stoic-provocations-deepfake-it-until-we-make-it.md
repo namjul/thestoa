@@ -2,7 +2,7 @@
 id: d1RLuid-Ry3hrCwHQ5vvE
 title: Stoic Provocations
 desc: ' Deepfake It Until We Make It'
-updated: 1639759165171
+updated: 1639759645919
 created: 1606690800000
 ---
 
@@ -38,4 +38,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.stoic-provocations
+
+## Series
+
+- [[series.stoic-provocations]]
 

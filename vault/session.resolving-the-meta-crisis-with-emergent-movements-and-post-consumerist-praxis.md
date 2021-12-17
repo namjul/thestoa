@@ -2,7 +2,7 @@
 id: Co-qhwL2BDlGsg4LumSbz
 title: Resolving the Meta-Crisis With Emergent Movements and Post-Consumerist Praxis
 desc: ''
-updated: 1639759165164
+updated: 1639759645914
 created: 1630533600000
 ---
 
@@ -36,4 +36,8 @@ Support The Stoa: patreon.com/the_stoa
 
 - #topics.emergent-movements
 - #topics.post-consumerist-praxis
+
+## Series
+
+
 

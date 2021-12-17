@@ -2,7 +2,7 @@
 id: _chcv65HYWGULd9yikqKU
 title: Laughter Yoga
 desc: ''
-updated: 1639759165170
+updated: 1639759645918
 created: 1631484000000
 ---
 
@@ -36,4 +36,8 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 - #topics.laughter-yoga
+
+## Series
+
+
 

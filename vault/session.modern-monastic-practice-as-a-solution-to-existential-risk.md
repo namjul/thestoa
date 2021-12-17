@@ -2,7 +2,7 @@
 id: licDjZdubZqBHAUP8hAAc
 title: Modern Monastic Practice as a Solution to Existential Risk
 desc: ''
-updated: 1639759165171
+updated: 1639759645919
 created: 1634767200000
 ---
 
@@ -39,4 +39,8 @@ Support The Stoa: patreon.com/the_stoa
 
 - #topics.modern-monastic
 - #topics.existential-risk
+
+## Series
+
+
 

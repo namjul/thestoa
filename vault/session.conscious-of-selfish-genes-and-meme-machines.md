@@ -2,7 +2,7 @@
 id: 6BgalcSekKnPOpp9WGby1
 title: Conscious of Selfish Genes and Meme Machines
 desc: ''
-updated: 1639759165176
+updated: 1639759645921
 created: 1600898400000
 ---
 
@@ -38,4 +38,8 @@ Keep up-to-date with The Stoa @ https://thestoa.substack.com
 
 - #topics.selfish-genes
 - #topics.meme-machines
+
+## Series
+
+
 

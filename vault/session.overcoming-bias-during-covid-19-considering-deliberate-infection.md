@@ -2,7 +2,7 @@
 id: 3WdQPlE-KCWwPkzBrHIPg
 title: Overcoming Bias During COVID-19
 desc: ' Considering Deliberate Infection'
-updated: 1639759165174
+updated: 1639759645920
 created: 1585625728000
 ---
 
@@ -33,4 +33,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.deliberate-infection
+
+## Series
+
+
 

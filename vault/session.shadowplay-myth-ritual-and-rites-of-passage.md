@@ -2,7 +2,7 @@
 id: bkrjlwKXQ8YZ1MlEitmDa
 title: Shadowplay
 desc: ' Myth, Ritual, and Rites of Passage'
-updated: 1639759165165
+updated: 1639759645915
 created: 1615935600000
 ---
 
@@ -41,4 +41,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches.
 ## Topics
 
 
+
+## Series
+
+- [[series.shadowplay]]
 

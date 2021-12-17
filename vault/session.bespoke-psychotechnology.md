@@ -2,7 +2,7 @@
 id: Ck0dONWVM36THttNefF_t
 title: Bespoke Psychotechnology
 desc: ''
-updated: 1639759165171
+updated: 1639759645919
 created: 1603490400000
 ---
 
@@ -34,4 +34,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.bespoke-psychotechnology
+
+## Series
+
+
 

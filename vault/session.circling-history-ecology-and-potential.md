@@ -2,7 +2,7 @@
 id: km46tSJ310fEk_weiesC0
 title: Circling
 desc: ' History, Ecology, and Potential'
-updated: 1639759165168
+updated: 1639759645917
 created: 1619042400000
 ---
 
@@ -36,6 +36,10 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 - #ecology
 
 ## Topics
+
+
+
+## Series
 
 
 

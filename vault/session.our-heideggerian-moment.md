@@ -2,7 +2,7 @@
 id: DAsiT_Ek3r7HPwphuzLf2
 title: Our Heideggerian Moment?
 desc: ''
-updated: 1639759165167
+updated: 1639759645916
 created: 1587420000000
 ---
 
@@ -34,4 +34,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.heideggerian-moment
+
+## Series
+
+
 

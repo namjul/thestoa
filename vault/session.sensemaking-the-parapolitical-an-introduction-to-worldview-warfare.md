@@ -2,7 +2,7 @@
 id: PTav21tYRGh285XQm7NwG
 title: Sensemaking the Parapolitical
 desc: ' An Introduction to Worldview Warfare'
-updated: 1639759165176
+updated: 1639759645921
 created: 1632348000000
 ---
 
@@ -36,4 +36,8 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 - #topics.worldview-warfare
+
+## Series
+
+
 

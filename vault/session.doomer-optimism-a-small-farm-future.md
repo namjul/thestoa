@@ -2,7 +2,7 @@
 id: oFESrvUU151cLjtsrodpo
 title: Doomer Optimism
 desc: ' A Small Farm Future'
-updated: 1639759165164
+updated: 1639759645914
 created: 1623880800000
 ---
 
@@ -42,4 +42,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 
 - #topics.doomer-optimism
 - #topics.small-farm
+
+## Series
+
+- [[series.doomer-optimism]]
 

@@ -2,7 +2,7 @@
 id: '-lDbWqY6eaCh-nwvdKZFS'
 title: Shadowplay
 desc: ' Personality Types in Shadow'
-updated: 1639759165176
+updated: 1639759645921
 created: 1614121200000
 ---
 
@@ -38,4 +38,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.personality-types
+
+## Series
+
+- [[series.shadowplay]]
 

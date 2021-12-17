@@ -2,7 +2,7 @@
 id: 0noDIQlPjtHXFEtySeE5a
 title: Philosopher Queens
 desc: ''
-updated: 1639759165172
+updated: 1639759645919
 created: 1597356000000
 ---
 
@@ -38,4 +38,8 @@ Support The Stoa @ www.patreon.com/the_stoa
 ## Topics
 
 - #topics.philosopher-queens
+
+## Series
+
+- [[series.philosopher-queens]]
 

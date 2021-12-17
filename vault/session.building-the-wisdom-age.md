@@ -2,7 +2,7 @@
 id: PlgB7bkmtbckCOjhPEsEM
 title: Building the Wisdom Age
 desc: ''
-updated: 1639759165165
+updated: 1639759645915
 created: 1637190000000
 ---
 
@@ -36,4 +36,8 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 - #topics.wisdom-age
+
+## Series
+
+
 

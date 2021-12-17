@@ -2,7 +2,7 @@
 id: HnZm-fYdb9Qlu1QkBbjYz
 title: Bright Green Lies
 desc: ''
-updated: 1639759165164
+updated: 1639759645914
 created: 1615849200000
 ---
 
@@ -45,4 +45,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.green-lies
+
+## Series
+
+
 

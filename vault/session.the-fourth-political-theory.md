@@ -2,7 +2,7 @@
 id: 2kpkGoUocHhwbxtG-7kfC
 title: The Fourth Political Theory
 desc: ''
-updated: 1639759165166
+updated: 1639759645916
 created: 1600639200000
 ---
 
@@ -40,4 +40,8 @@ Keep up-to-date with The Stoa @ https://thestoa.substack.com
 ## Topics
 
 - #topics.political-theory
+
+## Series
+
+
 

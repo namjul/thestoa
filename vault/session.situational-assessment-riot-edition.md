@@ -2,7 +2,7 @@
 id: JtiTKIAPozdZUXwWw9udr
 title: Situational Assessment
 desc: ' Riot Edition'
-updated: 1639759165167
+updated: 1639759645917
 created: 1591398259000
 ---
 
@@ -35,4 +35,8 @@ Support The Stoa @ www.patreon.com/the_stoa
 
 - #topics.situational-assessment
 - #topics.riot-edition
+
+## Series
+
+- [[series.situational-assessment]]
 

@@ -2,8 +2,8 @@
 id: 4Yv2H3pBDCLJTIX19P5sD
 title: 'Metaphysics, Philosophy, Civilization Design, and Various High Arts'
 desc: ''
-updated: 1639759165199
-created: 1639759165199
+updated: 1639759645946
+created: 1639759645946
 ---
 
 - [[Metaphysics, Philosophy, Civilization Design, and Various High Arts:  Session 1|session.metaphysics-philosophy-civilization-design-and-various-high-arts-session-1]]

@@ -2,7 +2,7 @@
 id: QO5RR7BSLVvD0J5gqwefP
 title: Summoning the Unseen
 desc: ' Poetry & Meditation to Conjure Deep Support & Inspiration'
-updated: 1639759165176
+updated: 1639759645921
 created: 1605481200000
 ---
 
@@ -48,4 +48,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.deep-support
+
+## Series
+
+
 

@@ -2,7 +2,7 @@
 id: oXP5p4CbGi8jLrokS-HfJ
 title: Consciousness and Spirituality Explained
 desc: ' Part 1'
-updated: 1639759165171
+updated: 1639759645919
 created: 1578524400000
 ---
 
@@ -43,4 +43,8 @@ thestoa.substack.com
 ## Topics
 
 
+
+## Series
+
+- [[series.consciousness-and-spirituality-explained]]
 

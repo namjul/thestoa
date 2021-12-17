@@ -2,7 +2,7 @@
 id: LrFnUHasBv9GCApceGGoJ
 title: The Bridge
 desc: ' Deep-Dives. S4. Bridging Science and Magic'
-updated: 1639759165165
+updated: 1639759645915
 created: 1611529200000
 ---
 
@@ -45,4 +45,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 
+
+## Series
+
+- [[series.the-bridge]]
 

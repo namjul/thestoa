@@ -2,7 +2,7 @@
 id: bmM2tDefiZ4yKV3VCWFQH
 title: Two Effective Altruists Walk Into a Monastery
 desc: ''
-updated: 1639759165169
+updated: 1639759645918
 created: 1631138400000
 ---
 
@@ -36,4 +36,8 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 - #topics.effective-altruists
+
+## Series
+
+
 

@@ -2,7 +2,7 @@
 id: '-GJTepXS2ZrboOHXOgC-j'
 title: Hunters of Souls
 desc: ' Eros Unchained Dialogos'
-updated: 1639759165165
+updated: 1639759645915
 created: 1638313200000
 ---
 
@@ -41,4 +41,8 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 - #topics.unchained-dialogos
+
+## Series
+
+
 

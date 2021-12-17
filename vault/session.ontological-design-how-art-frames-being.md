@@ -2,7 +2,7 @@
 id: ywroOePrDvBWsNsMsmP5y
 title: Ontological Design
 desc: ' How Art Frames Being'
-updated: 1639759165168
+updated: 1639759645917
 created: 1612220400000
 ---
 
@@ -48,4 +48,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 
 - #topics.ontological-design
 - #topics.art-frames
+
+## Series
+
+- [[series.ontological-design]]
 

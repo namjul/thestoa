@@ -2,7 +2,7 @@
 id: FnKzuIkPiJGSqszHc4YAf
 title: Integral Theory
 desc: ' Pre-History, History, and Future'
-updated: 1639759165164
+updated: 1639759645914
 created: 1621202400000
 ---
 
@@ -38,4 +38,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.integral-theory
+
+## Series
+
+
 

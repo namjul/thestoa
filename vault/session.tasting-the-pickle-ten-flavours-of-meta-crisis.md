@@ -2,7 +2,7 @@
 id: exlHxIkMWIPLslY3iN2Nh
 title: Tasting the Pickle
 desc: ' Ten Flavours of Meta-Crisis'
-updated: 1639759165164
+updated: 1639759645914
 created: 1615849200000
 ---
 
@@ -43,6 +43,10 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 - #crisis
 
 ## Topics
+
+
+
+## Series
 
 
 

@@ -2,7 +2,7 @@
 id: S1xka7GDrZQdXPA_USTsE
 title: Erotic Magic and Mass Media
 desc: ''
-updated: 1639759165167
+updated: 1639759645917
 created: 1632348000000
 ---
 
@@ -38,4 +38,8 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 - #topics.mass-media
+
+## Series
+
+
 

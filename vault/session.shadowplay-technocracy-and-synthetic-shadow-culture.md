@@ -2,7 +2,7 @@
 id: o2SQAOfaf2E3HFhaazO1S
 title: Shadowplay
 desc: ' Technocracy and Synthetic Shadow Culture'
-updated: 1639759165166
+updated: 1639759645916
 created: 1615417200000
 ---
 
@@ -39,4 +39,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.synthetic-shadow
+
+## Series
+
+- [[series.shadowplay]]
 

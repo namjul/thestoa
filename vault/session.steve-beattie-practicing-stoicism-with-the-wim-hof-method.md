@@ -2,7 +2,7 @@
 id: polZfnxZjGELF9lh8HPIq
 title: Steve Beattie - Practicing Stoicism with the Wim Hof Method
 desc: ''
-updated: 1639759165167
+updated: 1639759645916
 created: 1567893600000
 ---
 
@@ -35,4 +35,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.wim-hof
+
+## Series
+
+
 

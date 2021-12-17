@@ -2,7 +2,7 @@
 id: s5YVrM_-EcfEv9QBHC9AD
 title: Learning How to Dance During the Meta-Crisis
 desc: ''
-updated: 1639759165177
+updated: 1639759645921
 created: 1586285925000
 ---
 
@@ -37,6 +37,10 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 - #crisis
 
 ## Topics
+
+
+
+## Series
 
 
 

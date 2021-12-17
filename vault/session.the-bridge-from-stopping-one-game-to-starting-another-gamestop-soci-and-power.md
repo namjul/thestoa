@@ -2,7 +2,7 @@
 id: Opw_EUiN6A7-q8jzTWM70
 title: The Bridge From Stopping One Game To Starting Another
 desc: ' GameStop, SOCI, and Power'
-updated: 1639759165169
+updated: 1639759645918
 created: 1611961200000
 ---
 
@@ -35,6 +35,10 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 - #power
 
 ## Topics
+
+
+
+## Series
 
 
 

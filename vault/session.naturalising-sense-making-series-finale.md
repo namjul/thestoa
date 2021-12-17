@@ -2,7 +2,7 @@
 id: G84n6gN9pmh-A-agU7-2w
 title: Naturalising Sense-making
 desc: ' Series Finale'
-updated: 1639759165166
+updated: 1639759645916
 created: 1599084000000
 ---
 
@@ -48,4 +48,8 @@ thestoa.substack.com
 ## Topics
 
 
+
+## Series
+
+- [[series.naturalising-sense-making]]
 

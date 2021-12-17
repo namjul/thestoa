@@ -2,7 +2,7 @@
 id: rxub5cOJuMZhlZhw5Jm3d
 title: The Metagame Mastermind
 desc: ' Limbic Unhijacking Edition'
-updated: 1639759165170
+updated: 1639759645919
 created: 1604185200000
 ---
 
@@ -37,4 +37,8 @@ thestoa.substack.com
 
 - #topics.metagame-mastermind
 - #topics.limbic-unhijacking
+
+## Series
+
+- [[series.the-metagame-mastermind]]
 

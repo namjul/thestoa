@@ -2,7 +2,7 @@
 id: wpgWEEC9JpWmK_Whi2LCF
 title: Jim Rutt
 desc: ' Be Brave '
-updated: 1639759165174
+updated: 1639759645920
 created: 1585626614000
 ---
 
@@ -32,4 +32,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.stoa-moments
+
+## Series
+
+
 

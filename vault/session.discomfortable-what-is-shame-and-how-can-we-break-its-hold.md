@@ -2,7 +2,7 @@
 id: zC5vU7NpaWz7Ecv2EU-b8
 title: Discomfortable
 desc: ' What Is Shame and How Can We Break Its Hold?'
-updated: 1639759165167
+updated: 1639759645916
 created: 1630965600000
 ---
 
@@ -49,6 +49,10 @@ thestoa.substack.com
 - #shame
 
 ## Topics
+
+
+
+## Series
 
 
 

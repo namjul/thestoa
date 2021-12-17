@@ -2,7 +2,7 @@
 id: M_4wzN-seQENfGwFcbHn3
 title: Jordan Hall
 desc: ' Initiation and Right Relationship '
-updated: 1639759165177
+updated: 1639759645921
 created: 1585454550000
 ---
 
@@ -35,4 +35,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.stoa-moments
+
+## Series
+
+- [[series.jordan-hall]]
 

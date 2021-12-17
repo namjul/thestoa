@@ -2,7 +2,7 @@
 id: xGqmQfmTcgF4XX2cm_E0n
 title: Naturalising Sense-making
 desc: ' Cynefin Framework'
-updated: 1639759165168
+updated: 1639759645917
 created: 1599084000000
 ---
 
@@ -44,4 +44,8 @@ To keep up-to-date on what is happening at The Stoa: https://thestoa.substack.co
 ## Topics
 
 - #topics.cynefin-framework
+
+## Series
+
+- [[series.naturalising-sense-making]]
 

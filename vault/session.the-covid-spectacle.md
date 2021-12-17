@@ -2,7 +2,7 @@
 id: XPG-DzWfA-o7NxCG0Jq-e
 title: The COVID Spectacle
 desc: ''
-updated: 1639759165173
+updated: 1639759645920
 created: 1585364285000
 ---
 
@@ -32,4 +32,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.covid-spectacle
+
+## Series
+
+
 

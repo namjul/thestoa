@@ -2,7 +2,7 @@
 id: l10D4bXOTSVT50CxJqJsf
 title: The Dark Stoa
 desc: ' Game Over - Gnostic Warfare'
-updated: 1639759165166
+updated: 1639759645916
 created: 1591912800000
 ---
 
@@ -35,4 +35,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 
 - #topics.dark-stoa
 - #topics.gnostic-warfare
+
+## Series
+
+- [[series.the-dark-stoa]]
 

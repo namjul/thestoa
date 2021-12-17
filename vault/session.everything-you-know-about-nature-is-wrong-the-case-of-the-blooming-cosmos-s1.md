@@ -2,7 +2,7 @@
 id: UKW5th2yV94YxOUY0j8Ot
 title: Everything You Know About Nature Is Wrong
 desc: ' The Case of the Blooming Cosmos. S1'
-updated: 1639759165169
+updated: 1639759645918
 created: 1614786561000
 ---
 
@@ -41,4 +41,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 
+
+## Series
+
+- [[series.everything-you-know-about-nature-is-wrong]]
 

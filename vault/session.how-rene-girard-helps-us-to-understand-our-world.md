@@ -2,7 +2,7 @@
 id: aqQQkQqPOdkxk2ONOPgz7
 title: How René Girard Helps Us to Understand Our World
 desc: ''
-updated: 1639759165167
+updated: 1639759645916
 created: 1579388400000
 ---
 
@@ -35,6 +35,10 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 - #world
 
 ## Topics
+
+
+
+## Series
 
 
 

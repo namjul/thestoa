@@ -2,7 +2,7 @@
 id: oy9qf9UM4fD6qpENsn5wP
 title: Taking His Thoughts Wherever They Go
 desc: ''
-updated: 1639759165164
+updated: 1639759645914
 created: 1600639200000
 ---
 
@@ -38,6 +38,10 @@ Keep up-to-date with The Stoa @ https://thestoa.substack.com
 - #thoughts
 
 ## Topics
+
+
+
+## Series
 
 
 

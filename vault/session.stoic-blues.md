@@ -2,7 +2,7 @@
 id: 9guuZuK3UKU7pJJY4eRPo
 title: Stoic Blues
 desc: ''
-updated: 1639759165169
+updated: 1639759645918
 created: 1593381600000
 ---
 
@@ -36,4 +36,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.stoic-blues
+
+## Series
+
+
 

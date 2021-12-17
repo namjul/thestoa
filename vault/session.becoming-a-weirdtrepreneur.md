@@ -2,7 +2,7 @@
 id: RtoP0iD6clUJDG0ag4NxK
 title: Becoming a Weirdtrepreneur
 desc: ''
-updated: 1639759165173
+updated: 1639759645920
 created: 1636585200000
 ---
 
@@ -40,6 +40,10 @@ Support The Stoa: patreon.com/the_stoa
 - #weirdtrepreneur
 
 ## Topics
+
+
+
+## Series
 
 
 

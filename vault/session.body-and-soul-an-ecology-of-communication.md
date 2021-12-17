@@ -2,7 +2,7 @@
 id: x-cCZl5ELaIfIh3DulEw_
 title: Body and Soul
 desc: ' An Ecology of Communication'
-updated: 1639759165166
+updated: 1639759645915
 created: 1613343600000
 ---
 
@@ -51,4 +51,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 
+
+## Series
+
+- [[series.body-and-soul]]
 

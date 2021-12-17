@@ -2,7 +2,7 @@
 id: 0fma76ZZSVQ0ZDz8A-eFs
 title: Human Systems Life Action Redesign
 desc: ''
-updated: 1639759165177
+updated: 1639759645921
 created: 1588197600000
 ---
 
@@ -36,4 +36,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 
 - #topics.human-systems
 - #topics.life-action
+
+## Series
+
+
 

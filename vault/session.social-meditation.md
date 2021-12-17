@@ -2,7 +2,7 @@
 id: AY8J4PUv-B9diUiCuGDoA
 title: Social Meditation
 desc: ''
-updated: 1639759165171
+updated: 1639759645919
 created: 1594418400000
 ---
 
@@ -41,4 +41,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.social-meditation
+
+## Series
+
+
 

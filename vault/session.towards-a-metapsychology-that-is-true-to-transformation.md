@@ -2,7 +2,7 @@
 id: ipx_5J5F_Y-2TjcElElRt
 title: Towards a Metapsychology that is True to Transformation
 desc: ''
-updated: 1639759165165
+updated: 1639759645915
 created: 1634248800000
 ---
 
@@ -35,6 +35,10 @@ Support The Stoa: patreon.com/the_stoa
 - #transformation
 
 ## Topics
+
+
+
+## Series
 
 
 

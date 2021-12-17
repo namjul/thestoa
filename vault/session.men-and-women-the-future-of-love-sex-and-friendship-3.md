@@ -2,7 +2,7 @@
 id: DdDn2rBMA9OOvMxsrVwk9
 title: Men & Women
 desc: ' The Future of Love, Sex and Friendship'
-updated: 1639759165169
+updated: 1639759645918
 created: 1606431600000
 ---
 
@@ -44,4 +44,8 @@ thestoa.substack.com
 ## Topics
 
 
+
+## Series
+
+- [[series.men-and-women]]
 

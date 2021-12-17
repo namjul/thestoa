@@ -2,7 +2,7 @@
 id: 5WvNviZfvQeXhUEuuaxX9
 title: Body and Soul
 desc: ' Values as Energetic Transcendence'
-updated: 1639759165168
+updated: 1639759645917
 created: 1612738800000
 ---
 
@@ -49,4 +49,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.energetic-transcendence
+
+## Series
+
+- [[series.body-and-soul]]
 

@@ -2,7 +2,7 @@
 id: 55dQmTDE_28OL01reDNsx
 title: Praxis to Collective Wisdom
 desc: ''
-updated: 1639759165168
+updated: 1639759645917
 created: 1598479200000
 ---
 
@@ -32,4 +32,8 @@ Suppor The Stoa @ www.patreon.ca/the_stoa
 ## Topics
 
 - #topics.collective-wisdom
+
+## Series
+
+
 

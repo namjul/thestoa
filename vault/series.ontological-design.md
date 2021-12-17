@@ -2,8 +2,8 @@
 id: 8uGU1pyNpOyD5TJb4FnVn
 title: Ontological Design
 desc: ''
-updated: 1639759165199
-created: 1639759165199
+updated: 1639759645947
+created: 1639759645947
 ---
 
 - [[Ontological Design:  How Art Frames Being|session.ontological-design-how-art-frames-being]]

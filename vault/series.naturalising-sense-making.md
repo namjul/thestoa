@@ -2,8 +2,8 @@
 id: _MwgHSwIJ3auswvU03K8z
 title: Naturalising Sense-making
 desc: ''
-updated: 1639759165198
-created: 1639759165198
+updated: 1639759645946
+created: 1639759645946
 ---
 
 - [[Naturalising Sense-making:  The Apex Predator|session.naturalising-sense-making-the-apex-predator]]

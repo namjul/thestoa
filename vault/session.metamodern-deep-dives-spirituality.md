@@ -2,7 +2,7 @@
 id: cQkYfXJ3SYVOmwRCkBBmm
 title: Metamodern Deep-Dives
 desc: ' Spirituality'
-updated: 1639759165169
+updated: 1639759645918
 created: 1601848800000
 ---
 
@@ -46,4 +46,8 @@ thestoa.substack.com
 ## Topics
 
 
+
+## Series
+
+- [[series.metamodern-deep-dives]]
 

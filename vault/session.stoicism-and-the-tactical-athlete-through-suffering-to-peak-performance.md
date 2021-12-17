@@ -2,7 +2,7 @@
 id: MZfwcg0Y-tCvD3lz_ri6A
 title: Stoicism and the Tactical Athlete
 desc: ' Through Suffering to Peak Performance'
-updated: 1639759165169
+updated: 1639759645918
 created: 1626127200000
 ---
 
@@ -39,4 +39,8 @@ Support The Stoa: patreon.com/the_stoa
 
 - #topics.tactical-athlete
 - #topics.peak-performance
+
+## Series
+
+
 

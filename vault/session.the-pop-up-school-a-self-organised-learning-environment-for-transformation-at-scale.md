@@ -2,7 +2,7 @@
 id: ZiQeDBk55B5RjWfVLERhB
 title: The POP-UP School
 desc: ' A Self Organised Learning Environment for Transformation at Scale'
-updated: 1639759165166
+updated: 1639759645916
 created: 1625436000000
 ---
 
@@ -42,6 +42,10 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 - #scale
 
 ## Topics
+
+
+
+## Series
 
 
 

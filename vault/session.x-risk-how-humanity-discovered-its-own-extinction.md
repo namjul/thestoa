@@ -2,7 +2,7 @@
 id: CH2wBkokmLiraOzFbFrxq
 title: X-Risk
 desc: ' How Humanity Discovered Its Own Extinction'
-updated: 1639759165168
+updated: 1639759645917
 created: 1615849200000
 ---
 
@@ -43,4 +43,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.own-extinction
+
+## Series
+
+
 

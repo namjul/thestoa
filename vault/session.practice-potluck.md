@@ -2,7 +2,7 @@
 id: 8JXlN89tKU3FVRZq1iSgB
 title: Practice Potluck
 desc: ''
-updated: 1639759165173
+updated: 1639759645920
 created: 1604012400000
 ---
 
@@ -41,4 +41,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.practice-potluck
+
+## Series
+
+
 

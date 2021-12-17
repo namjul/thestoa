@@ -4,7 +4,7 @@ title: >-
   Massimo Pigliucci - How to Thrive in a World out of Your Control, One
   Practical Exercise at a Time
 desc: ''
-updated: 1639759165163
+updated: 1639759645914
 created: 1567893600000
 ---
 
@@ -39,4 +39,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 
 - #topics.massimo-pigliucci
 - #topics.practical-exercise
+
+## Series
+
+
 

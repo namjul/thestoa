@@ -2,7 +2,7 @@
 id: r3J9G1b6quicH0gmXURVN
 title: Postscript
 desc: ' Toxic Masculinity?'
-updated: 1639759165177
+updated: 1639759645921
 created: 1600134414000
 ---
 
@@ -39,4 +39,8 @@ Keep up-to-date with The Stoa @ https://thestoa.substack.com
 ## Topics
 
 - #topics.toxic-masculinity
+
+## Series
+
+- [[series.postscript]]
 

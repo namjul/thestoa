@@ -2,7 +2,7 @@
 id: QYZJRpNSkVUAy5lDiux46
 title: Networked Tribalism
 desc: ' War'
-updated: 1639759165171
+updated: 1639759645919
 created: 1601773424000
 ---
 
@@ -31,4 +31,8 @@ Support The Stoa @ www.patreon.com/the_stoa
 ## Topics
 
 - #topics.networked-tribalism
+
+## Series
+
+- [[series.networked-tribalism]]
 

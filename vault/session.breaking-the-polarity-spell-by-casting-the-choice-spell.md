@@ -2,7 +2,7 @@
 id: P0lceKq383-UAwQ8o7Cwc
 title: Breaking the Polarity Spell by Casting the Choice Spell
 desc: ''
-updated: 1639759165167
+updated: 1639759645916
 created: 1638821383000
 ---
 
@@ -37,6 +37,10 @@ Support The Stoa: patreon.com/the_stoa
 - #choice
 
 ## Topics
+
+
+
+## Series
 
 
 

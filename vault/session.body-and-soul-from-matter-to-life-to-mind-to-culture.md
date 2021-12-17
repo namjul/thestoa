@@ -2,7 +2,7 @@
 id: nGQUuAFh2X6py0WlT3Q1t
 title: Body and Soul
 desc: ' From Matter to Life to Mind to Culture'
-updated: 1639759165165
+updated: 1639759645915
 created: 1612134000000
 ---
 
@@ -53,4 +53,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 
+
+## Series
+
+- [[series.body-and-soul]]
 

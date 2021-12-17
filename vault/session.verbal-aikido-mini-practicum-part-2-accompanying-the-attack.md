@@ -2,7 +2,7 @@
 id: AaHWSj6BBkJys0WltwNCz
 title: Verbal Aikido Mini-Practicum Part 2
 desc: ' Accompanying the Attack'
-updated: 1639759165169
+updated: 1639759645918
 created: 1620597600000
 ---
 
@@ -48,4 +48,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.verbal-aikido
+
+## Series
+
+- [[series.verbal-aikido-mini-practicum-part-1]]
 

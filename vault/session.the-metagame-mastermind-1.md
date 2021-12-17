@@ -2,7 +2,7 @@
 id: OB2ke9AMSWKBqfsxDSO3l
 title: The Metagame Mastermind
 desc: ''
-updated: 1639759165175
+updated: 1639759645920
 created: 1588952225000
 ---
 
@@ -32,4 +32,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.metagame-mastermind
+
+## Series
+
+- [[series.the-metagame-mastermind]]
 

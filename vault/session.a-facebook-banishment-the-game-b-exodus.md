@@ -2,7 +2,7 @@
 id: NLpomUVf-p5ehJP4Y-pIq
 title: A Facebook Banishment
 desc: ' The Game B Exodus'
-updated: 1639759165169
+updated: 1639759645918
 created: 1611529200000
 ---
 
@@ -38,4 +38,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 
 - #topics.facebook-banishment
 - #topics.game-b
+
+## Series
+
+
 

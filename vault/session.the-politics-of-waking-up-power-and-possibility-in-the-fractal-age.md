@@ -2,7 +2,7 @@
 id: 2RGCXgZvixbqz-OSdTnDO
 title: The Politics of Waking Up
 desc: ' Power and Possibility in the Fractal Age'
-updated: 1639759165168
+updated: 1639759645917
 created: 1624312800000
 ---
 
@@ -49,4 +49,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.fractal-age
+
+## Series
+
+
 

@@ -2,7 +2,7 @@
 id: 5cbbqokMVpPwxVUSlLAby
 title: ​Polarity Management
 desc: ''
-updated: 1639759165167
+updated: 1639759645916
 created: 1636930800000
 ---
 
@@ -36,4 +36,8 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 - #topics.polarity-management
+
+## Series
+
+
 

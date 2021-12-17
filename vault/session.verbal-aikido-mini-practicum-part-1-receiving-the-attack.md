@@ -2,7 +2,7 @@
 id: h1yvg5fYVNqTG9ZbTLYYt
 title: Verbal Aikido Mini-Practicum Part 1
 desc: ' Receiving the Attack'
-updated: 1639759165166
+updated: 1639759645915
 created: 1620597600000
 ---
 
@@ -48,4 +48,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.verbal-aikido
+
+## Series
+
+- [[series.verbal-aikido-mini-practicum-part-1]]
 

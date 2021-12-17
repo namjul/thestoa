@@ -2,7 +2,7 @@
 id: HHOCThlyL6s2vtzY9QYcu
 title: Exiting Modernity
 desc: ''
-updated: 1639759165165
+updated: 1639759645915
 created: 1631570400000
 ---
 
@@ -37,6 +37,10 @@ Support The Stoa: patreon.com/the_stoa
 - #modernity
 
 ## Topics
+
+
+
+## Series
 
 
 

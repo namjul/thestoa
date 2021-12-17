@@ -2,7 +2,7 @@
 id: ijipE7QU8YZrKOMi-4aS-
 title: Dead Cool
 desc: ' Unmasking Coolness'
-updated: 1639759165164
+updated: 1639759645914
 created: 1621548000000
 ---
 
@@ -38,4 +38,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 
 - #topics.dead-cool
 - #topics.unmasking-coolness
+
+## Series
+
+
 

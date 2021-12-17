@@ -2,7 +2,7 @@
 id: qGlLdjXrnPnHPWX1Um2Qi
 title: Evolving Ground
 desc: ' 02 View'
-updated: 1639759165164
+updated: 1639759645914
 created: 1602972000000
 ---
 
@@ -36,4 +36,8 @@ thestoa.substack.com
 ## Topics
 
 
+
+## Series
+
+- [[series.evolving-ground]]
 

@@ -2,7 +2,7 @@
 id: Ki9qWhbwqImpyMehfkR_8
 title: Collective Presencing
 desc: ' A Conversation'
-updated: 1639759165166
+updated: 1639759645916
 created: 1589084585000
 ---
 
@@ -32,4 +32,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.collective-presencing
+
+## Series
+
+- [[series.collective-presencing]]
 

@@ -2,7 +2,7 @@
 id: iLjwIqSFAjNQ4j-DO3XBs
 title: Finding the Elders
 desc: ''
-updated: 1639759165163
+updated: 1639759645913
 created: 1625522400000
 ---
 
@@ -33,6 +33,10 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 - #elders
 
 ## Topics
+
+
+
+## Series
 
 
 

@@ -2,7 +2,7 @@
 id: IGK4paEeFyEo6tKOzQYHW
 title: Networked Tribalism
 desc: ' The Future'
-updated: 1639759165170
+updated: 1639759645918
 created: 1598220000000
 ---
 
@@ -33,4 +33,8 @@ Support The Stoa @ www.patreon.com/the_stoa
 ## Topics
 
 - #topics.networked-tribalism
+
+## Series
+
+- [[series.networked-tribalism]]
 

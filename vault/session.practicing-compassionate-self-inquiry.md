@@ -2,7 +2,7 @@
 id: wusXI7AJUNbxDU8Q5YESk
 title: Practicing Compassionate Self-Inquiry
 desc: ''
-updated: 1639759165167
+updated: 1639759645916
 created: 1635372000000
 ---
 
@@ -36,4 +36,8 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 - #topics.compassionate-self
+
+## Series
+
+
 

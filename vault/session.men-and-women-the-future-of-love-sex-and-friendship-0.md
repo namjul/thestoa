@@ -2,7 +2,7 @@
 id: YuINiBAwYaviIAtnUdiLp
 title: Men & Women
 desc: ' The Future of Love, Sex and Friendship'
-updated: 1639759165174
+updated: 1639759645920
 created: 1604964171000
 ---
 
@@ -42,4 +42,8 @@ thestoa.substack.com
 ## Topics
 
 
+
+## Series
+
+- [[series.men-and-women]]
 

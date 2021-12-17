@@ -2,7 +2,7 @@
 id: RAp0cqpi_WcDnc3Zb1zWd
 title: Human Collaboration
 desc: ''
-updated: 1639759165164
+updated: 1639759645914
 created: 1594159200000
 ---
 
@@ -34,4 +34,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.human-collaboration
+
+## Series
+
+
 

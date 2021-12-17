@@ -2,7 +2,7 @@
 id: 8QkR66rG-lokWNSIABeDf
 title: The Contemplative's Socrates
 desc: ''
-updated: 1639759165172
+updated: 1639759645919
 created: 1598302352000
 ---
 
@@ -31,6 +31,10 @@ Support The Stoa @ www.patreon.com/the_stoa
 - #socrates
 
 ## Topics
+
+
+
+## Series
 
 
 

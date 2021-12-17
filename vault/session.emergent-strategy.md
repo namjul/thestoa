@@ -2,7 +2,7 @@
 id: gkuNaQbTohe0Dp86Mq-kO
 title: Emergent Strategy
 desc: ''
-updated: 1639759165166
+updated: 1639759645916
 created: 1631743200000
 ---
 
@@ -36,4 +36,8 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 - #topics.emergent-strategy
+
+## Series
+
+
 

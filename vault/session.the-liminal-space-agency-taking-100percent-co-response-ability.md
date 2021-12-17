@@ -2,7 +2,7 @@
 id: DU3kVNbHX4xsHJ4ngae4X
 title: The Liminal Space Agency
 desc: ' Taking 100% Co-Response-Ability'
-updated: 1639759165171
+updated: 1639759645919
 created: 1626818400000
 ---
 
@@ -56,4 +56,8 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 - #topics.liminal-space
+
+## Series
+
+
 

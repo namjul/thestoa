@@ -2,7 +2,7 @@
 id: f6APREpyH6fJPOxpAVllc
 title: The Metagame Mastermind
 desc: ' The Stoic Hustle'
-updated: 1639759165165
+updated: 1639759645915
 created: 1591488594000
 ---
 
@@ -35,4 +35,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 
 - #topics.metagame-mastermind
 - #topics.stoic-hustle
+
+## Series
+
+- [[series.the-metagame-mastermind]]
 

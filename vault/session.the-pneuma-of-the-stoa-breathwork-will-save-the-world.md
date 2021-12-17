@@ -2,7 +2,7 @@
 id: t1BNYNVfXvOv7UGTEENHR
 title: The Pneuma of The Stoa
 desc: ' Breathwork Will Save the World'
-updated: 1639759165168
+updated: 1639759645917
 created: 1614207600000
 ---
 
@@ -42,6 +42,10 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 - #world
 
 ## Topics
+
+
+
+## Series
 
 
 

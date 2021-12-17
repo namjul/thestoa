@@ -2,7 +2,7 @@
 id: rLkc5Pvg4jq9ykJtkrtUw
 title: The Side View
 desc: ' Attention Is an Art Form'
-updated: 1639759165171
+updated: 1639759645919
 created: 1614034800000
 ---
 
@@ -43,4 +43,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 
 - #topics.side-view
 - #topics.art-form
+
+## Series
+
+
 

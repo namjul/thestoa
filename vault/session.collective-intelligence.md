@@ -2,7 +2,7 @@
 id: pWnx-Bx0jfsA465G9IqsU
 title: Collective Intelligence
 desc: ''
-updated: 1639759165168
+updated: 1639759645917
 created: 1578265200000
 ---
 
@@ -34,4 +34,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.collective-intelligence
+
+## Series
+
+- [[series.collective-intelligence]]
 

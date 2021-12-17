@@ -2,7 +2,7 @@
 id: Cmv725G6v93coxz-Sjai7
 title: John Vervaeke - The View from Above
 desc: ' A Transformation of Perspectival and Participatory Knowing'
-updated: 1639759165164
+updated: 1639759645914
 created: 1567893600000
 ---
 
@@ -38,4 +38,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.participatory-knowing
+
+## Series
+
+
 

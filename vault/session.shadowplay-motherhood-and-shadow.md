@@ -2,7 +2,7 @@
 id: 6ZClYvy08f3UlHl6mhjC1
 title: Shadowplay
 desc: ' Motherhood and Shadow'
-updated: 1639759165166
+updated: 1639759645916
 created: 1614726000000
 ---
 
@@ -41,4 +41,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 
+
+## Series
+
+- [[series.shadowplay]]
 

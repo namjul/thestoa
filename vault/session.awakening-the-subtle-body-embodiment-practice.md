@@ -2,7 +2,7 @@
 id: ZIkFeXkvxiiLYn6Dzi6bQ
 title: Awakening the Subtle Body
 desc: ' Embodiment Practice'
-updated: 1639759165174
+updated: 1639759645920
 created: 1636498800000
 ---
 
@@ -39,4 +39,8 @@ Support The Stoa: patreon.com/the_stoa
 
 - #topics.subtle-body
 - #topics.embodiment-practice
+
+## Series
+
+
 

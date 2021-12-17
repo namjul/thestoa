@@ -2,7 +2,7 @@
 id: KGwRk4tWjaOzj8W61Qw7h
 title: 'Vision, Service, and Community'
 desc: ''
-updated: 1639759165164
+updated: 1639759645914
 created: 1633384800000
 ---
 
@@ -37,6 +37,10 @@ Support The Stoa: patreon.com/the_stoa
 - #community
 
 ## Topics
+
+
+
+## Series
 
 
 

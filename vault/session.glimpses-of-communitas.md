@@ -2,7 +2,7 @@
 id: 8mKh65lmvW7iP9WW3Gouf
 title: Glimpses of Communitas
 desc: ''
-updated: 1639759165175
+updated: 1639759645920
 created: 1600120800000
 ---
 
@@ -33,6 +33,10 @@ Keep up-to-date with The Stoa @ https://thestoa.substack.com
 - #communitas
 
 ## Topics
+
+
+
+## Series
 
 
 

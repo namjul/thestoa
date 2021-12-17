@@ -2,7 +2,7 @@
 id: UEbZKpsJLDHMCn0bq79A0
 title: Structural Dynamics and the Creative Process
 desc: ''
-updated: 1639759165164
+updated: 1639759645914
 created: 1578092400000
 ---
 
@@ -38,4 +38,8 @@ thestoa.substack.com
 
 - #topics.structural-dynamics
 - #topics.creative-process
+
+## Series
+
+
 

@@ -2,7 +2,7 @@
 id: 7z9yLMWXxt0rrE8EI9DTc
 title: Prerequisites for Communitas
 desc: ''
-updated: 1639759165168
+updated: 1639759645917
 created: 1601330400000
 ---
 
@@ -39,6 +39,10 @@ thestoa.substack.com
 - #communitas
 
 ## Topics
+
+
+
+## Series
 
 
 

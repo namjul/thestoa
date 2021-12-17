@@ -2,7 +2,7 @@
 id: sdHJOtFgXc5TbJ8PAiXDe
 title: Emotional Effector Patterns
 desc: ''
-updated: 1639759165168
+updated: 1639759645917
 created: 1604444400000
 ---
 
@@ -39,4 +39,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.emotional-effector
+
+## Series
+
+
 

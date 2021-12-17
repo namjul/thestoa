@@ -2,7 +2,7 @@
 id: TfMxjL7meH44HxtcNicMM
 title: Willow Monastic Academy Launch Party!
 desc: ''
-updated: 1639759165169
+updated: 1639759645918
 created: 1604703600000
 ---
 
@@ -37,4 +37,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.willow-monastic
+
+## Series
+
+
 

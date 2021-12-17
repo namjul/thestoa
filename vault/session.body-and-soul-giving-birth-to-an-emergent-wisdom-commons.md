@@ -2,7 +2,7 @@
 id: hos828pcKHGplpoActTTW
 title: Body and Soul
 desc: ' Giving Birth to an Emergent Wisdom Commons'
-updated: 1639759165166
+updated: 1639759645916
 created: 1613948400000
 ---
 
@@ -52,4 +52,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.emergent-wisdom
+
+## Series
+
+- [[series.body-and-soul]]
 

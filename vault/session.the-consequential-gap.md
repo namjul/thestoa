@@ -2,7 +2,7 @@
 id: 3nET8FbbXQOJgxNb7J80R
 title: The Consequential Gap
 desc: ''
-updated: 1639759165177
+updated: 1639759645921
 created: 1586479334000
 ---
 
@@ -32,4 +32,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.consequential-gap
+
+## Series
+
+
 

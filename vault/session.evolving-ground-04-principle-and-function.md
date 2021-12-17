@@ -2,7 +2,7 @@
 id: AjswPSyereWLECksBbQek
 title: Evolving Ground
 desc: ' 04 Principle & Function'
-updated: 1639759165169
+updated: 1639759645918
 created: 1621720800000
 ---
 
@@ -38,4 +38,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 
+
+## Series
+
+- [[series.evolving-ground]]
 

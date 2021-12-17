@@ -2,7 +2,7 @@
 id: xv_IQ9bOMrEoYZFXqJW7C
 title: Chuck Chakrapani - How to Be a Stoic When You Don't Know How
 desc: ''
-updated: 1639759165164
+updated: 1639759645914
 created: 1567893600000
 ---
 
@@ -34,4 +34,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.chuck-chakrapani
+
+## Series
+
+
 

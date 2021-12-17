@@ -2,7 +2,7 @@
 id: '-MUthg49kk5u0fWNDD6jc'
 title: Marx's Epicureanism and Peterson's Stoicism
 desc: ''
-updated: 1639759165172
+updated: 1639759645919
 created: 1592258400000
 ---
 
@@ -35,6 +35,10 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 - #stoicism
 
 ## Topics
+
+
+
+## Series
 
 
 

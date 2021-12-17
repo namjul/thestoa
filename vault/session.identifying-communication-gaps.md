@@ -2,7 +2,7 @@
 id: um5-ser_uD_QXBIgp_Z-d
 title: Identifying Communication Gaps
 desc: ''
-updated: 1639759165172
+updated: 1639759645919
 created: 1605567600000
 ---
 
@@ -40,4 +40,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.communication-gaps
+
+## Series
+
+
 

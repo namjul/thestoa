@@ -2,7 +2,7 @@
 id: LJOwSxwvU7uvk1z-1REGD
 title: Mental Models
 desc: ''
-updated: 1639759165166
+updated: 1639759645916
 created: 1599170400000
 ---
 
@@ -42,4 +42,8 @@ To keep up-to-date on what is happening at The Stoa: https://thestoa.substack.co
 ## Topics
 
 - #topics.mental-models
+
+## Series
+
+- [[series.mental-models]]
 

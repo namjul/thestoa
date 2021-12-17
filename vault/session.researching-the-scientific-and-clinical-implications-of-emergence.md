@@ -2,7 +2,7 @@
 id: Ajp_s-uAk9yJpvl_wU_Fr
 title: Researching the Scientific and Clinical implications of Emergence
 desc: ''
-updated: 1639759165165
+updated: 1639759645915
 created: 1579302000000
 ---
 
@@ -35,4 +35,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.clinical-implications
+
+## Series
+
+
 

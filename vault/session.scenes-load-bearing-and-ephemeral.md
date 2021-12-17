@@ -2,7 +2,7 @@
 id: '-FCZ9u77PbxNqRQm5-R5u'
 title: Scenes
 desc: ' Load-Bearing and Ephemeral'
-updated: 1639759165171
+updated: 1639759645919
 created: 1614726000000
 ---
 
@@ -40,6 +40,10 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 - #ephemeral
 
 ## Topics
+
+
+
+## Series
 
 
 

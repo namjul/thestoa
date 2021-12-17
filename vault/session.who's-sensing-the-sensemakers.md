@@ -2,7 +2,7 @@
 id: i6A5Y9KMzcBHQxAm450uW
 title: Who's Sensing the Sensemakers
 desc: ''
-updated: 1639759165177
+updated: 1639759645921
 created: 1591912800000
 ---
 
@@ -32,6 +32,10 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 - #sensemakers
 
 ## Topics
+
+
+
+## Series
 
 
 

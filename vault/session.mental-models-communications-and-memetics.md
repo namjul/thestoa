@@ -2,7 +2,7 @@
 id: Oc1rCWBIURA8RLWSiXWEx
 title: Mental Models
 desc: ' Communications and Memetics'
-updated: 1639759165175
+updated: 1639759645920
 created: 1599170400000
 ---
 
@@ -46,4 +46,8 @@ Keep up-to-date with The Stoa @ https://thestoa.substack.com
 ## Topics
 
 - #topics.mental-models
+
+## Series
+
+- [[series.mental-models]]
 

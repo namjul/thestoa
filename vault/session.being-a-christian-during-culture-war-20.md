@@ -2,7 +2,7 @@
 id: 3XJo_QRMw3pA7SOvpYgcG
 title: Being a Christian During Culture War 2.0
 desc: ''
-updated: 1639759165167
+updated: 1639759645916
 created: 1598997600000
 ---
 
@@ -31,4 +31,8 @@ To keep up to date on what is happening at The Stoa: https://thestoa.substack.co
 ## Topics
 
 - #topics.culture-war
+
+## Series
+
+
 

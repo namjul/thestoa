@@ -2,7 +2,7 @@
 id: 0fTpnpZYOisD23M1Fr0An
 title: Building an Aesthetic Movement
 desc: ''
-updated: 1639759165173
+updated: 1639759645919
 created: 1587506400000
 ---
 
@@ -34,4 +34,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.aesthetic-movement
+
+## Series
+
+
 

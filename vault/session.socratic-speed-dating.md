@@ -2,7 +2,7 @@
 id: jbvn3OyUO5jz9FOIvrXcP
 title: Socratic Speed Dating
 desc: ''
-updated: 1639759165176
+updated: 1639759645921
 created: 1586233329000
 ---
 
@@ -33,4 +33,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.socratic-speed
+
+## Series
+
+
 

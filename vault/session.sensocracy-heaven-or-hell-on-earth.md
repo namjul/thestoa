@@ -2,7 +2,7 @@
 id: PqfZJ_pBEI87SI94_Qcc2
 title: Sensocracy
 desc: ' Heaven or Hell on Earth?'
-updated: 1639759165167
+updated: 1639759645916
 created: 1605135600000
 ---
 
@@ -35,6 +35,10 @@ thestoa.substack.com
 - #earth
 
 ## Topics
+
+
+
+## Series
 
 
 

@@ -2,7 +2,7 @@
 id: cY-VFiwvdCt5uTrWLzTMK
 title: Verbal Aikido Mini-Practicum Part 3
 desc: ' Channeling the Attack'
-updated: 1639759165169
+updated: 1639759645918
 created: 1620597600000
 ---
 
@@ -48,4 +48,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.verbal-aikido
+
+## Series
+
+- [[series.verbal-aikido-mini-practicum-part-1]]
 

@@ -2,7 +2,7 @@
 id: bTyajJ5yBUq6bfJvhNm6H
 title: Situational Assessment About The Stoa
 desc: ''
-updated: 1639759165165
+updated: 1639759645915
 created: 1616281200000
 ---
 
@@ -30,4 +30,8 @@ The four attractors of The Stoa: https://thestoa.substack.com/p/the-four-attract
 ## Topics
 
 - #topics.situational-assessment
+
+## Series
+
+
 

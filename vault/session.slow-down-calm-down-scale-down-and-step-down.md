@@ -2,7 +2,7 @@
 id: OKhmppHojoVjWIAoWyFHz
 title: 'Slow Down, Calm Down, Scale Down, and Step Down'
 desc: ''
-updated: 1639759165165
+updated: 1639759645915
 created: 1608505200000
 ---
 
@@ -35,6 +35,10 @@ thestoa.substack.com
 - #step
 
 ## Topics
+
+
+
+## Series
 
 
 

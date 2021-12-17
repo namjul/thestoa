@@ -2,7 +2,7 @@
 id: 45U-4PxtB7pcCPRcrhGW8
 title: Settler Sexualities
 desc: ''
-updated: 1639759165172
+updated: 1639759645919
 created: 1604617200000
 ---
 
@@ -34,4 +34,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.settler-sexualities
+
+## Series
+
+
 

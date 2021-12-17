@@ -2,7 +2,7 @@
 id: pMWgzpUv11COsZRI2m551
 title: COVID-19 and Metamodernism
 desc: ' A Commentary'
-updated: 1639759165166
+updated: 1639759645915
 created: 1587091180000
 ---
 
@@ -28,6 +28,10 @@ Support The Stoa @ www.patreon.com/the_stoa
 - #commentary
 
 ## Topics
+
+
+
+## Series
 
 
 

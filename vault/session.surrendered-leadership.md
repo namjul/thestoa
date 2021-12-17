@@ -2,7 +2,7 @@
 id: rBnrKEyZnZi1wZQX4pywM
 title: Surrendered Leadership
 desc: ''
-updated: 1639759165167
+updated: 1639759645916
 created: 1600725600000
 ---
 
@@ -34,6 +34,10 @@ Keep up-to-date with The Stoa @ https://thestoa.substack.com
 - #leadership
 
 ## Topics
+
+
+
+## Series
 
 
 

@@ -2,7 +2,7 @@
 id: 50wWEJKW_2uuN4Vh297-7
 title: The Situation
 desc: ' Sensemaking the Pluriverse Between Design and Dasein'
-updated: 1639759165170
+updated: 1639759645919
 created: 1615158000000
 ---
 
@@ -37,6 +37,10 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 - #dasein
 
 ## Topics
+
+
+
+## Series
 
 
 

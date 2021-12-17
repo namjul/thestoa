@@ -2,7 +2,7 @@
 id: pysBBbU9r97Xs2SN4jwE8
 title: Origins of the Self Part 3
 desc: ' Individuation Beyond Identity'
-updated: 1639759165166
+updated: 1639759645916
 created: 1637708400000
 ---
 
@@ -45,4 +45,8 @@ thestoa.substack.com
 ## Topics
 
 
+
+## Series
+
+- [[series.origins-of-the-self]]
 

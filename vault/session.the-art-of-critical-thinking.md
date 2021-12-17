@@ -2,7 +2,7 @@
 id: zd145ZAR7rrGwW3BHksoM
 title: The Art of Critical Thinking
 desc: ''
-updated: 1639759165169
+updated: 1639759645918
 created: 1630965600000
 ---
 
@@ -37,4 +37,8 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 - #topics.critical-thinking
+
+## Series
+
+
 

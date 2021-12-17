@@ -2,7 +2,7 @@
 id: _I9H3khmC03HFN7WPdZTx
 title: Monastic Conversations
 desc: ''
-updated: 1639759165170
+updated: 1639759645918
 created: 1606258800000
 ---
 
@@ -34,4 +34,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.monastic-conversations
+
+## Series
+
+- [[series.monastic-conversations]]
 

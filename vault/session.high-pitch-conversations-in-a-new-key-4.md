@@ -2,7 +2,7 @@
 id: Pw4Bac4R_T6SnFKW8Jy4b
 title: High Pitch
 desc: ' Conversations in a New Key'
-updated: 1639759165169
+updated: 1639759645917
 created: 1606345200000
 ---
 
@@ -36,4 +36,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.high-pitch
+
+## Series
+
+- [[series.high-pitch]]
 

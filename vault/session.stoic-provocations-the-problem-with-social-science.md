@@ -2,7 +2,7 @@
 id: WK92olaiCSBgqdsHFJVVV
 title: Stoic Provocations
 desc: ' The Problem With Social Science'
-updated: 1639759165168
+updated: 1639759645917
 created: 1604271600000
 ---
 
@@ -37,4 +37,8 @@ thestoa.substack.com
 
 - #topics.stoic-provocations
 - #topics.social-science
+
+## Series
+
+- [[series.stoic-provocations]]
 

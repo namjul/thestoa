@@ -2,7 +2,7 @@
 id: KgA_eTrB28-xdQLECVqgA
 title: Metamodern Stoicism
 desc: ''
-updated: 1639759165164
+updated: 1639759645914
 created: 1598306400000
 ---
 
@@ -33,4 +33,8 @@ Sign up for the mailing list @ https://thestoa.substack.com
 ## Topics
 
 - #topics.metamodern-stoicism
+
+## Series
+
+
 

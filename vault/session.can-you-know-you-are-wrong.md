@@ -2,7 +2,7 @@
 id: aQr0AzOWRymcl1pFvjDxe
 title: Can You Know You Are Wrong?
 desc: ''
-updated: 1639759165165
+updated: 1639759645915
 created: 1600293600000
 ---
 
@@ -34,6 +34,10 @@ Keep up-to-date with The Stoa @ https://thestoa.substack.com
 
 
 ## Topics
+
+
+
+## Series
 
 
 

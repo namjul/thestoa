@@ -2,7 +2,7 @@
 id: 2DbZX7mgFKmVwxNltkiT8
 title: Social Meditation Mini-Practicum
 desc: ''
-updated: 1639759165166
+updated: 1639759645916
 created: 1620684000000
 ---
 
@@ -42,4 +42,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.social-meditation
+
+## Series
+
+
 

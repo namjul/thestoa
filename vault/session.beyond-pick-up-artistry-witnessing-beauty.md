@@ -2,7 +2,7 @@
 id: hMXgB9m0I8iHbuUlOEIsa
 title: Beyond Pick Up Artistry
 desc: ' Witnessing Beauty'
-updated: 1639759165164
+updated: 1639759645914
 created: 1624226400000
 ---
 
@@ -39,6 +39,10 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 - #beauty
 
 ## Topics
+
+
+
+## Series
 
 
 

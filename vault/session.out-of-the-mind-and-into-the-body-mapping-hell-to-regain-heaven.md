@@ -2,7 +2,7 @@
 id: zvc49Y-1Z2SGhtj46gzP5
 title: Out of the Mind & Into the Body
 desc: ' Mapping Hell to Regain Heaven'
-updated: 1639759165168
+updated: 1639759645917
 created: 1634853600000
 ---
 
@@ -45,4 +45,8 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 - #topics.mapping-hell
+
+## Series
+
+
 

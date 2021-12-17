@@ -2,7 +2,7 @@
 id: C4ZenH_1Ix0keKUGfk-rv
 title: Decolonial Futures
 desc: ''
-updated: 1639759165177
+updated: 1639759645921
 created: 1596578400000
 ---
 
@@ -37,4 +37,8 @@ Join The Stoa mailing list: thestoa.substack.com
 ## Topics
 
 - #topics.decolonial-futures
+
+## Series
+
+
 

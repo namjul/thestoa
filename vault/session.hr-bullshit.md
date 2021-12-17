@@ -2,7 +2,7 @@
 id: AHu36B-hnecUpiQFymjDU
 title: HR Bullshit
 desc: ''
-updated: 1639759165164
+updated: 1639759645914
 created: 1626300000000
 ---
 
@@ -34,6 +34,10 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 - #bullshit
 
 ## Topics
+
+
+
+## Series
 
 
 

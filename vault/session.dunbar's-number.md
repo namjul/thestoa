@@ -2,7 +2,7 @@
 id: G4NPFrHB9cSGDEOwlU6G7
 title: Dunbar's Number
 desc: ''
-updated: 1639759165165
+updated: 1639759645915
 created: 1622066400000
 ---
 
@@ -34,6 +34,10 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 - #number
 
 ## Topics
+
+
+
+## Series
 
 
 

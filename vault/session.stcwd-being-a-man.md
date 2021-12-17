@@ -2,7 +2,7 @@
 id: ePlDCKD3EwKMc0ns_KsfH
 title: STCWD
 desc: ' Being a Man'
-updated: 1639759165166
+updated: 1639759645915
 created: 1618347537000
 ---
 
@@ -46,4 +46,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 
+
+## Series
+
+- [[series.stcwd]]
 

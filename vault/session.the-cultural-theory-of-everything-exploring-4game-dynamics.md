@@ -2,7 +2,7 @@
 id: yh9fSiIstZI_4wXc7kjAC
 title: The Cultural Theory of Everything
 desc: ' Exploring 4Game Dynamics'
-updated: 1639759165167
+updated: 1639759645916
 created: 1600207200000
 ---
 
@@ -39,4 +39,8 @@ Keep up-to-date with The Stoa @ https://thestoa.substack.com
 
 - #topics.cultural-theory
 - #topics.game-dynamics
+
+## Series
+
+
 

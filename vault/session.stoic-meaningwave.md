@@ -2,7 +2,7 @@
 id: QZwhFoR1dTVQjjDHya6_B
 title: Stoic Meaningwave
 desc: ''
-updated: 1639759165174
+updated: 1639759645920
 created: 1589178127000
 ---
 
@@ -32,4 +32,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.stoic-meaningwave
+
+## Series
+
+
 

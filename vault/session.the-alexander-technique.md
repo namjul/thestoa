@@ -2,7 +2,7 @@
 id: qvwiHlBoid4ARM78t5U6P
 title: The Alexander Technique
 desc: ''
-updated: 1639759165164
+updated: 1639759645914
 created: 1601071200000
 ---
 
@@ -36,4 +36,8 @@ Keep up-to-date with The Stoa @ https://thestoa.substack.com
 ## Topics
 
 - #topics.alexander-technique
+
+## Series
+
+
 

@@ -2,7 +2,7 @@
 id: N3ig-l5ABWDBJts3MpG9F
 title: Soul Shivers S3
 desc: ''
-updated: 1639759165168
+updated: 1639759645917
 created: 1614034800000
 ---
 
@@ -42,4 +42,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.soul-shivers
+
+## Series
+
+- [[series.soul-shivers-s3]]
 

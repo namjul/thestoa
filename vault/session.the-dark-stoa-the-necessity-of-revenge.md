@@ -2,7 +2,7 @@
 id: aZxNW0HyhNLR8qT8T1cpb
 title: The Dark Stoa
 desc: ' The Necessity of Revenge'
-updated: 1639759165166
+updated: 1639759645915
 created: 1616108400000
 ---
 
@@ -40,4 +40,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.dark-stoa
+
+## Series
+
+- [[series.the-dark-stoa]]
 

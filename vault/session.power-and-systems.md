@@ -2,7 +2,7 @@
 id: NoolROPUfamOvvEwtHjCM
 title: Power & Systems
 desc: ''
-updated: 1639759165168
+updated: 1639759645917
 created: 1635980400000
 ---
 
@@ -35,6 +35,10 @@ thestoa.substack.com
 - #systems
 
 ## Topics
+
+
+
+## Series
 
 
 

@@ -2,7 +2,7 @@
 id: 8lzaTu8MJeWPgVnLfjAjB
 title: Metamodern Deep-Dives
 desc: ' Sexuality'
-updated: 1639759165172
+updated: 1639759645919
 created: 1603058400000
 ---
 
@@ -48,4 +48,8 @@ thestoa.substack.com
 ## Topics
 
 
+
+## Series
+
+- [[series.metamodern-deep-dives]]
 

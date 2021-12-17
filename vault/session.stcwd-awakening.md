@@ -2,7 +2,7 @@
 id: ww0u1cig6q6kN6ABp-jmF
 title: STCWD
 desc: ' Awakening'
-updated: 1639759165163
+updated: 1639759645914
 created: 1613948400000
 ---
 
@@ -41,4 +41,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 
+
+## Series
+
+- [[series.stcwd]]
 

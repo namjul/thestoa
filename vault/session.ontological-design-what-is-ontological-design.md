@@ -2,7 +2,7 @@
 id: omaRSs74j1PBqC2AUWWNm
 title: Ontological Design
 desc: ' What is Ontological Design?'
-updated: 1639759165171
+updated: 1639759645919
 created: 1609196400000
 ---
 
@@ -39,4 +39,8 @@ thestoa.substack.com
 
 - #topics.ontological-design
 - #topics.ontological-design
+
+## Series
+
+- [[series.ontological-design]]
 

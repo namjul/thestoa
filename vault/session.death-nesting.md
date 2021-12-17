@@ -2,7 +2,7 @@
 id: M4u0FMGJ_oMpW9Ir-KMaC
 title: Death Nesting
 desc: ''
-updated: 1639759165170
+updated: 1639759645918
 created: 1627601975000
 ---
 
@@ -36,4 +36,8 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 - #topics.death-nesting
+
+## Series
+
+
 

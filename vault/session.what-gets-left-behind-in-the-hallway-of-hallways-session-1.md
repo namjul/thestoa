@@ -2,7 +2,7 @@
 id: L5WFfTIw0nvcjLJzaWJQq
 title: What Gets Left Behind in the Hallway of Hallways
 desc: ' Session 1'
-updated: 1639759165165
+updated: 1639759645915
 created: 1604876400000
 ---
 
@@ -41,4 +41,8 @@ thestoa.substack.com
 ## Topics
 
 
+
+## Series
+
+- [[series.what-gets-left-behind-in-the-hallway-of-hallways]]
 

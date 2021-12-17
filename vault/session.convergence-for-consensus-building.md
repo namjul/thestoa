@@ -2,7 +2,7 @@
 id: vzSQ45ASQL_ewmonXditb
 title: Convergence for Consensus Building
 desc: ''
-updated: 1639759165170
+updated: 1639759645918
 created: 1610578800000
 ---
 
@@ -35,4 +35,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.consensus-building
+
+## Series
+
+
 

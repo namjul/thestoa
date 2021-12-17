@@ -2,7 +2,7 @@
 id: x0WN9YUjkJmkcPS3rPOmS
 title: On the Metapolitics of Pandemics
 desc: ''
-updated: 1639759165170
+updated: 1639759645918
 created: 1586922089000
 ---
 
@@ -31,6 +31,10 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 - #pandemics
 
 ## Topics
+
+
+
+## Series
 
 
 

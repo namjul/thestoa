@@ -2,7 +2,7 @@
 id: eYDsoVu42b5CuNtSQIze0
 title: Conflict = Energy
 desc: ' The Transformative Practice of Authentic Relating'
-updated: 1639759165169
+updated: 1639759645918
 created: 1622498400000
 ---
 
@@ -41,4 +41,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.transformative-practice
+
+## Series
+
+
 

@@ -2,7 +2,7 @@
 id: YW0NnX3nC842MclpC2BgF
 title: The Theory of Neural Annealing
 desc: ''
-updated: 1639759165165
+updated: 1639759645915
 created: 1623016800000
 ---
 
@@ -39,4 +39,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.neural-annealing
+
+## Series
+
+
 

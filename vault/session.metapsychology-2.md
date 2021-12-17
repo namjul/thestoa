@@ -2,7 +2,7 @@
 id: PnUH4CuO7sEb9PAH1WjN9
 title: Metapsychology
 desc: ''
-updated: 1639759165166
+updated: 1639759645915
 created: 1599429600000
 ---
 
@@ -41,4 +41,8 @@ https://thestoa.substack.com
 ## Topics
 
 
+
+## Series
+
+- [[series.metapsychology]]
 

@@ -2,7 +2,7 @@
 id: TZXq5KFAOmtAWjiyanEJb
 title: The View from Above
 desc: ''
-updated: 1639759165166
+updated: 1639759645916
 created: 1596319200000
 ---
 
@@ -28,6 +28,10 @@ Support The Stoa @ https://www.patreon.com/the_stoa
 - #view
 
 ## Topics
+
+
+
+## Series
 
 
 

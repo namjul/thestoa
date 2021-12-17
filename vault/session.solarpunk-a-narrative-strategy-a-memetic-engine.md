@@ -2,7 +2,7 @@
 id: ilTDm9GFWDkTO85-GkpK_
 title: Solarpunk
 desc: ' A Narrative Strategy, a Memetic Engine'
-updated: 1639759165165
+updated: 1639759645915
 created: 1629151200000
 ---
 
@@ -45,4 +45,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 
 - #topics.narrative-strategy
 - #topics.memetic-engine
+
+## Series
+
+
 

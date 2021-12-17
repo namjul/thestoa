@@ -2,7 +2,7 @@
 id: RrKXlvan3znUSJxTsEq9F
 title: A Generation’s Worth Part 2
 desc: ' Matrimony'
-updated: 1639759165163
+updated: 1639759645914
 created: 1628632800000
 ---
 
@@ -40,4 +40,8 @@ thestoa.substack.com
 ## Topics
 
 
+
+## Series
+
+- [[series.a-generation's-worth-part-3]]
 

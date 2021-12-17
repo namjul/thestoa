@@ -2,7 +2,7 @@
 id: Z1t8-kVABYYmqEJYcdISd
 title: Coaches in Resonance
 desc: ''
-updated: 1639759165169
+updated: 1639759645918
 created: 1612134000000
 ---
 
@@ -43,6 +43,10 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 - #resonance
 
 ## Topics
+
+
+
+## Series
 
 
 

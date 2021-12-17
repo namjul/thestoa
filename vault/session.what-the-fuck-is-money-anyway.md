@@ -2,7 +2,7 @@
 id: '-eHH47r06sm5nIiEDxNwG'
 title: What the Fuck Is Money Anyway?
 desc: ''
-updated: 1639759165165
+updated: 1639759645915
 created: 1638399600000
 ---
 
@@ -35,6 +35,10 @@ Support The Stoa: patreon.com/the_stoa
 - #money
 
 ## Topics
+
+
+
+## Series
 
 
 

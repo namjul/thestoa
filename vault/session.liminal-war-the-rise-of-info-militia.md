@@ -2,7 +2,7 @@
 id: pO5TTBAeYV9oB2Yf1gti3
 title: Liminal War
 desc: ' The Rise of Info Militia'
-updated: 1639759165176
+updated: 1639759645920
 created: 1586573302000
 ---
 
@@ -33,4 +33,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 
 - #topics.liminal-war
 - #topics.info-militia
+
+## Series
+
+
 

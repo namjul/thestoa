@@ -2,7 +2,7 @@
 id: Ex36zqkibI5nhz_RsfTjJ
 title: Getting Right With Technology
 desc: ' Flourishing in the Age of Antisocial Media'
-updated: 1639759165172
+updated: 1639759645919
 created: 1624917600000
 ---
 
@@ -40,4 +40,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.antisocial-media
+
+## Series
+
+
 

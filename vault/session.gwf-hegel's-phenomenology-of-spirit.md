@@ -2,7 +2,7 @@
 id: UhcRO0m_FnGzsVq-XDU-5
 title: G.W.F. Hegel’s Phenomenology of Spirit
 desc: ''
-updated: 1639759165165
+updated: 1639759645915
 created: 1638140400000
 ---
 
@@ -42,4 +42,8 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 - #topics.gwf-hegel
+
+## Series
+
+
 

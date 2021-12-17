@@ -2,7 +2,7 @@
 id: AAjO_lVPZYuwefOsZtqeD
 title: Deep Politics
 desc: ''
-updated: 1639759165164
+updated: 1639759645914
 created: 1599602400000
 ---
 
@@ -31,4 +31,8 @@ To keep up-to-date on what is happening at The Stoa: https://thestoa.substack.co
 ## Topics
 
 - #topics.deep-politics
+
+## Series
+
+
 

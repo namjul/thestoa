@@ -2,7 +2,7 @@
 id: dFzeI3xe7tBD3fjvhqCCe
 title: The Way Forward Part 2
 desc: ' Skillful With Diverse Modes of Cognition'
-updated: 1639759165168
+updated: 1639759645917
 created: 1637622000000
 ---
 
@@ -45,4 +45,9 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 - #topics.diverse-modes
+
+## Series
+
+- [[series.the-way-forward-beyond-the-dysfunctions-of-modern-culture-part-1]]
+- [[series.the-way-forward-part-1]]
 

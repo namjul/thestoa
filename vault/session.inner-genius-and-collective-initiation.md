@@ -2,7 +2,7 @@
 id: rrxNyrgzlIX7aXCd6PwUc
 title: Inner Genius & Collective Initiation
 desc: ''
-updated: 1639759165176
+updated: 1639759645921
 created: 1594764000000
 ---
 
@@ -41,4 +41,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 
 - #topics.inner-genius
 - #topics.collective-initiation
+
+## Series
+
+
 

@@ -2,7 +2,7 @@
 id: gcYRYWk7olzWcOAaQcFMt
 title: Consequential Gap
 desc: ''
-updated: 1639759165198
-created: 1639759165198
+updated: 1639759645946
+created: 1639759645946
 ---
 

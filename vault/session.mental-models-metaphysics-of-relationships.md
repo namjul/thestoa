@@ -2,7 +2,7 @@
 id: S4tnKzcwDcvJqReAWZsyD
 title: Mental Models
 desc: ' Metaphysics of Relationships'
-updated: 1639759165165
+updated: 1639759645915
 created: 1599170400000
 ---
 
@@ -46,4 +46,8 @@ Keep up-to-date with The Stoa @ https://thestoa.substack.com
 ## Topics
 
 - #topics.mental-models
+
+## Series
+
+- [[series.mental-models]]
 

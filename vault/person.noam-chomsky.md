@@ -2,8 +2,8 @@
 id: GDF-j0I3oo0wfPRe3gNjx
 title: Noam Chomsky
 desc: ''
-updated: 1639759165177
-created: 1639759165177
+updated: 1639759645921
+created: 1639759645921
 ---
 
 

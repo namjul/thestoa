@@ -2,7 +2,7 @@
 id: U8Wvhp2cUOVkh0gJv5yzJ
 title: Rebelling with Data
 desc: ' The Future of Information'
-updated: 1639759165176
+updated: 1639759645921
 created: 1592181153000
 ---
 
@@ -33,6 +33,10 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 - #information
 
 ## Topics
+
+
+
+## Series
 
 
 

@@ -2,7 +2,7 @@
 id: z-jPO6waNEwXLa0sKIpPa
 title: STCWD
 desc: ' Metamodern Play'
-updated: 1639759165169
+updated: 1639759645918
 created: 1615244400000
 ---
 
@@ -41,4 +41,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 
+
+## Series
+
+- [[series.stcwd]]
 

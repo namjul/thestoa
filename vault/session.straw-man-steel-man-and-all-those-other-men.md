@@ -2,7 +2,7 @@
 id: kFSy0dSyDEb-mulT0MPGj
 title: 'Straw Man, Steel Man, and All Those Other Men'
 desc: ''
-updated: 1639759165173
+updated: 1639759645919
 created: 1622498400000
 ---
 
@@ -37,4 +37,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 - #topics.straw-man
 - #topics.steel-man
 - #topics.other-men
+
+## Series
+
+
 

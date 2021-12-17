@@ -2,7 +2,7 @@
 id: veqQ9gZna8x9zusfLl2NY
 title: Verbal Aikido
 desc: ''
-updated: 1639759165168
+updated: 1639759645917
 created: 1608260397000
 ---
 
@@ -34,4 +34,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.verbal-aikido
+
+## Series
+
+
 

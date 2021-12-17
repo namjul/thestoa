@@ -2,7 +2,7 @@
 id: hebB_r-nHL5EjCtvlzwZ1
 title: The Painted Porch by Jonathan Burks
 desc: ''
-updated: 1639759165168
+updated: 1639759645917
 created: 1616386868000
 ---
 
@@ -57,4 +57,8 @@ don't nothing last forever"
 ## Topics
 
 - #topics.jonathan-burks
+
+## Series
+
+
 

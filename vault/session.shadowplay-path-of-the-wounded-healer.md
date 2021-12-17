@@ -2,7 +2,7 @@
 id: MGU4r4UZ08RD7CIdKUYIa
 title: Shadowplay
 desc: ' Path of the Wounded Healer'
-updated: 1639759165163
+updated: 1639759645913
 created: 1612911600000
 ---
 
@@ -40,4 +40,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 
+
+## Series
+
+- [[series.shadowplay]]
 

@@ -2,7 +2,7 @@
 id: h6yQz1CSA4N9Pz4COwzAz
 title: Shadow Sensemaking Part 3
 desc: ' Aspiring to Shadow Sensemaking'
-updated: 1639759165172
+updated: 1639759645919
 created: 1622066400000
 ---
 
@@ -39,4 +39,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 
 - #topics.shadow-sensemaking
 - #topics.shadow-sensemaking
+
+## Series
+
+- [[series.shadow-sensemaking-part-1]]
 

@@ -2,7 +2,7 @@
 id: 2f6k87KzZOLFyWMBzziJ5
 title: Situational Assessment
 desc: ''
-updated: 1639759165175
+updated: 1639759645920
 created: 1584822028000
 ---
 
@@ -34,4 +34,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.situational-assessment
+
+## Series
+
+- [[series.situational-assessment]]
 

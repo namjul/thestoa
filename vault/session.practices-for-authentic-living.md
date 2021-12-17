@@ -2,7 +2,7 @@
 id: __fAqye27ZHdoEK9rwP0T
 title: Practices for Authentic Living
 desc: ''
-updated: 1639759165167
+updated: 1639759645916
 created: 1627941600000
 ---
 
@@ -34,4 +34,8 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 - #topics.authentic-living
+
+## Series
+
+
 

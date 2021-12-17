@@ -2,7 +2,7 @@
 id: 4NqomiKA2zcHOrTyawabx
 title: A 21st Century Vision of Wisdom
 desc: ' Session 4'
-updated: 1639759165173
+updated: 1639759645920
 created: 1603926000000
 ---
 
@@ -41,4 +41,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.century-vision
+
+## Series
+
+- [[series.a-21st-century-vision-of-wisdom]]
 

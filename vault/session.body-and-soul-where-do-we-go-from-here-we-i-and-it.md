@@ -2,7 +2,7 @@
 id: gC_kX3gjDJ7TjwFRg6K4H
 title: Body and Soul
 desc: ' Where Do We Go From Here? We, I, and It'
-updated: 1639759165165
+updated: 1639759645915
 created: 1613343600000
 ---
 
@@ -49,4 +49,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 
+
+## Series
+
+- [[series.body-and-soul]]
 

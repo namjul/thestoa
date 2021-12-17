@@ -2,7 +2,7 @@
 id: DSNX1vo_QPzSYnIAEn3hD
 title: Metamodernism
 desc: ' The Future of Theory'
-updated: 1639759165175
+updated: 1639759645920
 created: 1639004400000
 ---
 
@@ -35,6 +35,10 @@ Support The Stoa: patreon.com/the_stoa
 - #theory
 
 ## Topics
+
+
+
+## Series
 
 
 

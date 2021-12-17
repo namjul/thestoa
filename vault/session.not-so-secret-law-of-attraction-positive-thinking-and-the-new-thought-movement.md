@@ -2,7 +2,7 @@
 id: TTaq5VadVCLHQJfQmO0ky
 title: Not So Secret
 desc: ' Law of Attraction, Positive Thinking, and the New Thought Movement'
-updated: 1639759165165
+updated: 1639759645915
 created: 1608591600000
 ---
 
@@ -37,4 +37,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.positive-thinking
+
+## Series
+
+
 

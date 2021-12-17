@@ -2,7 +2,7 @@
 id: Lw5Me70QTKwjiw51_GX8J
 title: The Fathoming Body
 desc: ' Embodiment and Inherent Intelligence'
-updated: 1639759165170
+updated: 1639759645918
 created: 1623794400000
 ---
 
@@ -40,4 +40,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 
 - #topics.fathoming-body
 - #topics.inherent-intelligence
+
+## Series
+
+
 

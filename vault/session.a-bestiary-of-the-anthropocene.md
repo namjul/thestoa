@@ -2,7 +2,7 @@
 id: WPG9K2zO6fN7W_be_TmrQ
 title: A Bestiary of the Anthropocene
 desc: ''
-updated: 1639759165172
+updated: 1639759645919
 created: 1623621600000
 ---
 
@@ -43,6 +43,10 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 - #anthropocene
 
 ## Topics
+
+
+
+## Series
 
 
 

@@ -2,7 +2,7 @@
 id: ICxhV9NSqgImM6Xp_eEho
 title: Intuition and Anticipation in Navigating Complexity
 desc: ''
-updated: 1639759165164
+updated: 1639759645914
 created: 1622412000000
 ---
 
@@ -35,6 +35,10 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 - #complexity
 
 ## Topics
+
+
+
+## Series
 
 
 

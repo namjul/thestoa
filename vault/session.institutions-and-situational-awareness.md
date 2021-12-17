@@ -2,7 +2,7 @@
 id: 7RKooq-0nC9LSqJ3lFw4v
 title: Institutions and Situational Awareness
 desc: ''
-updated: 1639759165173
+updated: 1639759645920
 created: 1587009398000
 ---
 
@@ -32,4 +32,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.situational-awareness
+
+## Series
+
+
 

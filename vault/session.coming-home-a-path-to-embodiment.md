@@ -2,7 +2,7 @@
 id: wMj0Mz8by-UlRdyYm5IMq
 title: Coming Home
 desc: ' A Path to Embodiment'
-updated: 1639759165170
+updated: 1639759645919
 created: 1626818400000
 ---
 
@@ -38,6 +38,10 @@ Support The Stoa: patreon.com/the_stoa
 - #embodiment
 
 ## Topics
+
+
+
+## Series
 
 
 

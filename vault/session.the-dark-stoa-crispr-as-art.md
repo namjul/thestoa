@@ -2,7 +2,7 @@
 id: yLTYxOq-BckmzjZmHxl6V
 title: The Dark Stoa
 desc: ' CRISPR as Art'
-updated: 1639759165164
+updated: 1639759645914
 created: 1588284000000
 ---
 
@@ -37,4 +37,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.dark-stoa
+
+## Series
+
+- [[series.the-dark-stoa]]
 

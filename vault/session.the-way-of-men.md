@@ -2,7 +2,7 @@
 id: Y1HFlvg8L7dKA4rf9XsMg
 title: The Way of Men
 desc: ''
-updated: 1639759165166
+updated: 1639759645916
 created: 1607554800000
 ---
 
@@ -36,6 +36,10 @@ thestoa.substack.com
 - #men
 
 ## Topics
+
+
+
+## Series
 
 
 

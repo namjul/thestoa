@@ -2,7 +2,7 @@
 id: zKNXM5KyhTJ2XMxR1afNM
 title: Doomer Optimism
 desc: ' Antifragility, Localism, and the Limits of Labels'
-updated: 1639759165169
+updated: 1639759645918
 created: 1621980000000
 ---
 
@@ -40,4 +40,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.doomer-optimism
+
+## Series
+
+- [[series.doomer-optimism]]
 

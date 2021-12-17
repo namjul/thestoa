@@ -2,7 +2,7 @@
 id: 1xA0OzBB5PMdMd65vyuOk
 title: Situational Assessment
 desc: ''
-updated: 1639759165176
+updated: 1639759645921
 created: 1589598066000
 ---
 
@@ -32,4 +32,8 @@ Support The Stoa @ www.patreon.com/the_stoa
 ## Topics
 
 - #topics.situational-assessment
+
+## Series
+
+- [[series.situational-assessment]]
 

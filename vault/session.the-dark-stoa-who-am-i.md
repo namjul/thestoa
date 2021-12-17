@@ -2,7 +2,7 @@
 id: '-jMYWpuDiXzSMrS28RRIV'
 title: The Dark Stoa
 desc: ' Who Am I'
-updated: 1639759165164
+updated: 1639759645914
 created: 1595973600000
 ---
 
@@ -35,4 +35,8 @@ Give a gift to Patrick Ryan @ www.thestoa.ca/gift
 ## Topics
 
 - #topics.dark-stoa
+
+## Series
+
+- [[series.the-dark-stoa]]
 

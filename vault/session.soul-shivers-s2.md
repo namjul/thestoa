@@ -2,7 +2,7 @@
 id: t-4KSlsvtWY6wjadSoCL7
 title: Soul Shivers S2
 desc: ''
-updated: 1639759165176
+updated: 1639759645921
 created: 1613430000000
 ---
 
@@ -42,4 +42,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.soul-shivers
+
+## Series
+
+- [[series.soul-shivers-s3]]
 

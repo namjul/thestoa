@@ -2,7 +2,7 @@
 id: g62eSaIqC96sU69w5br9E
 title: The Promises and Perils of Double Consciousness
 desc: ''
-updated: 1639759165168
+updated: 1639759645917
 created: 1591221600000
 ---
 
@@ -37,4 +37,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.double-consciousness
+
+## Series
+
+
 

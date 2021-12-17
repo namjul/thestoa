@@ -2,7 +2,7 @@
 id: 31lrYE088kbVHqzLmiLi8
 title: The Implementation Gap
 desc: ''
-updated: 1639759165168
+updated: 1639759645917
 created: 1625608800000
 ---
 
@@ -41,4 +41,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.implementation-gap
+
+## Series
+
+
 

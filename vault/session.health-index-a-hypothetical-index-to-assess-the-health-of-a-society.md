@@ -2,7 +2,7 @@
 id: TyRwOLG3kH_hamTmoMATH
 title: Health Index
 desc: ' A Hypothetical Index to Assess the Health of a Society'
-updated: 1639759165163
+updated: 1639759645913
 created: 1622584800000
 ---
 
@@ -41,4 +41,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 
 - #topics.health-index
 - #topics.hypothetical-index
+
+## Series
+
+
 

@@ -2,7 +2,7 @@
 id: xMBD_5Zq5oAGXvsVa5x-s
 title: How the Culture War Creates Integral Consciousness
 desc: ''
-updated: 1639759165170
+updated: 1639759645918
 created: 1626300000000
 ---
 
@@ -38,4 +38,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 
 - #topics.culture-war
 - #topics.integral-consciousness
+
+## Series
+
+
 

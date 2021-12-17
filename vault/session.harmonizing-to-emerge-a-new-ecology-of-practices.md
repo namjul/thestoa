@@ -2,7 +2,7 @@
 id: 3vXP9CmYRhjoP9Oy5TKrF
 title: Harmonizing to Emerge
 desc: ' A New Ecology of Practices'
-updated: 1639759165167
+updated: 1639759645917
 created: 1633644000000
 ---
 
@@ -50,4 +50,8 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 - #topics.new-ecology
+
+## Series
+
+
 

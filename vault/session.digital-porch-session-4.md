@@ -2,7 +2,7 @@
 id: VydocvoTuLxH8g3dLdVQ0
 title: Digital Porch
 desc: ' Session 4'
-updated: 1639759165163
+updated: 1639759645913
 created: 1603666800000
 ---
 
@@ -43,4 +43,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.digital-porch
+
+## Series
+
+- [[series.digital-porch]]
 

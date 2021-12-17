@@ -2,7 +2,7 @@
 id: C9gt6Nnfnmaxm05YJVswu
 title: The Way Forward Part 4
 desc: ' Weaving the Threads'
-updated: 1639759165171
+updated: 1639759645919
 created: 1638831600000
 ---
 
@@ -44,4 +44,9 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 
+
+## Series
+
+- [[series.the-way-forward-beyond-the-dysfunctions-of-modern-culture-part-1]]
+- [[series.the-way-forward-part-1]]
 

@@ -2,7 +2,7 @@
 id: 0C9YrnnBDhtAU4jlQYOrs
 title: Shadow Sensemaking Part 2
 desc: ' Working With the Shadow'
-updated: 1639759165176
+updated: 1639759645921
 created: 1621375200000
 ---
 
@@ -38,4 +38,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.shadow-sensemaking
+
+## Series
+
+- [[series.shadow-sensemaking-part-1]]
 

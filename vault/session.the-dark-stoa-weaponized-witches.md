@@ -2,7 +2,7 @@
 id: UOMm7gVmap1DBAA82Mb_9
 title: The Dark Stoa
 desc: ' Weaponized Witches'
-updated: 1639759165164
+updated: 1639759645914
 created: 1604012400000
 ---
 
@@ -43,4 +43,8 @@ thestoa.substack.com
 
 - #topics.dark-stoa
 - #topics.weaponized-witches
+
+## Series
+
+- [[series.the-dark-stoa]]
 

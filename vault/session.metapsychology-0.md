@@ -2,7 +2,7 @@
 id: MEZe2-zhAyx2C3kaCTPrp
 title: Metapsychology
 desc: ''
-updated: 1639759165164
+updated: 1639759645914
 created: 1599429600000
 ---
 
@@ -38,4 +38,8 @@ To keep up-to-date on what is happening at The Stoa: https://thestoa.substack.co
 ## Topics
 
 
+
+## Series
+
+- [[series.metapsychology]]
 

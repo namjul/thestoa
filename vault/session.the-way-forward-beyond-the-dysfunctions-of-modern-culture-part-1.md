@@ -2,7 +2,7 @@
 id: XbxiF3b7zlImFQhDvMWww
 title: The Way Forward Part 1
 desc: ' Savvy About Psychodynamics'
-updated: 1639759165165
+updated: 1639759645915
 created: 1636412400000
 ---
 
@@ -45,4 +45,9 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 
+
+## Series
+
+- [[series.the-way-forward-beyond-the-dysfunctions-of-modern-culture-part-1]]
+- [[series.the-way-forward-part-1]]
 

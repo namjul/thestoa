@@ -2,7 +2,7 @@
 id: BEq4XVEgxudN6i6CEXrem
 title: The Philosophy of the Unabomber
 desc: ''
-updated: 1639759165165
+updated: 1639759645915
 created: 1633298400000
 ---
 
@@ -35,6 +35,10 @@ Support The Stoa: patreon.com/the_stoa
 - #unabomber
 
 ## Topics
+
+
+
+## Series
 
 
 

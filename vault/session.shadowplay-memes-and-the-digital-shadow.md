@@ -2,7 +2,7 @@
 id: XvpLH9ldt67smBmL_YpDH
 title: Shadowplay
 desc: ' Memes and the Digital Shadow'
-updated: 1639759165164
+updated: 1639759645914
 created: 1613516400000
 ---
 
@@ -38,4 +38,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.digital-shadow
+
+## Series
+
+- [[series.shadowplay]]
 

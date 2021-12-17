@@ -2,7 +2,7 @@
 id: EDAj8A-6LmkZHtPnFuzT0
 title: Love Thy Shame
 desc: ''
-updated: 1639759165169
+updated: 1639759645918
 created: 1588024800000
 ---
 
@@ -36,4 +36,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.love-thy
+
+## Series
+
+
 

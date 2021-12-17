@@ -2,7 +2,7 @@
 id: IKA0v9CfM2V-LX9fEWz0e
 title: The Dark Stoa
 desc: ' Alchemical Cognition'
-updated: 1639759165168
+updated: 1639759645917
 created: 1593727200000
 ---
 
@@ -35,4 +35,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 
 - #topics.dark-stoa
 - #topics.alchemical-cognition
+
+## Series
+
+- [[series.the-dark-stoa]]
 

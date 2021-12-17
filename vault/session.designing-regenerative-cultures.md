@@ -2,7 +2,7 @@
 id: GAkRtPijFAu1OcA3RySHU
 title: Designing Regenerative Cultures
 desc: ''
-updated: 1639759165168
+updated: 1639759645917
 created: 1606086000000
 ---
 
@@ -36,4 +36,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.regenerative-cultures
+
+## Series
+
+
 

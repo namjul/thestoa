@@ -2,7 +2,7 @@
 id: RFSa2kStVDTlKHGqo6ev9
 title: The Bridge
 desc: ' Deep-Dives. S3. Bridge and Communitas'
-updated: 1639759165170
+updated: 1639759645918
 created: 1579302000000
 ---
 
@@ -47,4 +47,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.mutual-support
+
+## Series
+
+- [[series.the-bridge]]
 

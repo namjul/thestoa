@@ -2,7 +2,7 @@
 id: W5ta5DFv8mZ0GIra1vaYS
 title: STCWD
 desc: ' Collective Shadow'
-updated: 1639759165167
+updated: 1639759645916
 created: 1612134000000
 ---
 
@@ -44,4 +44,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.collective-shadow
+
+## Series
+
+- [[series.stcwd]]
 

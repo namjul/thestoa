@@ -2,7 +2,7 @@
 id: 497Ao2TAa9P_CEIeLFQFf
 title: Cultural Somatics
 desc: ''
-updated: 1639759165169
+updated: 1639759645918
 created: 1608159600000
 ---
 
@@ -36,4 +36,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.cultural-somatics
+
+## Series
+
+
 

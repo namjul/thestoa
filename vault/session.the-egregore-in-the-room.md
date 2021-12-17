@@ -2,7 +2,7 @@
 id: WEiOZqgUKpMCTlFeXGcUD
 title: The Egregore in the Room
 desc: ''
-updated: 1639759165168
+updated: 1639759645917
 created: 1621461600000
 ---
 
@@ -34,6 +34,10 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 - #room
 
 ## Topics
+
+
+
+## Series
 
 
 

@@ -2,7 +2,7 @@
 id: yI79kyBk9GlRKlHr7sd3Y
 title: A Guide To Green Burial
 desc: ''
-updated: 1639759165173
+updated: 1639759645919
 created: 1634508000000
 ---
 
@@ -36,4 +36,8 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 - #topics.green-burial
+
+## Series
+
+
 

@@ -2,8 +2,8 @@
 id: wbZ056Lw7JyozS-cV4bDO
 title: Mental Models
 desc: ''
-updated: 1639759165199
-created: 1639759165199
+updated: 1639759645946
+created: 1639759645946
 ---
 
 - [[Mental Models:  Metaphysics of Relationships|session.mental-models-metaphysics-of-relationships]]

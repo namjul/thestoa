@@ -2,7 +2,7 @@
 id: 91bAPVHSYaA19fZHoYz1c
 title: Philosophical Life Coaching
 desc: ''
-updated: 1639759165169
+updated: 1639759645918
 created: 1619906400000
 ---
 
@@ -43,4 +43,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.philosophical-life
+
+## Series
+
+
 

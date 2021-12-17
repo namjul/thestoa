@@ -2,7 +2,7 @@
 id: S-rIykHgwAFihnxNlsF14
 title: A Generation’s Worth Part 1
 desc: ' Die Wise'
-updated: 1639759165164
+updated: 1639759645914
 created: 1628028000000
 ---
 
@@ -40,4 +40,8 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 
+
+## Series
+
+- [[series.a-generation's-worth-part-3]]
 

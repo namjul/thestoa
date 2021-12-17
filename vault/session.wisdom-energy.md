@@ -2,7 +2,7 @@
 id: Jn1v1MNQtla-EawqHFrhr
 title: Wisdom Energy
 desc: ''
-updated: 1639759165170
+updated: 1639759645918
 created: 1628460000000
 ---
 
@@ -34,4 +34,8 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 - #topics.wisdom-energy
+
+## Series
+
+
 

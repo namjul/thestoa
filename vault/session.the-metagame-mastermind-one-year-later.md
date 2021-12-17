@@ -2,7 +2,7 @@
 id: 6OXd1EpcCvGwMx19S-vQe
 title: The Metagame Mastermind
 desc: ' One Year Later'
-updated: 1639759165165
+updated: 1639759645915
 created: 1621216090000
 ---
 
@@ -33,4 +33,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.metagame-mastermind
+
+## Series
+
+- [[series.the-metagame-mastermind]]
 

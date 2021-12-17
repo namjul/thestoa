@@ -2,7 +2,7 @@
 id: KBddAm_Jse1w3SeLCkNZ5
 title: Depolarising Conversations
 desc: ''
-updated: 1639759165175
+updated: 1639759645920
 created: 1600120800000
 ---
 
@@ -38,4 +38,8 @@ Keep up-to-date with The Stoa @ https://thestoa.substack.com
 ## Topics
 
 - #topics.depolarising-conversations
+
+## Series
+
+
 

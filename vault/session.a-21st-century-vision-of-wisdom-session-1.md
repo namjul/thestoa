@@ -2,7 +2,7 @@
 id: aHWJuTzbyGlPKl8kBkMuB
 title: A 21st Century Vision of Wisdom
 desc: ' Session 1'
-updated: 1639759165169
+updated: 1639759645918
 created: 1602108000000
 ---
 
@@ -39,4 +39,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.century-vision
+
+## Series
+
+- [[series.a-21st-century-vision-of-wisdom]]
 

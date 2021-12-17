@@ -2,7 +2,7 @@
 id: nUIZwrJ4N2UZF3nMdx21G
 title: The High Weirdness of COVID
 desc: ''
-updated: 1639759165164
+updated: 1639759645914
 created: 1591826400000
 ---
 
@@ -34,4 +34,8 @@ Support The Stoa @ www.patreon.com/the_stoa
 ## Topics
 
 - #topics.high-weirdness
+
+## Series
+
+
 

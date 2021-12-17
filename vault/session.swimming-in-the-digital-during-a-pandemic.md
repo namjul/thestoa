@@ -2,7 +2,7 @@
 id: Ja7Fk7q7ikedei-Bx9cWM
 title: Swimming in the Digital During a Pandemic
 desc: ''
-updated: 1639759165175
+updated: 1639759645920
 created: 1587679200000
 ---
 
@@ -33,6 +33,10 @@ Support The Stoa @ www.patreon.com/the_stoa
 - #pandemic
 
 ## Topics
+
+
+
+## Series
 
 
 

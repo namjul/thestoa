@@ -2,7 +2,7 @@
 id: f-u4Ky_bqpGIh-n6yx9DE
 title: Impro
 desc: ' A Retrospective'
-updated: 1639759165165
+updated: 1639759645915
 created: 1602540000000
 ---
 
@@ -33,6 +33,10 @@ thestoa.substack.com
 - #impro
 
 ## Topics
+
+
+
+## Series
 
 
 

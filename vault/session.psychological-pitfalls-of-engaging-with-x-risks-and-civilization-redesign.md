@@ -2,7 +2,7 @@
 id: IqULUYJSWMDlHfW0HQpyQ
 title: Psychological Pitfalls of Engaging With X-Risks & Civilization Redesign
 desc: ''
-updated: 1639759165163
+updated: 1639759645913
 created: 1623293582000
 ---
 
@@ -34,4 +34,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.psychological-pitfalls
+
+## Series
+
+
 

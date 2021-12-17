@@ -2,7 +2,7 @@
 id: JsUUowrX6vkeK6agMvsKE
 title: Ontological Design
 desc: ''
-updated: 1639759165169
+updated: 1639759645918
 created: 1605567600000
 ---
 
@@ -42,4 +42,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.ontological-design
+
+## Series
+
+- [[series.ontological-design]]
 

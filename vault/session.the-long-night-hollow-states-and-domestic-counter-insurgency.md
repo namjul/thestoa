@@ -2,7 +2,7 @@
 id: XLLVF1F-w1UTkKLwX1gmC
 title: The Long Night
 desc: ' Hollow States and Domestic Counter-Insurgency'
-updated: 1639759165169
+updated: 1639759645918
 created: 1613343600000
 ---
 
@@ -41,4 +41,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 
 - #topics.hollow-states
 - #topics.domestic-counter-insurgency
+
+## Series
+
+- [[series.the-long-night]]
 

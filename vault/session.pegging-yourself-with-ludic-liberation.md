@@ -2,7 +2,7 @@
 id: WVb1oKemnQNkJaaq0d2L6
 title: Pegging Yourself with Ludic Liberation
 desc: ''
-updated: 1639759165176
+updated: 1639759645921
 created: 1638918000000
 ---
 
@@ -42,4 +42,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.ludic-liberation
+
+## Series
+
+
 

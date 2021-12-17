@@ -2,7 +2,7 @@
 id: bUc9S3aiTLRbcgvjtSOqS
 title: Polyamory vs Monogamy
 desc: ' A Discussion'
-updated: 1639759165173
+updated: 1639759645919
 created: 1608764400000
 ---
 
@@ -35,4 +35,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.polyamory-vs
+
+## Series
+
+
 

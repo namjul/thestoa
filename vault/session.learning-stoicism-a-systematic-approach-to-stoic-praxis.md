@@ -2,7 +2,7 @@
 id: Y_jOcP4CIeQSB9qvWD9s6
 title: Learning Stoicism
 desc: ' A Systematic Approach to Stoic Praxis'
-updated: 1639759165168
+updated: 1639759645917
 created: 1626213600000
 ---
 
@@ -37,4 +37,8 @@ Support The Stoa: patreon.com/the_stoa
 
 - #topics.systematic-approach
 - #topics.stoic-praxis
+
+## Series
+
+
 

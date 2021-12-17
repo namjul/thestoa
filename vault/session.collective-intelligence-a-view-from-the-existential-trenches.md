@@ -2,7 +2,7 @@
 id: T8BnJyF-ME1DYh-ycAeAX
 title: Collective Intelligence
 desc: ' A View From the Existential Trenches'
-updated: 1639759165168
+updated: 1639759645917
 created: 1629064800000
 ---
 
@@ -45,4 +45,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 
 - #topics.collective-intelligence
 - #topics.existential-trenches
+
+## Series
+
+- [[series.collective-intelligence]]
 

@@ -2,7 +2,7 @@
 id: buNj8GoFjzdAFDXNASLWG
 title: Naturalising Sense-making
 desc: ' The Apex Predator'
-updated: 1639759165163
+updated: 1639759645914
 created: 1599084000000
 ---
 
@@ -47,4 +47,8 @@ Keep up-to-date with The Stoa @ https://thestoa.substack.com
 ## Topics
 
 - #topics.apex-predator
+
+## Series
+
+- [[series.naturalising-sense-making]]
 

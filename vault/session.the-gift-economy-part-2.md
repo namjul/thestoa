@@ -2,7 +2,7 @@
 id: mvF7juOAU4potI1bUb5Qt
 title: The Gift Economy Part 2
 desc: ''
-updated: 1639759165175
+updated: 1639759645920
 created: 1589679234000
 ---
 
@@ -32,4 +32,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.gift-economy
+
+## Series
+
+
 

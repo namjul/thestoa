@@ -2,7 +2,7 @@
 id: IgS6Ts_BeSxQTJhI_EIZR
 title: Doomer Optimism
 desc: ' International Small Farm Agroecology'
-updated: 1639759165164
+updated: 1639759645914
 created: 1625695200000
 ---
 
@@ -36,4 +36,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 
 - #topics.doomer-optimism
 - #topics.small-farm
+
+## Series
+
+- [[series.doomer-optimism]]
 

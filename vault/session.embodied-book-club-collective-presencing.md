@@ -2,7 +2,7 @@
 id: TBtlHM9JSOiQmR4kacZhD
 title: Embodied Book Club
 desc: ' Collective Presencing'
-updated: 1639759165171
+updated: 1639759645919
 created: 1601676000000
 ---
 
@@ -43,4 +43,8 @@ thestoa.substack.com
 
 - #topics.book-club
 - #topics.collective-presencing
+
+## Series
+
+
 

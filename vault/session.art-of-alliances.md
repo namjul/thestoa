@@ -2,7 +2,7 @@
 id: EZ3P_UEYwQbi6oHSulizt
 title: Art of Alliances
 desc: ''
-updated: 1639759165172
+updated: 1639759645919
 created: 1597615200000
 ---
 
@@ -29,6 +29,10 @@ Support The Stoa @ www.patreon.ca/the_stoa
 - #alliances
 
 ## Topics
+
+
+
+## Series
 
 
 

@@ -2,7 +2,7 @@
 id: ixDmjD-BLg7Ck-E_Z-A6a
 title: 'Sacred Cows, Elephants in the Room, and other Noble Beasts'
 desc: ''
-updated: 1639759165166
+updated: 1639759645916
 created: 1591897394000
 ---
 
@@ -37,4 +37,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 
 - #topics.sacred-cows
 - #topics.noble-beasts
+
+## Series
+
+
 

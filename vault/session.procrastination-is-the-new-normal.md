@@ -2,7 +2,7 @@
 id: ECreiyH8NNMNueuBo8GzE
 title: Procrastination is the New Normal
 desc: ''
-updated: 1639759165168
+updated: 1639759645917
 created: 1608591600000
 ---
 
@@ -33,6 +33,10 @@ thestoa.substack.com
 - #new
 
 ## Topics
+
+
+
+## Series
 
 
 

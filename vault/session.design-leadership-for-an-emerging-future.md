@@ -2,7 +2,7 @@
 id: Kv8K5FwEzbfu-Tx1aAcQT
 title: Design Leadership for an Emerging Future
 desc: ''
-updated: 1639759165169
+updated: 1639759645918
 created: 1620165600000
 ---
 
@@ -41,4 +41,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.design-leadership
+
+## Series
+
+
 

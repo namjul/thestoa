@@ -2,7 +2,7 @@
 id: YT7qP5TLDDpqS7ALJaA1s
 title: The Way Forward Part 3
 desc: ' Adept at the New Strategy for Success'
-updated: 1639759165167
+updated: 1639759645916
 created: 1638226800000
 ---
 
@@ -45,4 +45,9 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 - #topics.new-strategy
+
+## Series
+
+- [[series.the-way-forward-beyond-the-dysfunctions-of-modern-culture-part-1]]
+- [[series.the-way-forward-part-1]]
 

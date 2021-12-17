@@ -2,7 +2,7 @@
 id: GXuoXf8jqefUUFnxC7u9d
 title: Making Sense of Everything
 desc: ' The Wisdom of Integral Theory'
-updated: 1639759165165
+updated: 1639759645915
 created: 1637881200000
 ---
 
@@ -38,4 +38,8 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 - #topics.integral-theory
+
+## Series
+
+
 

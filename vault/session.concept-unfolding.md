@@ -2,7 +2,7 @@
 id: 3CyY-vVJSb47YyXAb_D4_
 title: Concept Unfolding
 desc: ''
-updated: 1639759165170
+updated: 1639759645918
 created: 1589320800000
 ---
 
@@ -32,6 +32,10 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 - #concept
 
 ## Topics
+
+
+
+## Series
 
 
 

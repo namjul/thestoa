@@ -2,7 +2,7 @@
 id: zER-0Ga1m5ax5lj6k9gWr
 title: Broadcasting in the Sensemaking Web
 desc: ' An Un-Masterclass'
-updated: 1639759165175
+updated: 1639759645920
 created: 1608159600000
 ---
 
@@ -43,4 +43,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.sensemaking-web
+
+## Series
+
+- [[series.broadcasting-in-the-sensemaking-web]]
 

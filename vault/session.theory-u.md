@@ -2,7 +2,7 @@
 id: 5gyAfn5DySnKcHc0Vc8Sz
 title: Theory U
 desc: ''
-updated: 1639759165167
+updated: 1639759645917
 created: 1607986800000
 ---
 
@@ -32,6 +32,10 @@ thestoa.substack.com
 - #theory
 
 ## Topics
+
+
+
+## Series
 
 
 

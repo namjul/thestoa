@@ -2,7 +2,7 @@
 id: mPG65D6kjkfvmo2A8bTHJ
 title: Discovering Stoicism with Each Breath
 desc: ''
-updated: 1639759165176
+updated: 1639759645921
 created: 1587013588000
 ---
 
@@ -33,6 +33,10 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 - #breath
 
 ## Topics
+
+
+
+## Series
 
 
 

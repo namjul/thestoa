@@ -2,7 +2,7 @@
 id: aJYcWoiysBLi4zg5137iR
 title: Chapel Perilous
 desc: ''
-updated: 1639759165166
+updated: 1639759645916
 created: 1592413927000
 ---
 
@@ -32,4 +32,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 
+
+## Series
+
+- [[series.chapel-perilous]]
 

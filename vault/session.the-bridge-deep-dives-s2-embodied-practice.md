@@ -2,7 +2,7 @@
 id: i8pmGbAGPzjxRNVPnzTcu
 title: The Bridge
 desc: ' Deep-Dives. S2. Embodied Practice'
-updated: 1639759165168
+updated: 1639759645917
 created: 1610319600000
 ---
 
@@ -46,4 +46,8 @@ thestoa.substack.com
 ## Topics
 
 
+
+## Series
+
+- [[series.the-bridge]]
 

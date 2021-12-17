@@ -2,7 +2,7 @@
 id: pK4qKgDOKxk7L48qx6pGW
 title: The Meta-Crisis as a Forcing Function for Sovereignty
 desc: ''
-updated: 1639759165164
+updated: 1639759645914
 created: 1635110420000
 ---
 
@@ -40,6 +40,10 @@ Support The Stoa: patreon.com/the_stoa
 - #sovereignty
 
 ## Topics
+
+
+
+## Series
 
 
 

@@ -2,7 +2,7 @@
 id: 9b-A9ayqnxuxj1l5yYtfq
 title: Chapel Perilous
 desc: ''
-updated: 1639759165164
+updated: 1639759645914
 created: 1614466800000
 ---
 
@@ -41,4 +41,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 
+
+## Series
+
+- [[series.chapel-perilous]]
 

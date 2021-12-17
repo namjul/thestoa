@@ -2,7 +2,7 @@
 id: TmidXyLRmAHhOOxJbYAL3
 title: John Vervaeke
 desc: ' Agape, the Horizon of the Horror, and the Virtue of Reverence '
-updated: 1639759165163
+updated: 1639759645913
 created: 1612917371000
 ---
 
@@ -39,4 +39,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.stoa-moments
+
+## Series
+
+- [[series.john-vervaeke]]
 

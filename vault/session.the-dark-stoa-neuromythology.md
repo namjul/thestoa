@@ -2,7 +2,7 @@
 id: LQ8CJ4KZzCsUpWtjsb81S
 title: The Dark Stoa
 desc: ' Neuromythology'
-updated: 1639759165165
+updated: 1639759645914
 created: 1594332000000
 ---
 
@@ -34,4 +34,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.dark-stoa
+
+## Series
+
+- [[series.the-dark-stoa]]
 

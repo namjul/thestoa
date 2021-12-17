@@ -2,7 +2,7 @@
 id: 9CeNz9a0Ei3bVBsQw-tjT
 title: 'Anti-Social Virtue, or Cynical Enlightenment'
 desc: ''
-updated: 1639759165175
+updated: 1639759645920
 created: 1589407200000
 ---
 
@@ -35,4 +35,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 
 - #topics.anti-social-virtue
 - #topics.cynical-enlightenment
+
+## Series
+
+
 

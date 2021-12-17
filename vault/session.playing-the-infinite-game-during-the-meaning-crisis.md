@@ -2,7 +2,7 @@
 id: It6AVTBTXoBhLfCoLOYRh
 title: Playing the Infinite Game During the Meaning Crisis
 desc: ''
-updated: 1639759165166
+updated: 1639759645915
 created: 1597701600000
 ---
 
@@ -32,4 +32,8 @@ Support The Stoa @ https://www.patreon.com/the_stoa
 ## Topics
 
 - #topics.infinite-game
+
+## Series
+
+- [[series.playing-the-infinite-game-during-the-meta-crisis]]
 

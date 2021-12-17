@@ -2,7 +2,7 @@
 id: 0Wyh8tTrNKllPnAANnuTV
 title: Collective Presencing
 desc: ' A Practice'
-updated: 1639759165176
+updated: 1639759645921
 created: 1589155088000
 ---
 
@@ -30,4 +30,8 @@ Intro song: Kali Yuga Blues by Bardo Pond
 ## Topics
 
 - #topics.collective-presencing
+
+## Series
+
+- [[series.collective-presencing]]
 

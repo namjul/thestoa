@@ -2,7 +2,7 @@
 id: o-gJ6AOo-Z3NHzf686qnT
 title: Naturalising Sense-making
 desc: ''
-updated: 1639759165176
+updated: 1639759645921
 created: 1599084000000
 ---
 
@@ -44,4 +44,8 @@ To keep up-to-date on what is happening at The Stoa: https://thestoa.substack.co
 ## Topics
 
 
+
+## Series
+
+- [[series.naturalising-sense-making]]
 

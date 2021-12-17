@@ -2,7 +2,7 @@
 id: qfFWYZPQA2ZA-JlJK2Dbm
 title: The Dark Stoa
 desc: ' Gaussian Identity'
-updated: 1639759165168
+updated: 1639759645917
 created: 1592517600000
 ---
 
@@ -37,4 +37,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 
 - #topics.dark-stoa
 - #topics.gaussian-identity
+
+## Series
+
+- [[series.the-dark-stoa]]
 

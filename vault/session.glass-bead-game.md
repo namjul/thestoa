@@ -2,7 +2,7 @@
 id: u8dFbkgyOoHpZhZWxHpZs
 title: Glass Bead Game
 desc: ''
-updated: 1639759165172
+updated: 1639759645919
 created: 1599861600000
 ---
 
@@ -38,4 +38,8 @@ Keep up-to-date with upcoming events @ https://thestoa.substack.com
 ## Topics
 
 - #topics.glass-bead
+
+## Series
+
+
 

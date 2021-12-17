@@ -1,9 +1,9 @@
 ---
-id: NcL1hpjHHBWNtpMHTtW2m
+id: hsxeORbrvYzc50BL7xjLv
 title: The Stoa
 desc: ''
-updated: 1639759165163
-created: 1639759165163
+updated: 1639759645913
+created: 1639759645913
 ---
 
 

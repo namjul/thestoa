@@ -2,7 +2,7 @@
 id: Rbnv5t1JBXE35jmXGowon
 title: Soul Shivers S1
 desc: ''
-updated: 1639759165172
+updated: 1639759645919
 created: 1612825200000
 ---
 
@@ -42,4 +42,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.soul-shivers
+
+## Series
+
+- [[series.soul-shivers-s3]]
 

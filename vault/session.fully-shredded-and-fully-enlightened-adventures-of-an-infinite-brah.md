@@ -2,7 +2,7 @@
 id: BbNggqWPmhhtw4QhDQv2H
 title: Fully Shredded and Fully Enlightened
 desc: ' Adventures of an Infinite Brah'
-updated: 1639759165171
+updated: 1639759645919
 created: 1608246000000
 ---
 
@@ -34,4 +34,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.infinite-brah
+
+## Series
+
+
 

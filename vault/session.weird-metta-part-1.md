@@ -2,7 +2,7 @@
 id: f9sIA6f0aRYR36Whtw7aC
 title: Weird Metta Part 1
 desc: ''
-updated: 1639759165166
+updated: 1639759645916
 created: 1623189600000
 ---
 
@@ -39,4 +39,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.weird-metta
+
+## Series
+
+- [[series.weird-metta-part-1]]
 

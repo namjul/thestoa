@@ -2,7 +2,7 @@
 id: R46JoYjSgYYhT7E247Tu5
 title: The Smart Village
 desc: ''
-updated: 1639759165169
+updated: 1639759645917
 created: 1600120800000
 ---
 
@@ -54,4 +54,8 @@ Keep up-to-date with The Stoa @ https://thestoa.substack.com
 ## Topics
 
 - #topics.smart-village
+
+## Series
+
+
 

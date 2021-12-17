@@ -2,7 +2,7 @@
 id: w3-GXSw6Qrz4dqesvV4nS
 title: A Generation’s Worth Part 3
 desc: ' Money/Soul'
-updated: 1639759165163
+updated: 1639759645914
 created: 1629410400000
 ---
 
@@ -41,4 +41,8 @@ thestoa.substack.com
 ## Topics
 
 
+
+## Series
+
+- [[series.a-generation's-worth-part-3]]
 

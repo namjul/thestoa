@@ -2,7 +2,7 @@
 id: Mdu9K4ncbVHPMqPnNsFpu
 title: Enlightenment Transmission
 desc: ' Experience First, Understand Later'
-updated: 1639759165167
+updated: 1639759645916
 created: 1634940000000
 ---
 
@@ -51,4 +51,8 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 - #topics.enlightenment-transmission
+
+## Series
+
+
 

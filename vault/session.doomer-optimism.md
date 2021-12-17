@@ -2,7 +2,7 @@
 id: OmIklADRHcRtIyv8GU2jm
 title: Doomer Optimism
 desc: ''
-updated: 1639759165170
+updated: 1639759645919
 created: 1620165600000
 ---
 
@@ -40,4 +40,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.doomer-optimism
+
+## Series
+
+- [[series.doomer-optimism]]
 

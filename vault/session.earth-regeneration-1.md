@@ -2,7 +2,7 @@
 id: LIbrNFWZFitShs0HDeUik
 title: Earth Regeneration
 desc: ''
-updated: 1639759165176
+updated: 1639759645921
 created: 1605740400000
 ---
 
@@ -35,4 +35,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.earth-regeneration
+
+## Series
+
+- [[series.earth-regeneration]]
 

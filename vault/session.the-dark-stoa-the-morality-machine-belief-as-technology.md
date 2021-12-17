@@ -2,7 +2,7 @@
 id: C4oeGvaK3hKnZeEIoZxw7
 title: The Dark Stoa
 desc: ' The Morality Machine - Belief as Technology'
-updated: 1639759165167
+updated: 1639759645917
 created: 1589493600000
 ---
 
@@ -36,4 +36,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 
 - #topics.dark-stoa
 - #topics.morality-machine
+
+## Series
+
+- [[series.the-dark-stoa]]
 

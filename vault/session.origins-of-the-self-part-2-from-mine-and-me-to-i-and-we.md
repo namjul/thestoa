@@ -2,7 +2,7 @@
 id: _bj-bLstd74qoD2VMOJAB
 title: Origins of the Self Part 2
 desc: ' From Mine and Me to I and We'
-updated: 1639759165167
+updated: 1639759645916
 created: 1637103600000
 ---
 
@@ -44,4 +44,8 @@ thestoa.substack.com
 ## Topics
 
 
+
+## Series
+
+- [[series.origins-of-the-self]]
 

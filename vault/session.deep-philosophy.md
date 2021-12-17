@@ -2,7 +2,7 @@
 id: RczyC4G6upGSDg4ZrYwaR
 title: Deep Philosophy
 desc: ''
-updated: 1639759165169
+updated: 1639759645918
 created: 1633471200000
 ---
 
@@ -40,4 +40,8 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 - #topics.deep-philosophy
+
+## Series
+
+
 

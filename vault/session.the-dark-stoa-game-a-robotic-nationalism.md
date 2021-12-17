@@ -2,7 +2,7 @@
 id: cABMHUtJrKMk_tl2qzlk6
 title: The Dark Stoa
 desc: ' Game A - Robotic Nationalism'
-updated: 1639759165167
+updated: 1639759645917
 created: 1590703200000
 ---
 
@@ -35,4 +35,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 
 - #topics.dark-stoa
 - #topics.robotic-nationalism
+
+## Series
+
+- [[series.the-dark-stoa]]
 

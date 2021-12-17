@@ -2,7 +2,7 @@
 id: P5unAjCKDEXOKGck9oavX
 title: Entrepreneurialism as a Spiritual Practice?
 desc: ''
-updated: 1639759165166
+updated: 1639759645916
 created: 1603144800000
 ---
 
@@ -36,4 +36,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.spiritual-practice
+
+## Series
+
+
 

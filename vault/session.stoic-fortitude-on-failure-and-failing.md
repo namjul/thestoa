@@ -2,7 +2,7 @@
 id: _ktQB6i6XfWhgd5xnRkJY
 title: Stoic Fortitude
 desc: ' On Failure and Failing'
-updated: 1639759165177
+updated: 1639759645921
 created: 1585541380000
 ---
 
@@ -32,4 +32,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.stoic-fortitude
+
+## Series
+
+
 

@@ -2,7 +2,7 @@
 id: UU89FlvjxyDljd7G7QctU
 title: The Dark Stoa
 desc: ' Absurd Logic'
-updated: 1639759165167
+updated: 1639759645916
 created: 1593122400000
 ---
 
@@ -37,4 +37,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 
 - #topics.dark-stoa
 - #topics.absurd-logic
+
+## Series
+
+- [[series.the-dark-stoa]]
 

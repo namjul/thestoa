@@ -4,7 +4,7 @@ title: >-
   Where is God Now? Fugitivity as a Theo-Politics of Encounter in Times of
   Trouble
 desc: ''
-updated: 1639759165169
+updated: 1639759645918
 created: 1599780639000
 ---
 
@@ -36,6 +36,10 @@ To keep up-to-date on what is happening at The Stoa: https://thestoa.substack.co
 - #trouble
 
 ## Topics
+
+
+
+## Series
 
 
 

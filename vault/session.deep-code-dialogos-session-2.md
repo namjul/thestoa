@@ -2,7 +2,7 @@
 id: BddagOrHffITsB1mv20vY
 title: Deep Code Dialogos
 desc: ' Session 2'
-updated: 1639759165166
+updated: 1639759645915
 created: 1607900400000
 ---
 
@@ -38,4 +38,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.deep-code
+
+## Series
+
+- [[series.deep-code-dialogos]]
 

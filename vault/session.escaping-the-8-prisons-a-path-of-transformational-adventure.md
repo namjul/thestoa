@@ -2,7 +2,7 @@
 id: vBRJs4xMsttorsnQzMCHX
 title: Escaping the 8 Prisons
 desc: ' A Path of Transformational Adventure'
-updated: 1639759165171
+updated: 1639759645919
 created: 1637708400000
 ---
 
@@ -41,4 +41,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.transformational-adventure
+
+## Series
+
+
 

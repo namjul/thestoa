@@ -2,7 +2,7 @@
 id: YoGb8r_H5DyZjRs3jHemk
 title: Philosopher Queens
 desc: ' Transcending Restrictions'
-updated: 1639759165171
+updated: 1639759645919
 created: 1600380000000
 ---
 
@@ -36,4 +36,8 @@ Keep up-to-date with The Stoa @ https://thestoa.substack.com
 ## Topics
 
 - #topics.philosopher-queens
+
+## Series
+
+- [[series.philosopher-queens]]
 

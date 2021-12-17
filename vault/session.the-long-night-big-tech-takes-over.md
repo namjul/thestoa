@@ -2,7 +2,7 @@
 id: oQaoHFTxBMPcZUrDH9rwc
 title: The Long Night
 desc: ' Big Tech Takes Over'
-updated: 1639759165166
+updated: 1639759645916
 created: 1612738800000
 ---
 
@@ -42,4 +42,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.big-tech
+
+## Series
+
+- [[series.the-long-night]]
 

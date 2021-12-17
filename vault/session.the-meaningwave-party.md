@@ -2,7 +2,7 @@
 id: NjCFfjKL9JKZfxrhQCY7H
 title: The Meaningwave Party
 desc: ''
-updated: 1639759165175
+updated: 1639759645920
 created: 1591135200000
 ---
 
@@ -34,4 +34,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.meaningwave-party
+
+## Series
+
+
 

@@ -2,7 +2,7 @@
 id: FNp6wgqOZu1Bjx3-eS8nK
 title: The Hollow
 desc: ' Session 1'
-updated: 1639759165165
+updated: 1639759645915
 created: 1602194400000
 ---
 
@@ -43,4 +43,8 @@ thestoa.substack.com
 ## Topics
 
 
+
+## Series
+
+- [[series.the-hollow]]
 

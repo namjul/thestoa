@@ -2,7 +2,7 @@
 id: vp0kHbw2vgPd-trkYgtUr
 title: Metapsychology
 desc: ''
-updated: 1639759165165
+updated: 1639759645915
 created: 1599429600000
 ---
 
@@ -41,4 +41,8 @@ Keep up-to-date with The Stoa @ https://thestoa.substack.com
 ## Topics
 
 
+
+## Series
+
+- [[series.metapsychology]]
 

@@ -2,7 +2,7 @@
 id: X0dL325aXTu3kVuO5FGU0
 title: Shadow Sensemaking Part 1
 desc: ' What Is the Shadow?'
-updated: 1639759165166
+updated: 1639759645916
 created: 1620770400000
 ---
 
@@ -38,4 +38,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.shadow-sensemaking
+
+## Series
+
+- [[series.shadow-sensemaking-part-1]]
 

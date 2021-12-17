@@ -2,7 +2,7 @@
 id: HiufOzn7LgVSep1DzMg4h
 title: Networked Tribalism
 desc: ' Blue Skies'
-updated: 1639759165176
+updated: 1639759645920
 created: 1598824800000
 ---
 
@@ -34,4 +34,8 @@ Support The Stoa @ www.patreon.com/the_stoa
 
 - #topics.networked-tribalism
 - #topics.blue-skies
+
+## Series
+
+- [[series.networked-tribalism]]
 

@@ -2,7 +2,7 @@
 id: SuvovBZ5s4BCp59tLk6uV
 title: Stoic Provocations
 desc: ' Anti-Intellectualism'
-updated: 1639759165174
+updated: 1639759645920
 created: 1607986800000
 ---
 
@@ -36,4 +36,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.stoic-provocations
+
+## Series
+
+- [[series.stoic-provocations]]
 

@@ -2,7 +2,7 @@
 id: 6XwSZ_-CXnBlBFsrQUgj-
 title: Reflective Structured Dialogue
 desc: ''
-updated: 1639759165172
+updated: 1639759645919
 created: 1603144800000
 ---
 
@@ -34,6 +34,10 @@ thestoa.substack.com
 - #dialogue
 
 ## Topics
+
+
+
+## Series
 
 
 

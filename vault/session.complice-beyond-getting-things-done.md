@@ -2,7 +2,7 @@
 id: XwtgShoa-JTXBU3tC7lT-
 title: Complice
 desc: ' Beyond Getting Things Done'
-updated: 1639759165168
+updated: 1639759645917
 created: 1608591600000
 ---
 
@@ -38,6 +38,10 @@ thestoa.substack.com
 - #things
 
 ## Topics
+
+
+
+## Series
 
 
 

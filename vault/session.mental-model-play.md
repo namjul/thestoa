@@ -2,7 +2,7 @@
 id: E2w-bj3xGuKtLAhDQ0OS5
 title: Mental Model Play
 desc: ''
-updated: 1639759165169
+updated: 1639759645918
 created: 1624312800000
 ---
 
@@ -42,4 +42,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.mental-model
+
+## Series
+
+
 

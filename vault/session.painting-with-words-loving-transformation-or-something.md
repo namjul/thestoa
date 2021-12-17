@@ -2,7 +2,7 @@
 id: eug0WFxNwtCYs_7_sYp77
 title: Painting With Words
 desc: ' Loving Transformation or Something'
-updated: 1639759165169
+updated: 1639759645918
 created: 1604012400000
 ---
 
@@ -39,4 +39,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.loving-transformation
+
+## Series
+
+
 

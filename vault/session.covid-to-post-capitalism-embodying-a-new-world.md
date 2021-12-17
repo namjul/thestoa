@@ -2,7 +2,7 @@
 id: Nxd_UeF7cDotcxrR6pkuw
 title: COVID to Post-Capitalism
 desc: ' Embodying a New World'
-updated: 1639759165175
+updated: 1639759645920
 created: 1588978726000
 ---
 
@@ -33,4 +33,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.new-world
+
+## Series
+
+
 

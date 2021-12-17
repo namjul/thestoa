@@ -2,7 +2,7 @@
 id: QbHzXHHvowdrAoK30y66B
 title: Deep Code Dialogos
 desc: ' Session 4'
-updated: 1639759165169
+updated: 1639759645918
 created: 1609110000000
 ---
 
@@ -41,4 +41,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.deep-code
+
+## Series
+
+- [[series.deep-code-dialogos]]
 

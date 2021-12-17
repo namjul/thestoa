@@ -2,7 +2,7 @@
 id: QR8lQKDnD3vv2si1dSxGo
 title: The Dark Stoa
 desc: ' Demon Hunting'
-updated: 1639759165166
+updated: 1639759645916
 created: 1594936800000
 ---
 
@@ -35,4 +35,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 
 - #topics.dark-stoa
 - #topics.demon-hunting
+
+## Series
+
+- [[series.the-dark-stoa]]
 

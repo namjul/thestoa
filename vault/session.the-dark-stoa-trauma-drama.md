@@ -2,7 +2,7 @@
 id: NU5tYpGeagIi6BTz97I9Y
 title: The Dark Stoa
 desc: ' Trauma Drama'
-updated: 1639759165168
+updated: 1639759645917
 created: 1587074400000
 ---
 
@@ -35,4 +35,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 
 - #topics.dark-stoa
 - #topics.trauma-drama
+
+## Series
+
+- [[series.the-dark-stoa]]
 

@@ -2,7 +2,7 @@
 id: C3XxPtR9FaE2DnyDROiNm
 title: The Virtue of Surrender
 desc: ''
-updated: 1639759165169
+updated: 1639759645918
 created: 1622584800000
 ---
 
@@ -36,6 +36,10 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 - #surrender
 
 ## Topics
+
+
+
+## Series
 
 
 

@@ -2,7 +2,7 @@
 id: qAAS9S3JCIWVIwil_DbJm
 title: The Dark Stoa
 desc: ' Blackmail Inflation'
-updated: 1639759165164
+updated: 1639759645914
 created: 1590336685000
 ---
 
@@ -34,4 +34,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.dark-stoa
+
+## Series
+
+- [[series.the-dark-stoa]]
 

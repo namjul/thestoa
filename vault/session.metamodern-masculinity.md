@@ -2,7 +2,7 @@
 id: Lv9I6pEguH8mt4Ag-dDSY
 title: Metamodern Masculinity
 desc: ''
-updated: 1639759165170
+updated: 1639759645918
 created: 1599429600000
 ---
 
@@ -35,4 +35,8 @@ To keep up-to-date on what is happening at The Stoa: https://thestoa.substack.co
 ## Topics
 
 - #topics.metamodern-masculinity
+
+## Series
+
+
 

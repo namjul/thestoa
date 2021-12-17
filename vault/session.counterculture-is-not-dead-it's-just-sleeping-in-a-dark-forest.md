@@ -2,7 +2,7 @@
 id: opXeo6SgsJLvaOFUApmHF
 title: 'Counterculture Is Not Dead, It''s Just Sleeping in a Dark Forest'
 desc: ''
-updated: 1639759165167
+updated: 1639759645917
 created: 1622671200000
 ---
 
@@ -41,4 +41,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.dark-forest
+
+## Series
+
+
 

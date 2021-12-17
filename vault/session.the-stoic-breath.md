@@ -2,7 +2,7 @@
 id: CmQ8rEnjT78dP8aLncnJA
 title: The Stoic Breath
 desc: ''
-updated: 1639759165169
+updated: 1639759645918
 created: 1585002722000
 ---
 
@@ -34,4 +34,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.stoic-breath
+
+## Series
+
+
 

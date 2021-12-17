@@ -2,7 +2,7 @@
 id: Auvf9ylFJHIcv6UxolU_j
 title: A Stoic Training Program
 desc: ''
-updated: 1639759165174
+updated: 1639759645920
 created: 1585701179000
 ---
 
@@ -32,4 +32,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.stoic-training
+
+## Series
+
+
 

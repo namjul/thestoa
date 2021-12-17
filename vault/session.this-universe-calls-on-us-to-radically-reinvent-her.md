@@ -2,7 +2,7 @@
 id: qzKyyZMqGctnDIToh2Bdq
 title: This Universe Calls on Us to Radically Reinvent Her
 desc: ''
-updated: 1639759165176
+updated: 1639759645921
 created: 1603317600000
 ---
 
@@ -34,6 +34,10 @@ thestoa.substack.com
 - #universe
 
 ## Topics
+
+
+
+## Series
 
 
 

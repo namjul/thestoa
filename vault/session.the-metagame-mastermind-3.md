@@ -2,7 +2,7 @@
 id: _iuoBfs-vqFQ7BMyXO86a
 title: The Metagame Mastermind
 desc: ''
-updated: 1639759165174
+updated: 1639759645920
 created: 1595976375000
 ---
 
@@ -32,4 +32,8 @@ Support The Stoa @ patreon.com/the_stoa
 ## Topics
 
 - #topics.metagame-mastermind
+
+## Series
+
+- [[series.the-metagame-mastermind]]
 

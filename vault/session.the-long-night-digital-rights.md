@@ -2,7 +2,7 @@
 id: CtrqsSKKGR9BkbJCkQtO-
 title: The Long Night
 desc: ' Digital Rights'
-updated: 1639759165174
+updated: 1639759645920
 created: 1613948400000
 ---
 
@@ -39,4 +39,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.digital-rights
+
+## Series
+
+- [[series.the-long-night]]
 

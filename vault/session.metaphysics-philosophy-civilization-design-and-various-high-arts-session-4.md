@@ -2,7 +2,7 @@
 id: y9pV93KVhxxY6BuqoRLB8
 title: 'Metaphysics, Philosophy, Civilization Design, and Various High Arts'
 desc: ' Session 4'
-updated: 1639759165173
+updated: 1639759645920
 created: 1609110000000
 ---
 
@@ -36,4 +36,8 @@ thestoa.substack.com
 
 - #topics.civilization-design
 - #topics.high-arts
+
+## Series
+
+- [[series.metaphysics-philosophy-civilization-design-and-various-high-arts]]
 

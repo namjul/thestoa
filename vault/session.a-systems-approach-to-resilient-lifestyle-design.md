@@ -2,7 +2,7 @@
 id: zcwQ1T9AJv7Fygwk_f_Sx
 title: A Systems Approach To Resilient Lifestyle Design
 desc: ''
-updated: 1639759165164
+updated: 1639759645914
 created: 1612825200000
 ---
 
@@ -34,4 +34,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 
 - #topics.systems-approach
 - #topics.resilient-lifestyle
+
+## Series
+
+
 

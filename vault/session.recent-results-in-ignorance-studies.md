@@ -2,7 +2,7 @@
 id: YXV5Ky3OfH0FjrwgOPMb_
 title: Recent Results in Ignorance Studies
 desc: ''
-updated: 1639759165167
+updated: 1639759645917
 created: 1604271600000
 ---
 
@@ -38,4 +38,8 @@ thestoa.substack.com
 
 - #topics.recent-results
 - #topics.ignorance-studies
+
+## Series
+
+
 

@@ -2,7 +2,7 @@
 id: rXFWc2RFq4x9w7JzBN_ld
 title: Vajrayana Now
 desc: ' Sutra to Tantra'
-updated: 1639759165168
+updated: 1639759645917
 created: 1593900000000
 ---
 
@@ -35,6 +35,10 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 - #tantra
 
 ## Topics
+
+
+
+## Series
 
 
 

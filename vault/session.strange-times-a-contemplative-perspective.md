@@ -2,7 +2,7 @@
 id: LLd1Ncsdaff_8dtTCYjib
 title: Strange Times
 desc: ' A Contemplative Perspective'
-updated: 1639759165167
+updated: 1639759645916
 created: 1606172400000
 ---
 
@@ -35,4 +35,8 @@ thestoa.substack.com
 
 - #topics.strange-times
 - #topics.contemplative-perspective
+
+## Series
+
+
 

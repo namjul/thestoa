@@ -2,7 +2,7 @@
 id: va3wEu7wuoWGZ3YGeKkCV
 title: Evolving Ground
 desc: ' 01 Method'
-updated: 1639759165166
+updated: 1639759645915
 created: 1598133600000
 ---
 
@@ -36,4 +36,8 @@ Support The Stoa @ https://www.patreon.com/the_stoa
 ## Topics
 
 
+
+## Series
+
+- [[series.evolving-ground]]
 

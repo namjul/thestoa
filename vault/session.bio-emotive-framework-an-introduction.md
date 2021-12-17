@@ -2,7 +2,7 @@
 id: _XX2_QCVn3vZiPjCIFaIp
 title: Bio Emotive Framework  An Introduction
 desc: ''
-updated: 1639759165166
+updated: 1639759645916
 created: 1591308000000
 ---
 
@@ -35,4 +35,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.emotive-framework
+
+## Series
+
+
 

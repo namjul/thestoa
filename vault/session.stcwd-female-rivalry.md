@@ -2,7 +2,7 @@
 id: 2N7I70lm3H1hQp7bZkyu6
 title: STCWD
 desc: ' Female Rivalry'
-updated: 1639759165167
+updated: 1639759645916
 created: 1613602800000
 ---
 
@@ -37,4 +37,8 @@ Receive coaching with resonance: https://www.thestoa.ca/coaches
 ## Topics
 
 - #topics.female-rivalry
+
+## Series
+
+- [[series.stcwd]]
 

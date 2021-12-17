@@ -2,7 +2,7 @@
 id: dZI0QnswXoLTWZqiwu4KS
 title: How to be a Metamodern “Thought Leader” wtf
 desc: ''
-updated: 1639759165171
+updated: 1639759645919
 created: 1599516000000
 ---
 
@@ -32,6 +32,10 @@ To keep up-to-date on what is happening at The Stoa: https://thestoa.substack.co
 - #leader
 
 ## Topics
+
+
+
+## Series
 
 
 

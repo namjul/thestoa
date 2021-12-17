@@ -2,7 +2,7 @@
 id: Sp8_9CYbJ1BfnZROKrTky
 title: Myth & Mayhem
 desc: ' A Leftist Critique of Jordan Peterson'
-updated: 1639759165177
+updated: 1639759645921
 created: 1591048800000
 ---
 
@@ -40,4 +40,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 
 - #topics.leftist-critique
 - #topics.jordan-peterson
+
+## Series
+
+
 

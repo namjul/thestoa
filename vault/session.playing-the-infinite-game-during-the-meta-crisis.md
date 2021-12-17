@@ -2,7 +2,7 @@
 id: ugIhBOvmtEyUZkh3uMZPs
 title: Playing the Infinite Game During the Meta-Crisis
 desc: ''
-updated: 1639759165166
+updated: 1639759645915
 created: 1592344800000
 ---
 
@@ -35,4 +35,8 @@ Support The Stoa @ patreon.com/the_stoa
 ## Topics
 
 - #topics.infinite-game
+
+## Series
+
+- [[series.playing-the-infinite-game-during-the-meta-crisis]]
 

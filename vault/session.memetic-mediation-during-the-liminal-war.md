@@ -2,7 +2,7 @@
 id: '-kTlNpk7Grln56Mwo__2U'
 title: Memetic Mediation During the Liminal War
 desc: ''
-updated: 1639759165172
+updated: 1639759645919
 created: 1586482173000
 ---
 
@@ -34,4 +34,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 
 - #topics.memetic-mediation
 - #topics.liminal-war
+
+## Series
+
+
 

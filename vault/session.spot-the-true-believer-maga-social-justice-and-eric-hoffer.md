@@ -2,7 +2,7 @@
 id: hkLAdFMY1FR3gxg0Ep0G7
 title: Spot the True Believer
 desc: ' MAGA, Social Justice, and Eric Hoffer'
-updated: 1639759165168
+updated: 1639759645917
 created: 1593727200000
 ---
 
@@ -39,4 +39,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 - #topics.true-believer
 - #topics.social-justice
 - #topics.eric-hoffer
+
+## Series
+
+
 

@@ -2,7 +2,7 @@
 id: i1tP9wlyslmGVM-cXT_cq
 title: Election Meditation
 desc: ''
-updated: 1639759165172
+updated: 1639759645919
 created: 1604358000000
 ---
 
@@ -36,4 +36,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.election-meditation
+
+## Series
+
+
 

@@ -2,7 +2,7 @@
 id: tBXml8NtlR1dPEmm4jKJ-
 title: The Problems with the Sensemaking Scene
 desc: ''
-updated: 1639759165169
+updated: 1639759645918
 created: 1603839600000
 ---
 
@@ -43,4 +43,8 @@ thestoa.substack.com
 ## Topics
 
 - #topics.sensemaking-scene
+
+## Series
+
+
 

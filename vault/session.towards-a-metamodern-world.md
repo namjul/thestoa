@@ -2,7 +2,7 @@
 id: JdtSz4gLAgPWov-8Qh7Gu
 title: Towards a Metamodern World
 desc: ''
-updated: 1639759165165
+updated: 1639759645915
 created: 1589234400000
 ---
 
@@ -34,4 +34,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.metamodern-world
+
+## Series
+
+
 

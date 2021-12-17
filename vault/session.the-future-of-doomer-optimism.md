@@ -2,7 +2,7 @@
 id: Hr6KO7yKWjsnJed2vM6br
 title: The Future of Doomer Optimism
 desc: ''
-updated: 1639759165166
+updated: 1639759645916
 created: 1628546400000
 ---
 
@@ -35,4 +35,8 @@ Support The Stoa: patreon.com/the_stoa
 ## Topics
 
 - #topics.doomer-optimism
+
+## Series
+
+
 

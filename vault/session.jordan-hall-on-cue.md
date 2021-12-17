@@ -2,7 +2,7 @@
 id: gxu9hhtEZv-8X9qRhz546
 title: Jordan Hall
 desc: ' On Cue '
-updated: 1639759165175
+updated: 1639759645920
 created: 1585452785000
 ---
 
@@ -34,4 +34,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.stoa-moments
+
+## Series
+
+- [[series.jordan-hall]]
 

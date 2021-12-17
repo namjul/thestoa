@@ -2,7 +2,7 @@
 id: eejgtVy7ZO_mVk_5bjl8_
 title: Radical Honesty During a Pandemic
 desc: ''
-updated: 1639759165164
+updated: 1639759645914
 created: 1589779353000
 ---
 
@@ -34,4 +34,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.radical-honesty
+
+## Series
+
+
 

@@ -2,7 +2,7 @@
 id: 5kkFRh7UNqgigRtykDbHX
 title: Psychotechnology Playground
 desc: ''
-updated: 1639759165176
+updated: 1639759645921
 created: 1595266375000
 ---
 
@@ -33,4 +33,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 ## Topics
 
 - #topics.psychotechnology-playground
+
+## Series
+
+- [[series.psychotechnology-playground]]
 

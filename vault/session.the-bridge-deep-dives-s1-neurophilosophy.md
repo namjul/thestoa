@@ -2,7 +2,7 @@
 id: AsygIgP102UU9RApX8-91
 title: The Bridge
 desc: ' Deep-Dives. S1. Neurophilosophy'
-updated: 1639759165165
+updated: 1639759645915
 created: 1578092400000
 ---
 
@@ -46,4 +46,8 @@ thestoa.substack.com
 ## Topics
 
 
+
+## Series
+
+- [[series.the-bridge]]
 

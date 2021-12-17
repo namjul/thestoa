@@ -2,7 +2,7 @@
 id: 5HuUsFWCS9fznvVTwXjWE
 title: The Bridge
 desc: ' Rationality to "Woo"'
-updated: 1639759165166
+updated: 1639759645916
 created: 1607122800000
 ---
 
@@ -44,4 +44,8 @@ thestoa.substack.com
 ## Topics
 
 
+
+## Series
+
+- [[series.the-bridge]]
 

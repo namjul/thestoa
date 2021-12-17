@@ -2,7 +2,7 @@
 id: 1hcgZz52tlnsjHHLMgKLF
 title: The Dark Stoa
 desc: ' Game B - Autocults'
-updated: 1639759165165
+updated: 1639759645915
 created: 1591308000000
 ---
 
@@ -35,4 +35,8 @@ The Stoa is based on the gift economy. You can give us a gift here: www.thestoa.
 
 - #topics.dark-stoa
 - #topics.game-b
+
+## Series
+
+- [[series.the-dark-stoa]]
 
