@@ -1,9 +1,9 @@
 ---
-id: xZqcgPgBXNkXgTcmXRA1c
+id: xkmYtdixBghkoGUGkOd2l
 title: The Stoa
 desc: ''
-updated: 1639762693840
-created: 1639762693840
+updated: 1643723096345
+created: 1643723096345
 ---
 
 
@@ -13,6 +13,20 @@ https://www.thestoa.ca/
 
 | Date        | [[session]]   |
 | ----------- | : -----------:|
+| Thu Jan 27 2022 | [[session.afterlife-is-there-consciousness-after-death]] | 
+| Mon Jan 24 2022 | [[session.don't-look-up!-the-meta-crisis-is-not-in-the-sky]] | 
+| Thu Jan 20 2022 | [[session.embodiment-hour-an-initiation-to-game-b]] | 
+| Tue Jan 18 2022 | [[session.an-initiation-to-game-b]] | 
+| Mon Jan 17 2022 | [[session.game-b-dialogos]] | 
+| Fri Jan 14 2022 | [[session.social-alchemy-transmuting-social-awkwardness-into-social-art]] | 
+| Thu Jan 13 2022 | [[session.embodiment-hour]] | 
+| Tue Jan 11 2022 | [[session.living-at-your-knife's-edge-the-wisdom-of-extreme-sports]] | 
+| Tue Jan 04 2022 | [[session.liminal-web3]] | 
+| Thu Dec 30 2021 | [[session.new-year-who-dis]] | 
+| Thu Dec 30 2021 | [[session.getting-things-done-in-2022]] | 
+| Mon Dec 20 2021 | [[session.the-virus-and-the-machine]] | 
+| Mon Dec 20 2021 | [[session.the-liminal-web]] | 
+| Fri Dec 17 2021 | [[session.steamology-steaming-towards-authentic-connections]] | 
 | Wed Dec 15 2021 | [[session.the-authentic-relating-movement]] | 
 | Mon Dec 13 2021 | [[session.homestead-incubator-a-class-for-resilience-and-community]] | 
 | Thu Dec 09 2021 | [[session.metamodernity-versus-metamodernism]] | 
@@ -32,6 +46,7 @@ https://www.thestoa.ca/
 | Tue Nov 23 2021 | [[session.the-way-forward-beyond-the-dysfunctions-of-modern-culture-part-2]] | 
 | Thu Nov 18 2021 | [[session.building-the-wisdom-age]] | 
 | Wed Nov 17 2021 | [[session.origins-of-the-self-part-2-from-mine-and-me-to-i-and-we]] | 
+| Wed Nov 17 2021 | [[session.moneywork]] | 
 | Mon Nov 15 2021 | [[session.polarity-management]] | 
 | Fri Nov 12 2021 | [[session.sex-dating-and-why-modern-relationships-are-so-fucked-up]] | 
 | Thu Nov 11 2021 | [[session.becoming-a-weirdtrepreneur]] | 
@@ -258,6 +273,7 @@ https://www.thestoa.ca/
 | Sat Nov 21 2020 | [[session.men-and-women-the-future-of-love-sex-and-friendship-2]] | 
 | Thu Nov 19 2020 | [[session.high-pitch-conversations-in-a-new-key-3]] | 
 | Thu Nov 19 2020 | [[session.earth-regeneration-1]] | 
+| Wed Nov 18 2020 | [[session.sensefully-sensemaking-the-hollow-session-2]] | 
 | Wed Nov 18 2020 | [[session.who-vouches-for-you]] | 
 | Tue Nov 17 2020 | [[session.ontological-design]] | 
 | Tue Nov 17 2020 | [[session.identifying-communication-gaps]] | 
@@ -396,6 +412,8 @@ https://www.thestoa.ca/
 | Fri Jul 17 2020 | [[session.the-dark-stoa-demon-hunting]] | 
 | Wed Jul 15 2020 | [[session.psychotechnology-playground-1]] | 
 | Wed Jul 15 2020 | [[session.inner-genius-and-collective-initiation]] | 
+| Wed Jul 15 2020 | [[session.the-meta-crisis-of-the-meta-crisis]] | 
+| Tue Jul 14 2020 | [[session.alphadom]] | 
 | Sat Jul 11 2020 | [[session.social-meditation]] | 
 | Fri Jul 10 2020 | [[session.the-dark-stoa-neuromythology]] | 
 | Thu Jul 09 2020 | [[session.the-psychotechnology-playground-7]] | 
@@ -467,6 +485,7 @@ https://www.thestoa.ca/
 | Wed May 13 2020 | [[session.unanswered-questions]] | 
 | Wed May 13 2020 | [[session.concept-unfolding]] | 
 | Tue May 12 2020 | [[session.towards-a-metamodern-world]] | 
+| Tue May 12 2020 | [[session.against-the-web-a-cosmopolitan-answer-to-the-new-right]] | 
 | Mon May 11 2020 | [[session.stoic-meaningwave]] | 
 | Mon May 11 2020 | [[session.collective-presencing-a-practice]] | 
 | Mon May 11 2020 | [[session.monastic-conversations-0]] | 
@@ -507,6 +526,7 @@ https://www.thestoa.ca/
 | Sat Apr 04 2020 | [[session.philosophy-the-practice-for-death-and-dying]] | 
 | Fri Apr 03 2020 | [[session.covid-19-a-war-broke-out-in-heaven]] | 
 | Fri Apr 03 2020 | [[session.the-dark-stoa-the-covid-trolley]] | 
+| Thu Apr 02 2020 | [[session.daemon-death-and-being-visited-by-a-god]] | 
 | Wed Apr 01 2020 | [[session.a-stoic-training-program]] | 
 | Tue Mar 31 2020 | [[session.jim-rutt-be-brave]] | 
 | Tue Mar 31 2020 | [[session.overcoming-bias-during-covid-19-considering-deliberate-infection]] | 

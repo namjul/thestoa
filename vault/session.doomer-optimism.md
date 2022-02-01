@@ -2,7 +2,7 @@
 id: OmIklADRHcRtIyv8GU2jm
 title: Doomer Optimism
 desc: ''
-updated: 1639762693846
+updated: 1643723096349
 created: 1620165600000
 ---
 

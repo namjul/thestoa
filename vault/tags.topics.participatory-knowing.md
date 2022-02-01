@@ -2,7 +2,7 @@
 id: ICbBtqpNiyJs0ZB719TcF
 title: Participatory Knowing
 desc: ''
-updated: 1639762693857
-created: 1639762693857
+updated: 1643723096356
+created: 1643723096356
 ---
 

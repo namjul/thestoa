@@ -2,7 +2,7 @@
 id: vsAI6h-Xv3oefXZQQRRbk
 title: Post-Consumerist Praxis
 desc: ''
-updated: 1639762693860
-created: 1639762693860
+updated: 1643723096356
+created: 1643723096356
 ---
 

@@ -2,8 +2,8 @@
 id: 4vR6S3slvMmpXl_4OeQkL
 title: Deep Code Dialogos
 desc: ''
-updated: 1639762693870
-created: 1639762693870
+updated: 1643723096372
+created: 1643723096372
 ---
 
 - [[Deep Code Dialogos:  Session 2|session.deep-code-dialogos-session-2]]

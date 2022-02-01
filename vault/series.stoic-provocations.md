@@ -2,8 +2,8 @@
 id: q9zYc_KO0A4N1RzqRIxY2
 title: Stoic Provocations
 desc: ''
-updated: 1639762693870
-created: 1639762693870
+updated: 1643723096373
+created: 1643723096373
 ---
 
 - [[Stoic Provocations:  The Problem With Social Science|session.stoic-provocations-the-problem-with-social-science]]

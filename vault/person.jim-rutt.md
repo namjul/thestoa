@@ -2,10 +2,10 @@
 id: Vokhl__Eg9YRXtqXuDhhZ
 title: Jim Rutt
 desc: ''
-updated: 1639762693852
-created: 1639762693852
+updated: 1643723096353
+created: 1643723096353
 ---
 
 
 - [[person]] - Jim Rutt
-- appeared 3x at the stoa
+- appeared 4x at the stoa

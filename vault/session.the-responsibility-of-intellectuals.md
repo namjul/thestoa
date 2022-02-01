@@ -2,7 +2,7 @@
 id: cd_pTASACfo-YsFFK-axM
 title: The Responsibility of Intellectuals
 desc: ''
-updated: 1639762693842
+updated: 1643723096347
 created: 1605481200000
 ---
 

@@ -2,7 +2,7 @@
 id: d1RLuid-Ry3hrCwHQ5vvE
 title: Stoic Provocations
 desc: ' Deepfake It Until We Make It'
-updated: 1639762693846
+updated: 1643723096350
 created: 1606690800000
 ---
 

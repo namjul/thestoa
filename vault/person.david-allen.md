@@ -2,10 +2,10 @@
 id: EZvoKZBWwtOggAcd27x70
 title: David Allen
 desc: ''
-updated: 1639762693850
-created: 1639762693850
+updated: 1643723096352
+created: 1643723096352
 ---
 
 
 - [[person]] - David Allen
-- appeared 1x at the stoa
+- appeared 2x at the stoa

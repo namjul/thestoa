@@ -2,7 +2,7 @@
 id: zcwQ1T9AJv7Fygwk_f_Sx
 title: A Systems Approach To Resilient Lifestyle Design
 desc: ''
-updated: 1639762693841
+updated: 1643723096346
 created: 1612825200000
 ---
 

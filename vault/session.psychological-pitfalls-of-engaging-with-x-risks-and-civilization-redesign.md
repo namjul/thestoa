@@ -2,7 +2,7 @@
 id: IqULUYJSWMDlHfW0HQpyQ
 title: Psychological Pitfalls of Engaging With X-Risks & Civilization Redesign
 desc: ''
-updated: 1639762693840
+updated: 1643723096346
 created: 1623293582000
 ---
 

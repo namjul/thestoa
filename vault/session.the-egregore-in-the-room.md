@@ -2,7 +2,7 @@
 id: WEiOZqgUKpMCTlFeXGcUD
 title: The Egregore in the Room
 desc: ''
-updated: 1639762693844
+updated: 1643723096348
 created: 1621461600000
 ---
 

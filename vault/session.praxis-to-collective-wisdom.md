@@ -2,7 +2,7 @@
 id: 55dQmTDE_28OL01reDNsx
 title: Praxis to Collective Wisdom
 desc: ''
-updated: 1639762693845
+updated: 1643723096349
 created: 1598479200000
 ---
 

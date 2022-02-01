@@ -2,7 +2,7 @@
 id: bTyajJ5yBUq6bfJvhNm6H
 title: Situational Assessment About The Stoa
 desc: ''
-updated: 1639762693842
+updated: 1643723096347
 created: 1616281200000
 ---
 

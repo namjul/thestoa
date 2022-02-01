@@ -2,7 +2,7 @@
 id: xGqmQfmTcgF4XX2cm_E0n
 title: Naturalising Sense-making
 desc: ' Cynefin Framework'
-updated: 1639762693844
+updated: 1643723096348
 created: 1599084000000
 ---
 

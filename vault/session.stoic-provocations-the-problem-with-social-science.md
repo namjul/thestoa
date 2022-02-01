@@ -2,7 +2,7 @@
 id: WK92olaiCSBgqdsHFJVVV
 title: Stoic Provocations
 desc: ' The Problem With Social Science'
-updated: 1639762693844
+updated: 1643723096348
 created: 1604271600000
 ---
 

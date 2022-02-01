@@ -2,7 +2,7 @@
 id: xv_IQ9bOMrEoYZFXqJW7C
 title: Chuck Chakrapani - How to Be a Stoic When You Don't Know How
 desc: ''
-updated: 1639762693841
+updated: 1643723096346
 created: 1567893600000
 ---
 

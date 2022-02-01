@@ -2,7 +2,7 @@
 id: t-zeoIefi4OUBHHtAa4_o
 title: Sensefully Sensemaking the Hollow
 desc: ' Session 1'
-updated: 1639762693847
+updated: 1643723096350
 created: 1604967293000
 ---
 
@@ -35,5 +35,5 @@ thestoa.substack.com
 
 ## Series
 
-
+- [[series.sensefully-sensemaking-the-hollow]]
 

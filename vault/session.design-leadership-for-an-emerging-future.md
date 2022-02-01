@@ -2,7 +2,7 @@
 id: Kv8K5FwEzbfu-Tx1aAcQT
 title: Design Leadership for an Emerging Future
 desc: ''
-updated: 1639762693845
+updated: 1643723096349
 created: 1620165600000
 ---
 

@@ -2,7 +2,7 @@
 id: y9pV93KVhxxY6BuqoRLB8
 title: 'Metaphysics, Philosophy, Civilization Design, and Various High Arts'
 desc: ' Session 4'
-updated: 1639762693847
+updated: 1643723096350
 created: 1609110000000
 ---
 

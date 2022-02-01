@@ -2,7 +2,7 @@
 id: sjNKs_iKi-uEj4jsFBarl
 title: Metamodernity Versus Metamodernism
 desc: ''
-updated: 1639762693847
+updated: 1643723096350
 created: 1639004400000
 ---
 

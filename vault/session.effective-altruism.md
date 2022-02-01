@@ -2,7 +2,7 @@
 id: 5DoScZIS9vMelvLxszfjb
 title: Effective Altruism
 desc: ''
-updated: 1639762693847
+updated: 1643723096350
 created: 1603058400000
 ---
 

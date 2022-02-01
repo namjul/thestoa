@@ -2,10 +2,10 @@
 id: qXJySDYg4291W9-GWtRSj
 title: Daniel Schmachtenberger
 desc: ''
-updated: 1639762693849
-created: 1639762693849
+updated: 1643723096352
+created: 1643723096352
 ---
 
 
 - [[person]] - Daniel Schmachtenberger
-- appeared 10x at the stoa
+- appeared 11x at the stoa

@@ -2,8 +2,8 @@
 id: Ou0DDEdRQoxjv68Ni9L4j
 title: Collective Presencing
 desc: ''
-updated: 1639762693871
-created: 1639762693871
+updated: 1643723096373
+created: 1643723096373
 ---
 
 - [[Collective Presencing:  A Conversation|session.collective-presencing-a-conversation]]

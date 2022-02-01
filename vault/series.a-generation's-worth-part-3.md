@@ -2,8 +2,8 @@
 id: vXSP54UpfzPxeBbavRp9_
 title: A Generation’s Worth Part 3
 desc: ''
-updated: 1639762693870
-created: 1639762693870
+updated: 1643723096372
+created: 1643723096372
 ---
 
 - [[A Generation’s Worth Part 1:  Die Wise|session.a-generation's-worth-part-1-die-wise]]

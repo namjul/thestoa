@@ -2,7 +2,7 @@
 id: nUIZwrJ4N2UZF3nMdx21G
 title: The High Weirdness of COVID
 desc: ''
-updated: 1639762693841
+updated: 1643723096346
 created: 1591826400000
 ---
 

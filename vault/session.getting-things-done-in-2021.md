@@ -2,7 +2,7 @@
 id: FNT215-WGy_YJaQms09xT
 title: Getting Things Done in 2021
 desc: ''
-updated: 1639762693841
+updated: 1643723096346
 created: 1608591600000
 ---
 
@@ -37,5 +37,5 @@ thestoa.substack.com
 
 ## Series
 
-
+- [[series.getting-things-done-in-2021]]
 

@@ -2,7 +2,7 @@
 id: _XX2_QCVn3vZiPjCIFaIp
 title: Bio Emotive Framework  An Introduction
 desc: ''
-updated: 1639762693843
+updated: 1643723096348
 created: 1591308000000
 ---
 

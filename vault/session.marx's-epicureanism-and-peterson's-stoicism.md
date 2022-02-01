@@ -2,7 +2,7 @@
 id: '-MUthg49kk5u0fWNDD6jc'
 title: Marx's Epicureanism and Peterson's Stoicism
 desc: ''
-updated: 1639762693847
+updated: 1643723096350
 created: 1592258400000
 ---
 

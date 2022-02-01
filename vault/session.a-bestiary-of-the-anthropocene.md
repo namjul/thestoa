@@ -2,7 +2,7 @@
 id: WPG9K2zO6fN7W_be_TmrQ
 title: A Bestiary of the Anthropocene
 desc: ''
-updated: 1639762693846
+updated: 1643723096350
 created: 1623621600000
 ---
 

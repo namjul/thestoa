@@ -2,7 +2,7 @@
 id: 45U-4PxtB7pcCPRcrhGW8
 title: Settler Sexualities
 desc: ''
-updated: 1639762693846
+updated: 1643723096350
 created: 1604617200000
 ---
 

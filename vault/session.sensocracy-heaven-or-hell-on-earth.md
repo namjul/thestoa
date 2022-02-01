@@ -2,7 +2,7 @@
 id: PqfZJ_pBEI87SI94_Qcc2
 title: Sensocracy
 desc: ' Heaven or Hell on Earth?'
-updated: 1639762693844
+updated: 1643723096348
 created: 1605135600000
 ---
 

@@ -2,8 +2,8 @@
 id: aAXluqzfn7DbeLuXUF8w9
 title: Derrick Jensen
 desc: ''
-updated: 1639762693849
-created: 1639762693849
+updated: 1643723096352
+created: 1643723096352
 ---
 
 

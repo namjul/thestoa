@@ -2,7 +2,7 @@
 id: 9CeNz9a0Ei3bVBsQw-tjT
 title: 'Anti-Social Virtue, or Cynical Enlightenment'
 desc: ''
-updated: 1639762693847
+updated: 1643723096350
 created: 1589407200000
 ---
 

@@ -2,7 +2,7 @@
 id: u_A4PXBSjnS2reXnkN9w-
 title: Ultraworking Ethos
 desc: ''
-updated: 1639762693844
+updated: 1643723096349
 created: 1608591600000
 ---
 

@@ -2,7 +2,7 @@
 id: 0NVzzQtfkRaMdDHP3Li8f
 title: Mental Models
 desc: ' Relationships'
-updated: 1639762693845
+updated: 1643723096349
 created: 1599170400000
 ---
 

@@ -2,7 +2,7 @@
 id: 8QkR66rG-lokWNSIABeDf
 title: The Contemplative's Socrates
 desc: ''
-updated: 1639762693846
+updated: 1643723096350
 created: 1598302352000
 ---
 

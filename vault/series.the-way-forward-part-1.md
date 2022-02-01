@@ -2,8 +2,8 @@
 id: KzTliHvgrPXRx0sddI1lm
 title: The Way Forward Part 1
 desc: ''
-updated: 1639762693871
-created: 1639762693871
+updated: 1643723096373
+created: 1643723096373
 ---
 
 - [[The Way Forward Part 1:  Savvy About Psychodynamics|session.the-way-forward-beyond-the-dysfunctions-of-modern-culture-part-1]]

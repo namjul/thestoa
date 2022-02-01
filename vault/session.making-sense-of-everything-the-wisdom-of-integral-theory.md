@@ -2,7 +2,7 @@
 id: GXuoXf8jqefUUFnxC7u9d
 title: Making Sense of Everything
 desc: ' The Wisdom of Integral Theory'
-updated: 1639762693842
+updated: 1643723096347
 created: 1637881200000
 ---
 

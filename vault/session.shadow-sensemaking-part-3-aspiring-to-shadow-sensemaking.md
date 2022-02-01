@@ -2,7 +2,7 @@
 id: h6yQz1CSA4N9Pz4COwzAz
 title: Shadow Sensemaking Part 3
 desc: ' Aspiring to Shadow Sensemaking'
-updated: 1639762693847
+updated: 1643723096350
 created: 1622066400000
 ---
 

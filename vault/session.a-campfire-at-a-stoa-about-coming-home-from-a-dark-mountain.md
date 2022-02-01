@@ -2,7 +2,7 @@
 id: DbGkRzdgGInE6e3j4YQ68
 title: A Campfire at a Stoa About Coming HOME From a Dark Mountain
 desc: ''
-updated: 1639762693844
+updated: 1643723096348
 created: 1625695200000
 ---
 

@@ -2,7 +2,7 @@
 id: tBXml8NtlR1dPEmm4jKJ-
 title: The Problems with the Sensemaking Scene
 desc: ''
-updated: 1639762693845
+updated: 1643723096349
 created: 1603839600000
 ---
 

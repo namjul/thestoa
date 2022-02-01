@@ -2,7 +2,7 @@
 id: Cmv725G6v93coxz-Sjai7
 title: John Vervaeke - The View from Above
 desc: ' A Transformation of Perspectival and Participatory Knowing'
-updated: 1639762693841
+updated: 1643723096346
 created: 1567893600000
 ---
 

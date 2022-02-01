@@ -2,7 +2,7 @@
 id: cY-VFiwvdCt5uTrWLzTMK
 title: Verbal Aikido Mini-Practicum Part 3
 desc: ' Channeling the Attack'
-updated: 1639762693845
+updated: 1643723096349
 created: 1620597600000
 ---
 

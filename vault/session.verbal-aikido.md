@@ -2,7 +2,7 @@
 id: veqQ9gZna8x9zusfLl2NY
 title: Verbal Aikido
 desc: ''
-updated: 1639762693845
+updated: 1643723096349
 created: 1608260397000
 ---
 

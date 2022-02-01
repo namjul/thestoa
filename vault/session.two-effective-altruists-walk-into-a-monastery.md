@@ -2,7 +2,7 @@
 id: bmM2tDefiZ4yKV3VCWFQH
 title: Two Effective Altruists Walk Into a Monastery
 desc: ''
-updated: 1639762693845
+updated: 1643723096349
 created: 1631138400000
 ---
 

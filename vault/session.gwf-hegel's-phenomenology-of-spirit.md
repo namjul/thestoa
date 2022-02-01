@@ -2,7 +2,7 @@
 id: UhcRO0m_FnGzsVq-XDU-5
 title: G.W.F. Hegel’s Phenomenology of Spirit
 desc: ''
-updated: 1639762693842
+updated: 1643723096347
 created: 1638140400000
 ---
 

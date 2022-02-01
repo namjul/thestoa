@@ -2,7 +2,7 @@
 id: _ktQB6i6XfWhgd5xnRkJY
 title: Stoic Fortitude
 desc: ' On Failure and Failing'
-updated: 1639762693849
+updated: 1643723096351
 created: 1585541380000
 ---
 

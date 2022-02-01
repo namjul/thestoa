@@ -2,7 +2,7 @@
 id: G84n6gN9pmh-A-agU7-2w
 title: Naturalising Sense-making
 desc: ' Series Finale'
-updated: 1639762693843
+updated: 1643723096348
 created: 1599084000000
 ---
 
