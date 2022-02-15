@@ -1,9 +1,9 @@
 ---
-id: xkmYtdixBghkoGUGkOd2l
+id: 5p9DLbmQUUc5nO4YZ8kgj
 title: The Stoa
 desc: ''
-updated: 1643723096345
-created: 1643723096345
+updated: 1644961726943
+created: 1644961726943
 ---
 
 
@@ -13,6 +13,10 @@ https://www.thestoa.ca/
 
 | Date        | [[session]]   |
 | ----------- | : -----------:|
+| Thu Feb 10 2022 | [[session.reality-distortion-fields-and-unconscious-mind-dynamics]] | 
+| Tue Feb 08 2022 | [[session.the-memetic-tribes-of-the-meta-crisis]] | 
+| Tue Feb 01 2022 | [[session.game-b-a-dark-renaissance-response]] | 
+| Tue Feb 01 2022 | [[session.astrological-sensemaking-blueprint-of-the-soul]] | 
 | Thu Jan 27 2022 | [[session.afterlife-is-there-consciousness-after-death]] | 
 | Mon Jan 24 2022 | [[session.don't-look-up!-the-meta-crisis-is-not-in-the-sky]] | 
 | Thu Jan 20 2022 | [[session.embodiment-hour-an-initiation-to-game-b]] | 

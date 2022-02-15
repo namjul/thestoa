@@ -2,7 +2,7 @@
 id: ICxhV9NSqgImM6Xp_eEho
 title: Intuition and Anticipation in Navigating Complexity
 desc: ''
-updated: 1643723096346
+updated: 1644961726944
 created: 1622412000000
 ---
 

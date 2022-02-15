@@ -2,7 +2,7 @@
 id: DSNX1vo_QPzSYnIAEn3hD
 title: Metamodernism
 desc: ' The Future of Theory'
-updated: 1643723096351
+updated: 1644961726950
 created: 1639004400000
 ---
 

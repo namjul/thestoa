@@ -2,7 +2,7 @@
 id: eYDsoVu42b5CuNtSQIze0
 title: Conflict = Energy
 desc: ' The Transformative Practice of Authentic Relating'
-updated: 1643723096349
+updated: 1644961726948
 created: 1622498400000
 ---
 

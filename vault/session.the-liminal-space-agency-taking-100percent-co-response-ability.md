@@ -2,7 +2,7 @@
 id: DU3kVNbHX4xsHJ4ngae4X
 title: The Liminal Space Agency
 desc: ' Taking 100% Co-Response-Ability'
-updated: 1643723096350
+updated: 1644961726948
 created: 1626818400000
 ---
 

@@ -2,7 +2,7 @@
 id: stG52uh5wdU5jDusoGe11
 title: Monastic Conversations
 desc: ''
-updated: 1643723096350
+updated: 1644961726948
 created: 1589148000000
 ---
 

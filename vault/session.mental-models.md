@@ -2,7 +2,7 @@
 id: LJOwSxwvU7uvk1z-1REGD
 title: Mental Models
 desc: ''
-updated: 1643723096347
+updated: 1644961726945
 created: 1599170400000
 ---
 

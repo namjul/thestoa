@@ -2,7 +2,7 @@
 id: 5XySp00tokaGSsQiIgZt5
 title: Stoic Provocations
 desc: ' If We Keep Telling Ourselves Stories We Are Fucked'
-updated: 1643723096350
+updated: 1644961726949
 created: 1604962800000
 ---
 

@@ -2,7 +2,7 @@
 id: 4RgJR5rdt1GrfgNANax8r
 title: Stoic Virtue Ethics
 desc: ''
-updated: 1643723096349
+updated: 1644961726947
 created: 1620597600000
 ---
 

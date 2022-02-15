@@ -2,8 +2,8 @@
 id: '-GefnN6Q3sK8dZHuirRBh'
 title: Broadcasting in the Sensemaking Web
 desc: ''
-updated: 1643723096373
-created: 1643723096373
+updated: 1644961726973
+created: 1644961726973
 ---
 
 - [[Broadcasting in the Sensemaking Web:  An Un-Masterclass|session.broadcasting-in-the-sensemaking-web-an-un-masterclass-1]]

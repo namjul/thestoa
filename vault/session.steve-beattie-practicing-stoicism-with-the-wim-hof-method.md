@@ -2,7 +2,7 @@
 id: polZfnxZjGELF9lh8HPIq
 title: Steve Beattie - Practicing Stoicism with the Wim Hof Method
 desc: ''
-updated: 1643723096348
+updated: 1644961726946
 created: 1567893600000
 ---
 

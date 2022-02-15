@@ -2,7 +2,7 @@
 id: NoOKX7yRKbckLFKJwjDc1
 title: The Future of the Left
 desc: ''
-updated: 1643723096346
+updated: 1644961726943
 created: 1624831200000
 ---
 

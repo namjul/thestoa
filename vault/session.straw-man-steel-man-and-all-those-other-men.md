@@ -2,7 +2,7 @@
 id: kFSy0dSyDEb-mulT0MPGj
 title: 'Straw Man, Steel Man, and All Those Other Men'
 desc: ''
-updated: 1643723096350
+updated: 1644961726949
 created: 1622498400000
 ---
 

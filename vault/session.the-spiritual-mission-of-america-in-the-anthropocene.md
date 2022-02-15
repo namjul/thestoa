@@ -2,7 +2,7 @@
 id: cMmb5BM2wu7qkOvu6UCHS
 title: The Spiritual Mission of America in the Anthropocene
 desc: ''
-updated: 1643723096351
+updated: 1644961726951
 created: 1601330400000
 ---
 

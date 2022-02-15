@@ -2,7 +2,7 @@
 id: IKA0v9CfM2V-LX9fEWz0e
 title: The Dark Stoa
 desc: ' Alchemical Cognition'
-updated: 1643723096348
+updated: 1644961726946
 created: 1593727200000
 ---
 

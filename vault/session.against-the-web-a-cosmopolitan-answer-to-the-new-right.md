@@ -2,7 +2,7 @@
 id: aWkCvX9fhv4gIQuLryoC0
 title: Against the Web
 desc: ' A Cosmopolitan Answer to the New Right'
-updated: 1643723096352
+updated: 1644961726951
 created: 1589234400000
 ---
 

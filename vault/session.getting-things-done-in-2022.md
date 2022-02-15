@@ -2,7 +2,7 @@
 id: SiDqlQG7AZaB5KJoymoJR
 title: Getting Things Done in 2022
 desc: ''
-updated: 1643723096351
+updated: 1644961726951
 created: 1640818800000
 ---
 

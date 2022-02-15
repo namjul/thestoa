@@ -2,7 +2,7 @@
 id: YW0NnX3nC842MclpC2BgF
 title: The Theory of Neural Annealing
 desc: ''
-updated: 1643723096347
+updated: 1644961726945
 created: 1623016800000
 ---
 

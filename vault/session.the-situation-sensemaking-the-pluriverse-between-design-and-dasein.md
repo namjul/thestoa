@@ -2,7 +2,7 @@
 id: 50wWEJKW_2uuN4Vh297-7
 title: The Situation
 desc: ' Sensemaking the Pluriverse Between Design and Dasein'
-updated: 1643723096349
+updated: 1644961726948
 created: 1615158000000
 ---
 

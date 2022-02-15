@@ -2,7 +2,7 @@
 id: Hr6KO7yKWjsnJed2vM6br
 title: The Future of Doomer Optimism
 desc: ''
-updated: 1643723096348
+updated: 1644961726945
 created: 1628546400000
 ---
 

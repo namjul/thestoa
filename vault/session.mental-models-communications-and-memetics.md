@@ -2,7 +2,7 @@
 id: Oc1rCWBIURA8RLWSiXWEx
 title: Mental Models
 desc: ' Communications and Memetics'
-updated: 1643723096351
+updated: 1644961726950
 created: 1599170400000
 ---
 

@@ -2,7 +2,7 @@
 id: TyRwOLG3kH_hamTmoMATH
 title: Health Index
 desc: ' A Hypothetical Index to Assess the Health of a Society'
-updated: 1643723096346
+updated: 1644961726943
 created: 1622584800000
 ---
 

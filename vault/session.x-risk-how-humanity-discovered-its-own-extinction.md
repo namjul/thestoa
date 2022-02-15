@@ -2,7 +2,7 @@
 id: CH2wBkokmLiraOzFbFrxq
 title: X-Risk
 desc: ' How Humanity Discovered Its Own Extinction'
-updated: 1643723096348
+updated: 1644961726946
 created: 1615849200000
 ---
 

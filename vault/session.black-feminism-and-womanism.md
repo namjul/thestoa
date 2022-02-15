@@ -2,7 +2,7 @@
 id: 75OTbDqwJtcMmfpDqoDif
 title: Black Feminism and Womanism
 desc: ''
-updated: 1643723096350
+updated: 1644961726949
 created: 1618869600000
 ---
 

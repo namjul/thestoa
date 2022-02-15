@@ -2,7 +2,7 @@
 id: pMWgzpUv11COsZRI2m551
 title: COVID-19 and Metamodernism
 desc: ' A Commentary'
-updated: 1643723096347
+updated: 1644961726945
 created: 1587091180000
 ---
 

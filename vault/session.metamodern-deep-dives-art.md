@@ -2,7 +2,7 @@
 id: qg4EonjVQu8Ssms3oqonQ
 title: Metamodern Deep-Dives
 desc: ' Art'
-updated: 1643723096349
+updated: 1644961726948
 created: 1601848800000
 ---
 

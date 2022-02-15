@@ -2,7 +2,7 @@
 id: TBtlHM9JSOiQmR4kacZhD
 title: Embodied Book Club
 desc: ' Collective Presencing'
-updated: 1643723096350
+updated: 1644961726948
 created: 1601676000000
 ---
 

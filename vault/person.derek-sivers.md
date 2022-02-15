@@ -2,8 +2,8 @@
 id: kjE7s7vsay7D-muM3oFDq
 title: Derek Sivers
 desc: ''
-updated: 1643723096352
-created: 1643723096352
+updated: 1644961726953
+created: 1644961726953
 ---
 
 

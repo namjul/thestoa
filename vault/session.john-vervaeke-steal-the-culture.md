@@ -2,7 +2,7 @@
 id: REm33fVfip3R5p3uPPYC9
 title: John Vervaeke
 desc: ' Steal the Culture '
-updated: 1643723096346
+updated: 1644961726943
 created: 1585431143000
 ---
 

@@ -2,7 +2,7 @@
 id: U8Wvhp2cUOVkh0gJv5yzJ
 title: Rebelling with Data
 desc: ' The Future of Information'
-updated: 1643723096351
+updated: 1644961726951
 created: 1592181153000
 ---
 

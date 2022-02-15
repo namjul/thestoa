@@ -2,7 +2,7 @@
 id: Dceq8hD1TkEjqiMFnbZD4
 title: Homestead Incubator
 desc: ' A Class for Resilience and Community'
-updated: 1643723096351
+updated: 1644961726951
 created: 1639350000000
 ---
 

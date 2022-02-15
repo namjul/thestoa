@@ -2,7 +2,7 @@
 id: KgA_eTrB28-xdQLECVqgA
 title: Metamodern Stoicism
 desc: ''
-updated: 1643723096346
+updated: 1644961726944
 created: 1598306400000
 ---
 

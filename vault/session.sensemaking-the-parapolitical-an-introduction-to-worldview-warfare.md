@@ -2,7 +2,7 @@
 id: PTav21tYRGh285XQm7NwG
 title: Sensemaking the Parapolitical
 desc: ' An Introduction to Worldview Warfare'
-updated: 1643723096351
+updated: 1644961726950
 created: 1632348000000
 ---
 

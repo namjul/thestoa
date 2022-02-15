@@ -2,7 +2,7 @@
 id: 497Ao2TAa9P_CEIeLFQFf
 title: Cultural Somatics
 desc: ''
-updated: 1643723096349
+updated: 1644961726948
 created: 1608159600000
 ---
 

@@ -2,7 +2,7 @@
 id: X0dL325aXTu3kVuO5FGU0
 title: Shadow Sensemaking Part 1
 desc: ' What Is the Shadow?'
-updated: 1643723096347
+updated: 1644961726945
 created: 1620770400000
 ---
 

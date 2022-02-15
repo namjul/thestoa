@@ -2,7 +2,7 @@
 id: 2j-ZB553p_uXm00zff1Tv
 title: 'Part Moon, Part Traveling Salesman'
 desc: ' On the Enduring Relevance of Ivan Illich'
-updated: 1643723096348
+updated: 1644961726946
 created: 1635112800000
 ---
 

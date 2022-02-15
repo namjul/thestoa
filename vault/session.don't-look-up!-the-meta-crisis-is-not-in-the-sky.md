@@ -2,7 +2,7 @@
 id: R2K3TidpOJMvpm9JrDEN0
 title: Don’t Look Up! The Meta-Crisis Is Not in the Sky
 desc: ''
-updated: 1643723096352
+updated: 1644961726951
 created: 1642978800000
 ---
 

@@ -2,7 +2,7 @@
 id: licDjZdubZqBHAUP8hAAc
 title: Modern Monastic Practice as a Solution to Existential Risk
 desc: ''
-updated: 1643723096350
+updated: 1644961726948
 created: 1634767200000
 ---
 

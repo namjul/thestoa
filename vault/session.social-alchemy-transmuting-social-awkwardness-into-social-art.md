@@ -2,7 +2,7 @@
 id: MaMn4oKv0UQtNyUHORdFL
 title: Social Alchemy
 desc: ' Transmuting Social Awkwardness into Social Art'
-updated: 1643723096351
+updated: 1644961726951
 created: 1642114800000
 ---
 

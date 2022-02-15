@@ -2,7 +2,7 @@
 id: rBnrKEyZnZi1wZQX4pywM
 title: Surrendered Leadership
 desc: ''
-updated: 1643723096348
+updated: 1644961726946
 created: 1600725600000
 ---
 

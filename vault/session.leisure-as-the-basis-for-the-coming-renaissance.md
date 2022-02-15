@@ -2,7 +2,7 @@
 id: lElGu4uVmoAZkaVrUQZBb
 title: Leisure as the Basis for the Coming Renaissance
 desc: ''
-updated: 1643723096350
+updated: 1644961726948
 created: 1587592800000
 ---
 

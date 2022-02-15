@@ -2,7 +2,7 @@
 id: ajZrLPsJf32cwvH3HlB4o
 title: Social Design Club @The Stoa
 desc: ''
-updated: 1643723096349
+updated: 1644961726948
 created: 1593554400000
 ---
 

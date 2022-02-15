@@ -2,7 +2,7 @@
 id: CsvZ3WYjLbYdr01Pyc58Q
 title: How to Be an Anarchist
 desc: ''
-updated: 1643723096351
+updated: 1644961726951
 created: 1600725600000
 ---
 

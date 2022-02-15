@@ -2,7 +2,7 @@
 id: 2kpkGoUocHhwbxtG-7kfC
 title: The Fourth Political Theory
 desc: ''
-updated: 1643723096347
+updated: 1644961726945
 created: 1600639200000
 ---
 

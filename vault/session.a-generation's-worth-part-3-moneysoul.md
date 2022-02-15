@@ -2,7 +2,7 @@
 id: w3-GXSw6Qrz4dqesvV4nS
 title: A Generation’s Worth Part 3
 desc: ' Money/Soul'
-updated: 1643723096346
+updated: 1644961726944
 created: 1629410400000
 ---
 

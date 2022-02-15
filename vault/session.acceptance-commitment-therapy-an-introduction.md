@@ -2,7 +2,7 @@
 id: d5e-ECFpSK_MzRgi0KYB0
 title: Acceptance Commitment Therapy
 desc: ' An Introduction'
-updated: 1643723096351
+updated: 1644961726950
 created: 1607900400000
 ---
 

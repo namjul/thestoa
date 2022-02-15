@@ -2,8 +2,8 @@
 id: aZxzC9gIYuy-K8I5rfh3r
 title: Situational Assessment
 desc: ''
-updated: 1643723096372
-created: 1643723096373
+updated: 1644961726973
+created: 1644961726973
 ---
 
 - [[Situational Assessment:  Riot Edition|session.situational-assessment-riot-edition]]

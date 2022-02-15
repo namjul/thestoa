@@ -2,7 +2,7 @@
 id: P0lceKq383-UAwQ8o7Cwc
 title: Breaking the Polarity Spell by Casting the Choice Spell
 desc: ''
-updated: 1643723096348
+updated: 1644961726946
 created: 1638821383000
 ---
 

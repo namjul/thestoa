@@ -2,8 +2,8 @@
 id: RW0PsGb8CIgkUo_MOhV5E
 title: The Bridge
 desc: ''
-updated: 1643723096372
-created: 1643723096372
+updated: 1644961726973
+created: 1644961726973
 ---
 
 - [[The Bridge:  Deep-Dives. S1. Neurophilosophy|session.the-bridge-deep-dives-s1-neurophilosophy]]

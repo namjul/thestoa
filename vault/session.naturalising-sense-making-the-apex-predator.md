@@ -2,7 +2,7 @@
 id: buNj8GoFjzdAFDXNASLWG
 title: Naturalising Sense-making
 desc: ' The Apex Predator'
-updated: 1643723096346
+updated: 1644961726944
 created: 1599084000000
 ---
 

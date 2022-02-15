@@ -2,7 +2,7 @@
 id: 0Wyh8tTrNKllPnAANnuTV
 title: Collective Presencing
 desc: ' A Practice'
-updated: 1643723096351
+updated: 1644961726951
 created: 1589155088000
 ---
 

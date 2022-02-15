@@ -2,7 +2,7 @@
 id: 2RGCXgZvixbqz-OSdTnDO
 title: The Politics of Waking Up
 desc: ' Power and Possibility in the Fractal Age'
-updated: 1643723096348
+updated: 1644961726946
 created: 1624312800000
 ---
 

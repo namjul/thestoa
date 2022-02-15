@@ -2,7 +2,7 @@
 id: i8pmGbAGPzjxRNVPnzTcu
 title: The Bridge
 desc: ' Deep-Dives. S2. Embodied Practice'
-updated: 1643723096349
+updated: 1644961726947
 created: 1610319600000
 ---
 

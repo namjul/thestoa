@@ -2,7 +2,7 @@
 id: L0nSX4XlWxfcUbJyci87s
 title: The Meta Crisis of the Meta Crisis
 desc: ''
-updated: 1643723096352
+updated: 1644961726951
 created: 1594764000000
 ---
 

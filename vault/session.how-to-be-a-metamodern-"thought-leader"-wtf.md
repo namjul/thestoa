@@ -2,7 +2,7 @@
 id: dZI0QnswXoLTWZqiwu4KS
 title: How to be a Metamodern “Thought Leader” wtf
 desc: ''
-updated: 1643723096350
+updated: 1644961726949
 created: 1599516000000
 ---
 

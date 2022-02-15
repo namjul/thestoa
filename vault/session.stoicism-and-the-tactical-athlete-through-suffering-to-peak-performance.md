@@ -2,7 +2,7 @@
 id: MZfwcg0Y-tCvD3lz_ri6A
 title: Stoicism and the Tactical Athlete
 desc: ' Through Suffering to Peak Performance'
-updated: 1643723096349
+updated: 1644961726947
 created: 1626127200000
 ---
 

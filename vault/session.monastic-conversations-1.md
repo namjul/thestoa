@@ -2,7 +2,7 @@
 id: _I9H3khmC03HFN7WPdZTx
 title: Monastic Conversations
 desc: ''
-updated: 1643723096349
+updated: 1644961726948
 created: 1606258800000
 ---
 

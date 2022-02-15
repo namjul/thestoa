@@ -2,7 +2,7 @@
 id: ugIhBOvmtEyUZkh3uMZPs
 title: Playing the Infinite Game During the Meta-Crisis
 desc: ''
-updated: 1643723096347
+updated: 1644961726945
 created: 1592344800000
 ---
 

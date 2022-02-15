@@ -2,7 +2,7 @@
 id: Co-qhwL2BDlGsg4LumSbz
 title: Resolving the Meta-Crisis With Emergent Movements and Post-Consumerist Praxis
 desc: ''
-updated: 1643723096347
+updated: 1644961726944
 created: 1630533600000
 ---
 

@@ -2,7 +2,7 @@
 id: akFO7_K761BWwqOiXWpvg
 title: An Initiation to Game B
 desc: ''
-updated: 1643723096351
+updated: 1644961726951
 created: 1642460427000
 ---
 

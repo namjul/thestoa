@@ -2,7 +2,7 @@
 id: 4Tu5lPDzTW-I8cf_yCKZO
 title: The Regenerative Movement
 desc: ' Rise of Doomer Optimism'
-updated: 1643723096347
+updated: 1644961726944
 created: 1615417200000
 ---
 

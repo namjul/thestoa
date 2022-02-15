@@ -2,7 +2,7 @@
 id: PBOUeigk2_Q7iSfSFphDq
 title: A Theory of Knowledge for the 21st Century
 desc: ''
-updated: 1643723096348
+updated: 1644961726946
 created: 1589407200000
 ---
 

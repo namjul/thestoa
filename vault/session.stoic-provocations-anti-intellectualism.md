@@ -2,7 +2,7 @@
 id: SuvovBZ5s4BCp59tLk6uV
 title: Stoic Provocations
 desc: ' Anti-Intellectualism'
-updated: 1643723096350
+updated: 1644961726950
 created: 1607986800000
 ---
 

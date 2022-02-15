@@ -2,8 +2,8 @@
 id: eDqUkOlIB_oWsR0e0mxNW
 title: The Way Forward Beyond the Dysfunctions of Modern Culture Part 1
 desc: ''
-updated: 1643723096372
-created: 1643723096372
+updated: 1644961726973
+created: 1644961726973
 ---
 
 - [[The Way Forward Part 1:  Savvy About Psychodynamics|session.the-way-forward-beyond-the-dysfunctions-of-modern-culture-part-1]]

@@ -2,7 +2,7 @@
 id: 65iNPIIpOmxWsNl8IXtDR
 title: Maybe the End of The Stoa Party
 desc: ''
-updated: 1643723096349
+updated: 1644961726947
 created: 1616281200000
 ---
 

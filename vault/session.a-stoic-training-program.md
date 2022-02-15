@@ -2,7 +2,7 @@
 id: Auvf9ylFJHIcv6UxolU_j
 title: A Stoic Training Program
 desc: ''
-updated: 1643723096350
+updated: 1644961726950
 created: 1585701179000
 ---
 

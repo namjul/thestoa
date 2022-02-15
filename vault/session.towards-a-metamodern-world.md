@@ -2,7 +2,7 @@
 id: JdtSz4gLAgPWov-8Qh7Gu
 title: Towards a Metamodern World
 desc: ''
-updated: 1643723096347
+updated: 1644961726945
 created: 1589234400000
 ---
 

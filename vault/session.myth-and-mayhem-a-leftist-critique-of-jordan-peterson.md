@@ -2,7 +2,7 @@
 id: Sp8_9CYbJ1BfnZROKrTky
 title: Myth & Mayhem
 desc: ' A Leftist Critique of Jordan Peterson'
-updated: 1643723096351
+updated: 1644961726951
 created: 1591048800000
 ---
 

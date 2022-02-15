@@ -2,7 +2,7 @@
 id: M_4wzN-seQENfGwFcbHn3
 title: Jordan Hall
 desc: ' Initiation and Right Relationship '
-updated: 1643723096351
+updated: 1644961726951
 created: 1585454550000
 ---
 

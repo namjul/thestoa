@@ -2,7 +2,7 @@
 id: OKhmppHojoVjWIAoWyFHz
 title: 'Slow Down, Calm Down, Scale Down, and Step Down'
 desc: ''
-updated: 1643723096347
+updated: 1644961726945
 created: 1608505200000
 ---
 

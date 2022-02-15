@@ -2,7 +2,7 @@
 id: BEq4XVEgxudN6i6CEXrem
 title: The Philosophy of the Unabomber
 desc: ''
-updated: 1643723096347
+updated: 1644961726944
 created: 1633298400000
 ---
 

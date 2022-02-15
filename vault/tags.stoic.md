@@ -2,7 +2,7 @@
 id: 5Szj43BSusn_hEFdMzMJv
 title: Stoic
 desc: ''
-updated: 1643723096356
-created: 1643723096356
+updated: 1644961726957
+created: 1644961726957
 ---
 

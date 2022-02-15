@@ -2,7 +2,7 @@
 id: pK4qKgDOKxk7L48qx6pGW
 title: The Meta-Crisis as a Forcing Function for Sovereignty
 desc: ''
-updated: 1643723096346
+updated: 1644961726944
 created: 1635110420000
 ---
 

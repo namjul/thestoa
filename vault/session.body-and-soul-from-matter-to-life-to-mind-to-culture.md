@@ -2,7 +2,7 @@
 id: nGQUuAFh2X6py0WlT3Q1t
 title: Body and Soul
 desc: ' From Matter to Life to Mind to Culture'
-updated: 1643723096347
+updated: 1644961726945
 created: 1612134000000
 ---
 

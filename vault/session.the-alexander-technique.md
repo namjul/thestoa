@@ -2,7 +2,7 @@
 id: qvwiHlBoid4ARM78t5U6P
 title: The Alexander Technique
 desc: ''
-updated: 1643723096346
+updated: 1644961726944
 created: 1601071200000
 ---
 

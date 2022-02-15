@@ -2,7 +2,7 @@
 id: FNT215-WGy_YJaQms09xT
 title: Getting Things Done in 2021
 desc: ''
-updated: 1643723096346
+updated: 1644961726944
 created: 1608591600000
 ---
 

@@ -2,7 +2,7 @@
 id: ilTDm9GFWDkTO85-GkpK_
 title: Solarpunk
 desc: ' A Narrative Strategy, a Memetic Engine'
-updated: 1643723096347
+updated: 1644961726945
 created: 1629151200000
 ---
 

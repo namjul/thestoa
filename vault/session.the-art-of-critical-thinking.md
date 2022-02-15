@@ -2,7 +2,7 @@
 id: zd145ZAR7rrGwW3BHksoM
 title: The Art of Critical Thinking
 desc: ''
-updated: 1643723096349
+updated: 1644961726947
 created: 1630965600000
 ---
 

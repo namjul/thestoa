@@ -2,7 +2,7 @@
 id: 5WvNviZfvQeXhUEuuaxX9
 title: Body and Soul
 desc: ' Values as Energetic Transcendence'
-updated: 1643723096348
+updated: 1644961726946
 created: 1612738800000
 ---
 

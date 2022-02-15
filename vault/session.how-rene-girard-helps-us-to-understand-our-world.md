@@ -2,7 +2,7 @@
 id: aqQQkQqPOdkxk2ONOPgz7
 title: How René Girard Helps Us to Understand Our World
 desc: ''
-updated: 1643723096348
+updated: 1644961726946
 created: 1579388400000
 ---
 

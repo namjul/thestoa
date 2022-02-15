@@ -2,7 +2,7 @@
 id: RtoP0iD6clUJDG0ag4NxK
 title: Becoming a Weirdtrepreneur
 desc: ''
-updated: 1643723096350
+updated: 1644961726949
 created: 1636585200000
 ---
 

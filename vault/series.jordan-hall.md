@@ -2,8 +2,8 @@
 id: gYmS2tmVTVKYngdKEYpMG
 title: Jordan Hall
 desc: ''
-updated: 1643723096373
-created: 1643723096373
+updated: 1644961726973
+created: 1644961726973
 ---
 
 - [[Jordan Hall:  On Cue |session.jordan-hall-on-cue]]

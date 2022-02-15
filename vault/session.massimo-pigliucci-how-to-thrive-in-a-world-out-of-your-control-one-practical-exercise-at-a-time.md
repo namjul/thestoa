@@ -4,7 +4,7 @@ title: >-
   Massimo Pigliucci - How to Thrive in a World out of Your Control, One
   Practical Exercise at a Time
 desc: ''
-updated: 1643723096346
+updated: 1644961726944
 created: 1567893600000
 ---
 

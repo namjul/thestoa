@@ -2,8 +2,8 @@
 id: GpBmxH-01cbU81nueQXen
 title: Metamodern Deep-Dives
 desc: ''
-updated: 1643723096373
-created: 1643723096373
+updated: 1644961726973
+created: 1644961726973
 ---
 
 - [[Metamodern Deep-Dives:  Spirituality|session.metamodern-deep-dives-spirituality]]

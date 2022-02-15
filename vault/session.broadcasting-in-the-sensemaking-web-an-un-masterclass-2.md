@@ -2,7 +2,7 @@
 id: zER-0Ga1m5ax5lj6k9gWr
 title: Broadcasting in the Sensemaking Web
 desc: ' An Un-Masterclass'
-updated: 1643723096350
+updated: 1644961726950
 created: 1608159600000
 ---
 

@@ -2,7 +2,7 @@
 id: Mdu9K4ncbVHPMqPnNsFpu
 title: Enlightenment Transmission
 desc: ' Experience First, Understand Later'
-updated: 1643723096348
+updated: 1644961726946
 created: 1634940000000
 ---
 

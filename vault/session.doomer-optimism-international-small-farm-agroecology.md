@@ -2,7 +2,7 @@
 id: IgS6Ts_BeSxQTJhI_EIZR
 title: Doomer Optimism
 desc: ' International Small Farm Agroecology'
-updated: 1643723096346
+updated: 1644961726944
 created: 1625695200000
 ---
 

@@ -2,8 +2,8 @@
 id: dUTK_U_l54VDVKQ3RITYC
 title: Doomer Optimism
 desc: ''
-updated: 1643723096372
-created: 1643723096372
+updated: 1644961726973
+created: 1644961726973
 ---
 
 - [[Doomer Optimism:  International Small Farm Agroecology|session.doomer-optimism-international-small-farm-agroecology]]

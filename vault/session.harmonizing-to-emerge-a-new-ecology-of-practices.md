@@ -2,7 +2,7 @@
 id: 3vXP9CmYRhjoP9Oy5TKrF
 title: Harmonizing to Emerge
 desc: ' A New Ecology of Practices'
-updated: 1643723096348
+updated: 1644961726946
 created: 1633644000000
 ---
 
