@@ -1,0 +1,6 @@
+---
+name: Vajrayana
+slug: vajrayana
+---
+
+

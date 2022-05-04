@@ -1,0 +1,6 @@
+---
+name: McLuhan
+slug: mcluhan
+---
+
+

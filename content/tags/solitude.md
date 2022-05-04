@@ -1,0 +1,6 @@
+---
+name: Solitude
+slug: solitude
+---
+
+

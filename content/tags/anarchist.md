@@ -1,0 +1,6 @@
+---
+name: Anarchist
+slug: anarchist
+---
+
+

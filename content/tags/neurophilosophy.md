@@ -1,0 +1,6 @@
+---
+name: Neurophilosophy
+slug: neurophilosophy
+---
+
+

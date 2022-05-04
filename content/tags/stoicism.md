@@ -1,0 +1,6 @@
+---
+name: Stoicism
+slug: stoicism
+---
+
+

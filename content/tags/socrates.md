@@ -1,0 +1,6 @@
+---
+name: Socrates
+slug: socrates
+---
+
+

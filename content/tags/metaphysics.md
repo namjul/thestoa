@@ -1,0 +1,6 @@
+---
+name: Metaphysics
+slug: metaphysics
+---
+
+

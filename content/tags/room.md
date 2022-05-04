@@ -1,0 +1,6 @@
+---
+name: Room
+slug: room
+---
+
+

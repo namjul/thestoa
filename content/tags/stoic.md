@@ -1,0 +1,6 @@
+---
+name: Stoic
+slug: stoic
+---
+
+

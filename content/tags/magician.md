@@ -1,0 +1,6 @@
+---
+name: Magician
+slug: magician
+---
+
+

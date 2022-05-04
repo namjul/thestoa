@@ -1,0 +1,6 @@
+---
+name: Mind
+slug: mind
+---
+
+

@@ -1,0 +1,6 @@
+---
+name: Adventures
+slug: adventures
+---
+
+

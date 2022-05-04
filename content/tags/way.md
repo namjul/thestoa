@@ -1,0 +1,6 @@
+---
+name: Way
+slug: way
+---
+
+

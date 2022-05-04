@@ -1,0 +1,6 @@
+---
+name: Warrior
+slug: warrior
+---
+
+

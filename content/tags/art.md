@@ -1,0 +1,6 @@
+---
+name: Art
+slug: art
+---
+
+

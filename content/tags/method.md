@@ -1,0 +1,6 @@
+---
+name: Method
+slug: method
+---
+
+

@@ -1,0 +1,6 @@
+---
+name: Technocracy
+slug: technocracy
+---
+
+

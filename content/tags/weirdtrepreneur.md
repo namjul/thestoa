@@ -1,0 +1,6 @@
+---
+name: Weirdtrepreneur
+slug: weirdtrepreneur
+---
+
+

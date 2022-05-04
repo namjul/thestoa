@@ -1,0 +1,6 @@
+---
+name: Spirituality
+slug: spirituality
+---
+
+

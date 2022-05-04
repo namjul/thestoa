@@ -1,0 +1,6 @@
+---
+name: Nietzsche
+slug: nietzsche
+---
+
+

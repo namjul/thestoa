@@ -1,0 +1,6 @@
+---
+name: Pandemics
+slug: pandemics
+---
+
+

@@ -1,0 +1,6 @@
+---
+name: Inflation
+slug: inflation
+---
+
+

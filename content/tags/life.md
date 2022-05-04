@@ -1,0 +1,6 @@
+---
+name: Life
+slug: life
+---
+
+

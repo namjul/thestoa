@@ -1,0 +1,6 @@
+---
+name: Egregores
+slug: egregores
+---
+
+

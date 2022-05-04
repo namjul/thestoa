@@ -1,0 +1,6 @@
+---
+name: Responsibility
+slug: responsibility
+---
+
+

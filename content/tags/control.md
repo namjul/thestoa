@@ -1,0 +1,6 @@
+---
+name: Control
+slug: control
+---
+
+

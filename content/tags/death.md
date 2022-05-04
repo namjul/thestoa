@@ -1,0 +1,6 @@
+---
+name: Death
+slug: death
+---
+
+

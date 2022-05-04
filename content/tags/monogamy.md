@@ -1,0 +1,6 @@
+---
+name: Monogamy
+slug: monogamy
+---
+
+

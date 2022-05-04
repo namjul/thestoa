@@ -1,0 +1,6 @@
+---
+name: Monastery
+slug: monastery
+---
+
+

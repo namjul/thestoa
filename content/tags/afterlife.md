@@ -1,0 +1,6 @@
+---
+name: Afterlife
+slug: afterlife
+---
+
+

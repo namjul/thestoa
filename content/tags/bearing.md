@@ -1,0 +1,6 @@
+---
+name: Bearing
+slug: bearing
+---
+
+
