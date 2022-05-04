@@ -1,9 +1,6 @@
 ---
+name: High Pitch
 slug: high-pitch
----
-
-
-high-pitch
 ---
 
 

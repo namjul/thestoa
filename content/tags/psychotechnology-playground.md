@@ -1,9 +1,6 @@
 ---
+name: Psychotechnology Playground
 slug: psychotechnology-playground
----
-
-
-psychotechnology-playground
 ---
 
 

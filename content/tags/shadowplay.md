@@ -1,9 +1,6 @@
 ---
+name: Shadowplay
 slug: shadowplay
----
-
-
-shadowplay
 ---
 
 

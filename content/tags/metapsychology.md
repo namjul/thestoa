@@ -1,9 +1,6 @@
 ---
+name: Metapsychology
 slug: metapsychology
----
-
-
-metapsychology
 ---
 
 

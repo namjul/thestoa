@@ -1,9 +1,6 @@
 ---
+name: Mental Models
 slug: mental-models
----
-
-
-mental-models
 ---
 
 

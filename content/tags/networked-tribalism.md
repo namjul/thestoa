@@ -1,9 +1,6 @@
 ---
+name: Networked Tribalism
 slug: networked-tribalism
----
-
-
-networked-tribalism
 ---
 
 

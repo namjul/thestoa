@@ -1,9 +1,6 @@
 ---
+name: Situational Assessment
 slug: situational-assessment
----
-
-
-situational-assessment
 ---
 
 

@@ -1,9 +1,6 @@
 ---
+name: STCWD
 slug: stcwd
----
-
-
-stcwd
 ---
 
 

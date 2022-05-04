@@ -1,9 +1,6 @@
 ---
+name: John Vervaeke
 slug: john-vervaeke
----
-
-
-john-vervaeke
 ---
 
 

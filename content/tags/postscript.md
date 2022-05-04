@@ -1,9 +1,6 @@
 ---
+name: Postscript
 slug: postscript
----
-
-
-postscript
 ---
 
 

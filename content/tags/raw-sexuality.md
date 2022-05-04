@@ -1,9 +1,6 @@
 ---
+name: Raw Sexuality
 slug: raw-sexuality
----
-
-
-raw-sexuality
 ---
 
 

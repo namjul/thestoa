@@ -1,9 +1,6 @@
 ---
+name: Ontological Design
 slug: ontological-design
----
-
-
-ontological-design
 ---
 
 

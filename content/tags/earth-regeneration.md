@@ -1,9 +1,6 @@
 ---
+name: Earth Regeneration
 slug: earth-regeneration
----
-
-
-earth-regeneration
 ---
 
 

@@ -1,9 +1,6 @@
 ---
+name: Collective Intelligence
 slug: collective-intelligence
----
-
-
-collective-intelligence
 ---
 
 

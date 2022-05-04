@@ -1,9 +1,6 @@
 ---
+name: Doomer Optimism
 slug: doomer-optimism
----
-
-
-doomer-optimism
 ---
 
 

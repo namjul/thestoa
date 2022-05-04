@@ -1,9 +1,6 @@
 ---
+name: Jordan Hall
 slug: jordan-hall
----
-
-
-jordan-hall
 ---
 
 

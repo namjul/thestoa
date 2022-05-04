@@ -1,9 +1,6 @@
 ---
+name: Stoic Provocations
 slug: stoic-provocations
----
-
-
-stoic-provocations
 ---
 
 
