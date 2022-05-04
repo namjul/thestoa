@@ -159,21 +159,21 @@ ${body}
   })
 );
 
-// files.push(
-//   ...Object.values(entities.series).map((serie) => {
-//     const { hash, name, slug } = serie;
-//
-//     return {
-//       fname: `content/posts/${slug}.mdx`,
-//       frontmatter: {
-//         title: name,
-//         date: new Date().toISOString(),
-//         slug: slug,
-//         tags: [{ tag: seriesTagId }, { tag: getSeriesId(hash) }],
-//       },
-//     };
-//   })
-// );
+files.push(
+  ...Object.values(entities.series).map((serie) => {
+    const { hash, name, slug } = serie;
+
+    return {
+      fname: `content/posts/${slug}.mdx`,
+      frontmatter: {
+        title: name,
+        date: new Date().toISOString(),
+        slug: slug,
+        tags: [{ tag: seriesTagId }, { tag: getSeriesId(hash) }],
+      },
+    };
+  })
+);
 
 // pages
 files.push({
