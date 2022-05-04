@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "npx zx ./scripts/build.mjs",
-    "postbuild": "npx dendron importPod --podId dendron.json --wsRoot .",
-    "export": "npx dendron publish export"
+    "build:dendron": "npx zx ./scripts/build-dendron.mjs && npx dendron importPod --podId dendron.json --wsRoot .",
+    "export:dendron": "npx dendron publish export"
   },
   "author": "",
   "license": "ISC",
