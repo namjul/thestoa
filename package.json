@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "npx zx ./scripts/build.mjs",
+    "build:gspenst": "npx zx ./scripts/build-gspenst.mjs",
     "build:dendron": "npx zx ./scripts/build-dendron.mjs && npx dendron importPod --podId dendron.json --wsRoot .",
     "export:dendron": "npx dendron publish export"
   },
