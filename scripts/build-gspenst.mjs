@@ -65,10 +65,10 @@ const seriesTagId = "content/tags/series.md";
 
 files.push(
   ...Object.values(entities.tags).map((tag) => {
-    const { value, slug } = tag;
+    const { value, slug, hash } = tag;
 
     return {
-      fname: `content/tags/${slug}.md`,
+      fname: getTagId(hash),
       frontmatter: {
         name: value,
         slug: slug,
@@ -79,10 +79,10 @@ files.push(
 
 files.push(
   ...Object.values(entities.series).map((serie) => {
-    const { value, slug } = serie;
+    const { value, slug, hash } = serie;
 
     return {
-      fname: `content/tags/${slug}.md`,
+      fname: getSeriesId(hash),
       frontmatter: {
         name: value,
         slug: slug,
@@ -110,11 +110,13 @@ files.push(
     const authors = personHashes.map((personHash) => ({
       author: getAuthorId(personHash),
     }));
-    const tagsSet = new Set([sessionTagId]
-      .concat(...tagHashes.map((tagHash) => getTagId(tagHash)))
-      .concat(...seriesHashes.map((seriesHash) => getSeriesId(seriesHash))))
+    const tagsSet = new Set(
+      [sessionTagId]
+        .concat(...tagHashes.map((tagHash) => getTagId(tagHash)))
+        .concat(...seriesHashes.map((seriesHash) => getSeriesId(seriesHash)))
+    );
 
-    const tags = Array.from(tagsSet).map(tag => ({ tag }))
+    const tags = Array.from(tagsSet).map((tag) => ({ tag }));
 
     return {
       fname: `content/posts/${slug}.mdx`,
@@ -124,7 +126,7 @@ files.push(
         date: new Date(created).toISOString(),
         slug: slug,
         authors,
-        tags
+        tags,
       },
       content: body,
     };
@@ -133,11 +135,7 @@ files.push(
 
 files.push(
   ...Object.values(entities.series).map((serie) => {
-    const {
-      hash,
-      name,
-      slug,
-    } = serie;
+    const { hash, name, slug } = serie;
 
     return {
       fname: `content/posts/${slug}.mdx`,
@@ -145,11 +143,36 @@ files.push(
         title: name,
         date: new Date().toISOString(),
         slug: slug,
-        tags: [{ tag: seriesTagId }, { tag: getSeriesId(hash) }]
+        tags: [{ tag: seriesTagId }, { tag: getSeriesId(hash) }],
       },
     };
   })
 );
 
+// paes
+files.push({
+  fname: "content/pages/home.mdx",
+  frontmatter: {
+    title: "The Stoa",
+    date: new Date().toISOString(),
+    slug: "the-stoa",
+  },
+  content: 'https://www.thestoa.ca/'
+});
+
 console.log("Saving Gspenst Notes...");
 await fs.writeJson("./gspenst-notes.json", files);
+
+console.log("Generate Gspenst Contents...");
+
+files.forEach(({ fname, frontmatter, content }) => {
+  fs.outputFile(
+    path.resolve(fname),
+    `---
+${YAML.stringify(frontmatter).trimEnd()}
+---
+
+${content ?? ""}
+`
+  );
+});
