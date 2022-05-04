@@ -41,16 +41,16 @@ function getSessionId(sessionHash) {
 }
 
 function getAuthorId(personHash) {
-  return `content/author/${entities.persons[personHash].slug}.md`;
+  return `content/authors/${entities.persons[personHash].slug}.md`;
 }
 
 // add authors
 files.push(
   ...Object.values(entities.persons).map((person) => {
-    const { value, slug } = person;
+    const { value, slug, hash } = person;
 
     return {
-      fname: `content/authors/${slug}.mdx`,
+      fname: getAuthorId(hash),
       frontmatter: {
         name: value,
         slug: slug,
@@ -62,6 +62,22 @@ files.push(
 // add tags
 const sessionTagId = "content/tags/session.md";
 const seriesTagId = "content/tags/series.md";
+
+files.push({
+  fname: sessionTagId,
+  frontmatter: {
+    name: "Session",
+    slug: "session",
+  },
+});
+
+files.push({
+  fname: seriesTagId,
+  frontmatter: {
+    name: "Series",
+    slug: "series",
+  },
+});
 
 files.push(
   ...Object.values(entities.tags).map((tag) => {
@@ -79,12 +95,12 @@ files.push(
 
 files.push(
   ...Object.values(entities.series).map((serie) => {
-    const { value, slug, hash } = serie;
+    const { name, slug, hash } = serie;
 
     return {
       fname: getSeriesId(hash),
       frontmatter: {
-        name: value,
+        name,
         slug: slug,
       },
     };
@@ -149,7 +165,7 @@ files.push(
   })
 );
 
-// paes
+// pages
 files.push({
   fname: "content/pages/home.mdx",
   frontmatter: {
@@ -157,7 +173,7 @@ files.push({
     date: new Date().toISOString(),
     slug: "the-stoa",
   },
-  content: 'https://www.thestoa.ca/'
+  content: "https://www.thestoa.ca/",
 });
 
 console.log("Saving Gspenst Notes...");
