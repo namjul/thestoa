@@ -141,7 +141,7 @@ files.push(
         excerpt: desc,
         date: new Date(created).toISOString(),
         slug: slug,
-        primary_author: (entities.persons[personHashes[0]] ?? {}).slug,
+        primary_author: (personHashes.map(pHash => entities.persons[pHash].slug)).join(', '),
         primary_tag: (entities.tags[tagHashes[0]] ?? {}).slug,
         authors,
         tags,
@@ -193,11 +193,19 @@ await fs.writeJson("./gspenst-notes.json", files);
 
 console.log("Generate Gspenst Contents...");
 
+const mapForNextra = (frontmatter) => ({
+  title: frontmatter.title ?? frontmatter.name ?? frontmatter.slug,
+  date: frontmatter.date ?? (new Date()).toISOString(),
+  description: frontmatter.excerpt,
+  tag: frontmatter.primary_tag,
+  author: frontmatter.primary_author,
+})
+
 files.forEach(({ fname, frontmatter, content }) => {
   fs.outputFile(
     path.resolve(fname),
     `---
-${YAML.stringify(frontmatter).trimEnd()}
+${YAML.stringify(mapForNextra(frontmatter)).trimEnd()}
 ---
 
 ${content ?? ""}
