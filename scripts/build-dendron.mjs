@@ -180,4 +180,4 @@ ${sessionHashes
 // ========================
 
 console.log("Saving Dendron Notes...");
-await fs.writeJson("./notes.json", dendronNotes);
+await fs.writeJson("./dendron-notes.json", dendronNotes);
