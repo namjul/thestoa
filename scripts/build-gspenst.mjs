@@ -123,16 +123,14 @@ files.push(
       rawTitle,
     } = session;
 
-    const authors = personHashes.map((personHash) => ({
-      author: getAuthorId(personHash),
-    }));
+    const persons = personHashes.map((pHash) => entities.persons[pHash])
+    const tags = tagHashes.map((tHash) => entities.tags[tHash])
+
     const tagsSet = new Set(
       [sessionTagId]
-        .concat(...tagHashes.map((tagHash) => getTagId(tagHash)))
+        .concat(...tags.map((tag) => getTagId(tag.hash)))
         .concat(...seriesHashes.map((seriesHash) => getSeriesId(seriesHash)))
     );
-
-    const tags = Array.from(tagsSet).map((tag) => ({ tag }));
 
     return {
       fname: `content/posts/${slug}.mdx`,
@@ -141,10 +139,10 @@ files.push(
         excerpt: desc,
         date: new Date(created).toISOString(),
         slug: slug,
-        primary_author: (personHashes.map(pHash => entities.persons[pHash].slug)).join(', '),
-        primary_tag: (entities.tags[tagHashes[0]] ?? {}).slug,
-        authors,
-        tags,
+        primary_author: (persons.map(person => person.slug)).join(', '),
+        primary_tag: (tags[0] ?? {}).slug,
+        authors: persons.map(person => ({ author: getAuthorId(person.hash) })),
+        tags: Array.from(tagsSet).map((tag) => ({ tag })),
       },
       content: `
 
