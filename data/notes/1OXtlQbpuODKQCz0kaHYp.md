@@ -1,0 +1,55 @@
+
+
+
+
+Mon Nov 30 2020
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bxhzh8gthsE" title="Becoming Dragon Shadow Integration Cards w/ Cris Beasley" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+
+November 30th, 2020
+
+Somatic trauma healer, Cris Beasley, visits The Stoa to discuss her new card deck: Becoming Dragon.
+
+"Chaos... as a kid we loved it. We ate up ghost stories and creepy villains.
+
+As an adult, when someone spoils how the movie ends we get pissed off. We want the excitement of finding out how the mystery turns out. Why then, in this moment do we grasp for certainty?
+
+Will it save us from the fear inside?
+
+We are told many lies about fear. I fell in every pothole created by these lies, and here’s what I know... The cure for the pain is in the pain. (Thanks, Rumi.)
+
+I’ve bumped my head on every rung of the ladder looking outside myself for certainty to escape that pain. I tried to outsource my sovereignty eight ways from Sunday – to healers, intuitives and exec coaches, and charismatic preachers. No, that didn’t work. I handed over my power to synchronicity to tell me what to do. No. I even found a way to over-rotate following my own damn ideas about how to be a “good” human.
+
+No, no, and no.
+
+How do you make the tough decisions in a time where nothing seems constant anymore, even the inside of your own head and heart?
+
+This calibration is done via your body. It’s the needle of the compass on your emotional and energetic GPS. My card deck, Becoming Dragon, gives you a playful way through the pain. Inside every dark emotion (envy, shame, fear, etc) there is a gift. This deck takes you on a treasure hunt instead of staying stuck and suffering.
+
+As Voodoo Donut says, “the magic is in the hole.”
+
+More: https://www.crisbeasley.com
+
+Why are the YouTube comments disabled? Answer: https://thestoa.substack.com/p/stoic-punk-or-why-you-should-stop
+
+thestoa.ca
+patreon.com/the_stoa
+thestoa.substack.com
+
+## Persons
+
+- [[person.cris-beasley]]
+
+## Tags
+
+
+
+## Topics
+
+- #topics.dragon-shadow
+- #topics.integration-cards
+
+## Series
+
+
+
