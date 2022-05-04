@@ -159,21 +159,21 @@ ${body}
   })
 );
 
-files.push(
-  ...Object.values(entities.series).map((serie) => {
-    const { hash, name, slug } = serie;
-
-    return {
-      fname: `content/posts/${slug}.mdx`,
-      frontmatter: {
-        title: name,
-        date: new Date().toISOString(),
-        slug: slug,
-        tags: [{ tag: seriesTagId }, { tag: getSeriesId(hash) }],
-      },
-    };
-  })
-);
+// files.push(
+//   ...Object.values(entities.series).map((serie) => {
+//     const { hash, name, slug } = serie;
+//
+//     return {
+//       fname: `content/posts/${slug}.mdx`,
+//       frontmatter: {
+//         title: name,
+//         date: new Date().toISOString(),
+//         slug: slug,
+//         tags: [{ tag: seriesTagId }, { tag: getSeriesId(hash) }],
+//       },
+//     };
+//   })
+// );
 
 // pages
 files.push({
@@ -199,11 +199,13 @@ const mapForNextra = (frontmatter) => ({
   author: frontmatter.primary_author,
 })
 
+const mapForGspenst = ({ primary_tag, primary_author, ...frontmatter }) => (frontmatter)
+
 files.forEach(({ fname, frontmatter, content }) => {
   fs.outputFile(
     path.resolve(fname),
     `---
-${YAML.stringify(mapForNextra(frontmatter)).trimEnd()}
+${YAML.stringify(mapForGspenst(frontmatter)).trimEnd()}
 ---
 
 ${content ?? ""}
