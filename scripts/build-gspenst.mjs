@@ -119,8 +119,8 @@ files.push(
       slug,
       body,
       created,
-      // youtubeId,
-      // rawTitle,
+      youtubeId,
+      rawTitle,
     } = session;
 
     const authors = personHashes.map((personHash) => ({
@@ -141,10 +141,22 @@ files.push(
         excerpt: desc,
         date: new Date(created).toISOString(),
         slug: slug,
+        primary_author: (entities.persons[personHashes[0]] ?? {}).slug,
+        primary_tag: (entities.tags[tagHashes[0]] ?? {}).slug,
         authors,
         tags,
       },
-      content: body,
+      content: `
+
+${desc ?? ""}
+
+${new Date(created).toDateString()}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/${youtubeId}" title="${rawTitle}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+
+${body}
+
+`,
     };
   })
 );
