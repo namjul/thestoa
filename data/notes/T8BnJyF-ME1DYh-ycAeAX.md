@@ -1,0 +1,45 @@
+
+
+ A View From the Existential Trenches
+
+Mon Aug 16 2021
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pYwxciScV9M" title="Collective Intelligence: A View From the Existential Trenches w/ John Thompson" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+
+August 16th, 2021
+
+We discovered a sense of Collective Intelligence as an unexpected by-product of leading Circling and Surrendered Leadership over the years. It's been magical experiencing it at work once a group has tipped into a strong coherence.
+
+Inspiration:
+
+- Life itself is self-organising towards greater flourishing.
+- High degrees of agency and communion support the phenomena of Collective Intelligence. 
+- How will intelligence manifest when we're present, willing and connected?
+- Walking the line between collective intelligence already being present and the reality that we can gather as a group and apply collective intelligence towards something. 
+- Is there a better way we can organise ourselves as Humans which Collective Intelligence is a key to? 
+- The intention to embody a wider range of polarities allows for the greatest potential within a group and helps us expand as individuals.
+
+Why are the YouTube comments disabled? Answer: https://thestoa.substack.com/p/stoic-punk-or-why-you-should-stop 
+
+More events: thestoa.ca 
+Regular updates: thestoa.substack.com 
+Support The Stoa: patreon.com/the_stoa 
+Receive coaching with resonance: https://www.thestoa.ca/coaches
+
+## Persons
+
+- [[person.john-thompson]]
+
+## Tags
+
+- #view
+
+## Topics
+
+- #topics.collective-intelligence
+- #topics.existential-trenches
+
+## Series
+
+- [[series.collective-intelligence]]
+
