@@ -54,6 +54,7 @@ files.push(
       frontmatter: {
         name: value,
         slug: slug,
+        date: new Date().toISOString(),
       },
     };
   })
@@ -68,6 +69,7 @@ files.push({
   frontmatter: {
     name: "Session",
     slug: "session",
+    date: new Date().toISOString(),
   },
 });
 
@@ -76,6 +78,7 @@ files.push({
   frontmatter: {
     name: "Series",
     slug: "series",
+    date: new Date().toISOString(),
   },
 });
 
@@ -88,6 +91,7 @@ files.push(
       frontmatter: {
         name: value,
         slug: slug,
+        date: new Date().toISOString(),
       },
     };
   })
@@ -102,6 +106,7 @@ files.push(
       frontmatter: {
         name,
         slug: slug,
+        date: new Date().toISOString(),
       },
     };
   })
@@ -119,8 +124,8 @@ files.push(
       slug,
       body,
       created,
-      youtubeId,
-      rawTitle,
+      // youtubeId,
+      // rawTitle,
     } = session;
 
     const persons = personHashes.map((pHash) => entities.persons[pHash])
@@ -149,8 +154,6 @@ files.push(
 ${desc ?? ""}
 
 ${new Date(created).toDateString()}
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/${youtubeId}" title="${rawTitle}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
 
 ${body}
 
